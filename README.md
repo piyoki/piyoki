@@ -56,7 +56,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️  [more blog posts...](https://codestackr.com)
+[More posts](https://hikariai.net)
 
 
 
