@@ -18,7 +18,7 @@
 
 ##### Languages
 
-> JaveScript, HTML, CSS, C, C++, #C, Python, JSON, Ruby
+> JaveScript, HTML, CSS, C, C++, #C, Python, JSON, Ruby, DB
 
 ##### Web Development
 
@@ -30,18 +30,17 @@
 
 ##### Container Orchestration
 
-Docker, Docker Swarm, Rancher (k3s), Kubernetes (k8s)
+> Docker, Docker Swarm, Rancher (k3s), Kubernetes (k8s)
 
 ##### Artificial Intelligence
 
-Computer Visuals, Scientific Computing, 
+> Computer Visuals, Scientific Computing, Model Training, Linear Regression
 
 ##### IoT Computing
 
-Raspberry Pi, ESP32, Arduino, Jetson Nano, Jetson AGX Xavier, Teensy
+> PWM Control, Motor Control, Lidar Control, Relay Control, Network Protocols
 
-<br />
-<br />
+> Raspberry Pi, ESP32, Arduino, Jetson Nano, Jetson AGX Xavier, Teensy
 
 ---
 
