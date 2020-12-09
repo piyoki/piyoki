@@ -24,13 +24,17 @@
 
 > NodeJS, ExpressJS, ReactJS, MongoDB, PostgreSQL
 
+##### CI/CD
+
+> Git, Gitlab, Jenkins
+
 ##### Cloud Computing
 
 > AWS, Google Cloud, Huawei Cloud, Oracle Cloud, AliCloud, Tencent Cloud, Bandwagon VPS Hosting
 
 ##### Container Orchestration
 
-> Docker, Docker Swarm, Rancher (k3s), Kubernetes (k8s)
+> Docker, Docker Swarm, Rancher (k3s), Kubernetes (k8s), Harbor (Private Container Repository)
 
 ##### Artificial Intelligence
 
