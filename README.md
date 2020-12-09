@@ -46,9 +46,7 @@
 
 > Raspberry Pi, ESP32, Arduino, Jetson Nano, Jetson AGX Xavier, Teensy
 
----
-
-### 📕  Latest Blog Posts
+## 📕  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Cloud-Native Solution: Build a Server Cluster with Docker Swarm](https://hikariai.net/cloud/docker-swarm/)
@@ -58,9 +56,9 @@
 - [TensorRT Object Detection (DetectNet + OpenCV)](https://hikariai.net/edge-ai/detectnet/)
 <!-- BLOG-POST-LIST:END -->
 
-[More posts](https://hikariai.net)
+<u>[More posts](https://hikariai.net)</u>
 
-### :zap: GitHub Stats
+## :zap: GitHub Stats
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yqlbu&show_icons=true&hide_border=true" />
 
