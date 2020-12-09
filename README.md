@@ -51,9 +51,11 @@
 ### 📕  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-
-
+- [Cloud-Native Solution: Build a Server Cluster with Docker Swarm](https://hikariai.net/cloud/docker-swarm/)
+- [Cross-architecture Kubernetes with Edge Devices Using Hybrid Cloud Strategy](https://hikariai.net/cloud/kubernetes-edge-deployment/)
+- [Cloud Computing Series #2 — Setting Up Your Computing Engine for CUDA AI Development with GCP](https://hikariai.net/cloud/gcp-instance/)
+- [Face Recognition API on the Jetson](https://hikariai.net/edge-ai/face-recognizer/)
+- [TensorRT Object Detection (DetectNet + OpenCV)](https://hikariai.net/edge-ai/detectnet/)
 <!-- BLOG-POST-LIST:END -->
 
 [More posts](https://hikariai.net)
