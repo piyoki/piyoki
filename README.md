@@ -18,7 +18,7 @@
 
 ##### Languages
 
-> JaveScript, HTML, CSS, C, C++, #C, Python, JSON, Ruby, DB
+> JaveScript, HTML, CSS, C, C++, #C, Python, YAML, JSON, Ruby, DB, 
 
 ##### Web Development
 
@@ -60,12 +60,9 @@
 
 [More posts](https://hikariai.net)
 
+### :zap: GitHub Stats
 
-
-<summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yqlbu&show_icons=true&hide_border=true" />
 
 
 
@@ -76,4 +73,3 @@
 
 
 
-</details>
