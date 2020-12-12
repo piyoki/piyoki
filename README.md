@@ -26,7 +26,7 @@
 
 ##### CI/CD
 
-> Git, Gitlab, Jenkins
+> Git, Gitlab, Jenkins, Ansible
 
 ##### Cloud Computing
 
