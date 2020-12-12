@@ -18,7 +18,7 @@
 
 ##### Languages
 
-> JaveScript, HTML, CSS, C, C++, #C, Python, YAML, JSON, Ruby, DB, 
+> JaveScript, HTML, CSS, C, C++, #C, Bash, Python, YAML, JSON, Ruby, DB
 
 ##### Web Development
 
