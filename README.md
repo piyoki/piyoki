@@ -34,7 +34,7 @@
 
 ##### Container Orchestration
 
-> Docker, Docker Swarm, Rancher (k3s), Kubernetes (k8s), Harbor (Private Container Repository)
+> Docker, Docker Swarm, Rancher (k3s), Kubernetes (k8s), Harbor (Private Container Repository), LoadBlancer
 
 ##### Artificial Intelligence
 
