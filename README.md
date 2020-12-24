@@ -18,11 +18,15 @@
 
 ##### Languages
 
-> JaveScript, HTML, CSS, C, C++, #C, Bash, Python, YAML, JSON, Ruby, DB
+> JaveScript, HTML, CSS, C, C++, #C, Bash, Groovy, Python, YAML, JSON, Ruby, DB
 
 ##### Web Development
 
-> NodeJS, ExpressJS, ReactJS, MongoDB, PostgreSQL
+> NodeJS, ExpressJS, ReactJS, RestfulAPI
+
+##### Database
+
+> ETCD, MongoDB, MySQL, MariaDB, PostgreSQL, Firestore
 
 ##### CI/CD
 
