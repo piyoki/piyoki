@@ -26,7 +26,7 @@
 
 ##### Database
 
-> ETCD, MongoDB, MySQL, MariaDB, PostgreSQL, Firestore
+> ETCD, MongoDB, MySQL, MariaDB, PostgreSQL, Firestore, InfluxDB, Redis
 
 ##### CI/CD
 
