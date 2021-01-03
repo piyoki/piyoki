@@ -36,9 +36,13 @@
 
 > AWS, Google Cloud, Huawei Cloud, Oracle Cloud, AliCloud, Tencent Cloud, Bandwagon VPS Hosting
 
+#### Cloud Native
+
+> Service Mesh, Istios, Helm, Keel (Automation tool for Kubernetes deployment updates ), Harbor (Private Container Repository), Longhorn (Cloud Native Distributed Storage)
+
 ##### Container Orchestration
 
-> Docker, Docker Compose, Multistage and Layering, Docker Swarm, Rancher (k3s), Kubernetes (k8s), Harbor (Private Container Repository), LoadBlancer, Helm, Keel
+> Docker, Docker Compose, Multistage and Layering, Docker Swarm, Rancher (k3s), Kubernetes (k8s), LoadBlancer
 
 ##### Artificial Intelligence
 
