@@ -42,7 +42,7 @@
 
 ##### Container Orchestration
 
-> Docker, Docker Compose, Multistage and Layering, Docker Swarm, Rancher (k3s), Kubernetes (k8s), LoadBlancer
+> Docker, Docker Compose, Multistage and Layering, Docker Swarm, Rancher (k3s), Kubernetes (k8s)
 
 ##### Artificial Intelligence
 
