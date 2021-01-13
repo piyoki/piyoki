@@ -46,7 +46,7 @@
 
 ##### Artificial Intelligence
 
-> Computer Visuals, Scientific Computing, Model Training, Linear Regression， Transfer Learning
+> Computer Visuals, Scientific Computing, Model Training, Linear Regression, Transfer Learning
 
 ##### IoT Computing
 
