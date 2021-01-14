@@ -8,6 +8,8 @@
 
 - I’m looking for a front-end developer (ReactJS) to join me for a Cloud Project
 
+- I am a big fan of Cloud Native and Knative !
+
 - 2021 Goals: Contribute more to Open Source projects
 
 ## Connect with me
