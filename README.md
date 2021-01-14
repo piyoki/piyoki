@@ -4,7 +4,7 @@
 
 ## I'm a Developer, Cloud Architect, Container Engineer, and Entrepreneur
 
-- I’m currently learning everything tech related
+- I’m currently learning everything cloud computing related
 
 - I’m looking for a front-end developer (ReactJS) to join me for a Cloud Project
 
