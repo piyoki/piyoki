@@ -35,13 +35,13 @@
 
 > Git, Gitlab, Jenkins, Ansible
 
-##### Cloud Computing
+##### Cloud Hosting
 
 > AWS, Google Cloud, Huawei Cloud, Oracle Cloud, AliCloud, Tencent Cloud, Bandwagon VPS Hosting
 
 ##### Cloud Native
 
-> Service Mesh, Mesh Gateways, Consul, Istios, Linkerd, Envoy, HAproxy, Nginx, Trafik, Helm, Keel (Automation tool for Kubernetes deployment updates ), Harbor (Private Container Repository), Longhorn (Cloud Native Distributed Storage), Knative, Kubeflow
+> Service Mesh, Mesh Gateways, Consul, Istios, Linkerd, Envoy, HAproxy, Nginx, Trafik, Helm, Keel (Automation tool for Kubernetes deployment updates ), Harbor (Private Container Repository), Longhorn (Cloud Native Distributed Storage), Knative, Kubeflow, Nvidia Operator
 
 ##### Container Orchestration
 
