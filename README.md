@@ -7,7 +7,8 @@
 - I’m currently learning everything tech related
 
 - I’m looking for a front-end developer (ReactJS) to join me for a Cloud Project
-- 2020 Goals: Contribute more to Open Source projects
+
+- 2021 Goals: Contribute more to Open Source projects
 
 ## Connect with me
 
