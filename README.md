@@ -53,7 +53,7 @@
 
 ##### IoT Computing
 
-> PWM Control, Motor Control, Lidar Control, Relay Control, Network Protocols
+> RabitMQ, MQTT, PWM Control, Motor Control, Lidar Control, Relay Control, Network Protocols
 
 > Raspberry Pi, ESP32, Arduino, Jetson Nano, Jetson AGX Xavier, Teensy
 
