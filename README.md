@@ -23,7 +23,7 @@
 
 ##### Languages
 
-> JaveScript, HTML, CSS, C, C++, #C, Bash, Groovy, Python, Golang, YAML, JSON, Ruby, Markdown
+> JaveScript, HTML, CSS, C, C++, #C, Shell, Groovy, Python, Golang, YAML, JSON, Ruby, Markdown
 
 ##### Web Development
 
