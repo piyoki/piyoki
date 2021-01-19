@@ -10,7 +10,7 @@
 
 - I am a big fan of Cloud Native and Knative !
 
-- I am also an  ArchLinux user. You know what that means xD!
+- I am also an ArchLinux user. You know what that means xD!
 
 - 2021 Goals: Contribute more to Open Source projects
 
