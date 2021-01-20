@@ -43,7 +43,7 @@
 
 ##### Cloud Hosting
 
-> AWS, Google Cloud, Huawei Cloud, Oracle Cloud, AliCloud, Tencent Cloud, Bandwagon VPS Hosting
+> AWS, Google Cloud, Huawei Cloud, Oracle Cloud, AliCloud, Tencent Cloud, Bandwagon VPS Hosting, Tencent Cloud, Baidu Cloud
 
 ##### Cloud Native
 
