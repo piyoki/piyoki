@@ -37,6 +37,10 @@
 
 > Git, Gitlab, Jenkins, Ansible
 
+##### Monitoring Tools
+
+> Promotheus, Kiali, Grafana, Weaveworks
+
 ##### Cloud Hosting
 
 > AWS, Google Cloud, Huawei Cloud, Oracle Cloud, AliCloud, Tencent Cloud, Bandwagon VPS Hosting
