@@ -27,7 +27,7 @@
 
 ##### Web Development
 
-> NodeJS, ExpressJS, ReactJS, RestfulAPI, Yarn, Webpack
+> NodeJS, ExpressJS, ReactJS, RestfulAPI, Yarn, Webpack, Flask
 
 ##### Database
 
