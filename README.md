@@ -33,9 +33,9 @@
 
 > ETCD, MongoDB, MySQL, MariaDB, PostgreSQL, Firestore, InfluxDB, Redis
 
-##### CI/CD
+##### DevOps CI/CD
 
-> Git, Gitlab, Jenkins, Ansible, Terraform
+> Git, Jenkins, Ansible, Terraform, CircleCI
 
 ##### Monitoring Tools
 
