@@ -17,7 +17,7 @@
 ## Connect with me
 
 - [Website](https://hikariai.net )
-- [LinkedIn](www.linkedin.com/in/chinglong-kevin-yu)
+- [LinkedIn](http://www.linkedin.com/in/chinglong-kevin-yu)
 
 ## Skills
 
