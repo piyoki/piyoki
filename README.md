@@ -6,8 +6,6 @@
 
 - I’m currently learning everything cloud computing related
 
-- I’m looking for a front-end developer (ReactJS) to join me for a Cloud Project
-
 - I am a big fan of Cloud Native and Knative !
 
 - I am also an ArchLinux user. You know what that means xD!
