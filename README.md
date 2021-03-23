@@ -55,9 +55,9 @@
 
 > Computer Visuals, Scientific Computing, Model Training, Linear Regression, Transfer Learning
 
-##### IoT Computing
+##### Edge (IoT) Computing
 
-> RabitMQ, MQTT, PWM Control, Motor Control, Lidar Control, Relay Control, Network Protocols
+> Message Quene and Procasting (RabitMQ, MQTT), PWM Control, Motor Control, Lidar Control, Relay Control
 
 > Raspberry Pi, ESP32, Arduino, Jetson Nano, Jetson AGX Xavier, Teensy
 
