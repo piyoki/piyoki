@@ -6,7 +6,7 @@
 
 - I’m currently learning everything cloud computing related
 
-- I am a big fan of Cloud Native, especially Knative !
+- I am a big fan of Cloud Native, especially Knative!
 
 - I am also an ArchLinux user. You know what that means xD!
 
