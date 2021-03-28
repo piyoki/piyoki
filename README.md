@@ -57,7 +57,7 @@
 
 ##### Edge (IoT) Computing
 
-> Message Quene and Procasting (RabitMQ, MQTT), PWM Control, Motor Control, Lidar Control, Relay Control
+> Message Quene and Procasting (RabitMQ, MQTT, Apache Kafka), PWM Control, Motor Control, Lidar Control, Relay Control
 
 > Raspberry Pi, ESP32, Arduino, Jetson Nano, Jetson AGX Xavier, Teensy
 
