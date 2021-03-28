@@ -4,11 +4,11 @@
 
 ## I'm a Developer, Cloud Architect, Solution Engineer, and Entrepreneur
 
-- I’m currently learning everything cloud computing related
+- I’m currently learning everything cloud Native related
 
 - I am a big fan of Cloud Native, especially Knative!
 
-- I am also an ArchLinux user. You know what that means xD!
+- I am also an ArchLinux user xD!
 
 - 2021 Goals: Contribute more to Open Source projects
 
@@ -33,7 +33,7 @@
 
 ##### DevOps CI/CD
 
-> Git, Jenkins, Ansible, Terraform, CircleCI
+> Git, Jenkins, Ansible, Terraform, CircleCI, Tekton, Argo
 
 ##### Monitoring Tools
 
