@@ -45,7 +45,7 @@
 
 ##### Cloud Native
 
-> Service Mesh, Mesh Gateways, Consul, Istios, Linkerd, Envoy, HAproxy, Nginx, Trafik, Helm, Keel (Automation tool for Kubernetes deployment updates), Argo CI/CD, Tekton CI/CD, Kafka (Stream Processing), Harbor (Private Container Repository), Longhorn (Cloud Native Distributed Storage), Buildpack (Container Image Builder), Fluentd (Log Management), Knative, Kubeflow, KubeEdge, Nvidia Operator
+> Service Mesh, Mesh Gateways, Consul, Istios, Linkerd, Envoy, HAproxy, Nginx, Trafik, Helm, Keel (Automation tool for Kubernetes deployment updates), Argo CI/CD, Tekton CI/CD, Kafka (Stream Processing), Harbor (Private Container Repository), Longhorn (Cloud Native Distributed Storage), Buildpack, Kaniko (Container Image Builder), Fluentd (Log Management), Knative, Kubeflow, KubeEdge, Nvidia Operator
 
 ##### Container Orchestration
 
