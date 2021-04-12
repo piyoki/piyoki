@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=hikariai.net&style=for-the-badge&url=https%3A%2F%2Fhikariai.net)](https://hikariai.net/)
 
-## I'm a Developer, Cloud Architect, Solution Engineer, and Entrepreneur
+## I'm a Developer, Cloud Architect, Solution Engineer
 
 - I’m currently learning everything cloud Native related
 
