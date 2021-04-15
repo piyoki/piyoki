@@ -6,7 +6,7 @@
 
 - I’m currently learning everything cloud Native related
 
-- I am a big fan of Cloud Native, especially Knative!
+- I am an advocate for Cloud Native and Serverless Application such as Knative!
 
 - I am also an ArchLinux user xD!
 
