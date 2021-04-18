@@ -4,7 +4,7 @@
 
 ## I'm a Developer, DevOps Engineer, Cloud Architect, and Solution Engineer
 
-- I’m currently learning everything cloud Native related
+- I’m currently learning everything Cloud Native related
 
 - I am an advocate for Cloud Native and Serverless Application such as Knative!
 
