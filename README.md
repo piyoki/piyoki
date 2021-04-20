@@ -33,7 +33,7 @@
 
 ##### DevOps CI/CD
 
-> Git, Jenkins, Ansible, Terraform, CircleCI, Tekton, Argo CD, OpenShift, GitOps, Weaveworks, Flux CD
+> Git, Jenkins, Ansible, Terraform, Crossplane, CircleCI, Tekton, Argo CD, OpenShift, GitOps, Weaveworks, Flux CD
 
 ##### Monitoring Tools
 
