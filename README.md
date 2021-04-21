@@ -37,7 +37,7 @@
 
 ##### Monitoring Tools
 
-> Promotheus, Kiali, Grafana, Weaveworks
+> Promotheus, Kiali, Grafana, Weaveworks, Dynatrace
 
 ##### Cloud Hosting
 
