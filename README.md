@@ -35,6 +35,10 @@
 
 > Git, Jenkins, Ansible, Terraform, Crossplane, CircleCI, Tekton, Argo CD, OpenShift, GitOps, Weaveworks, Flux CD
 
+##### Infrastructure as Code
+
+> Pulumi, CrossPlane, Terraform
+
 ##### Monitoring Tools
 
 > Promotheus, Kiali, Grafana, Weaveworks, Dynatrace
