@@ -45,7 +45,7 @@
 
 ##### Cloud Native
 
-> gRPC, Service Mesh, Mesh Gateways, Consul, Istios, Linkerd, Envoy, HAproxy, Nginx, Trafik, Helm, Keel (Automation tool for Kubernetes deployment updates), Argo CD, Tekton CI/CD, Kafka (Stream Processing), Harbor (Private Container Repository), Longhorn (Cloud Native Distributed Storage), Buildpack, Paketo, Kaniko (Container Image Builder), EFK Stack, FluentBit, Fluentd (Log Management), Knative, KubeFlow, KubeEdge, Nvidia Operator, Flagger (Service Deployment Operator), Kubeseal (Secret Operator), KubeLinter (Configuration Sanity Checker), KubeVela (OAM Implementation), Kogito (Serverless Workflow), Zipkin (Traces and Latency), Apache JMeter (Test as a Service), NeoLoad (Load Testing), Keptn (Cloud Native Application Life-cycle Orchestration)
+> gRPC, Service Mesh, Mesh Gateways, Consul, Istios, Linkerd, Envoy, HAproxy, Nginx, Trafik, Helm, Keel (Automation tool for Kubernetes deployment updates), Argo CD, Tekton CI/CD, Kafka (Stream Processing), Harbor (Private Container Repository), Longhorn (Cloud Native Distributed Storage), Buildpack, Paketo, Kaniko (Container Image Builder), EFK Stack, FluentBit, Fluentd (Log Management), Knative, KubeFlow, KubeEdge, Nvidia Operator, Flagger (Service Deployment Operator), Kubeseal (Secret Operator), KubeLinter (Configuration Sanity Checker), KubeVela (OAM Implementation), Kogito (Serverless Workflow), Zipkin (Traces and Latency), Apache JMeter (Test as a Service), NeoLoad (Load Testing), Keptn (Cloud Native Application Life-cycle Orchestration), Velero (Backups)
 
 ##### Container Orchestration
 
