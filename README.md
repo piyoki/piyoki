@@ -33,7 +33,7 @@
 
 ##### Cluster Provisioning
 
-> Kubeadm, Kind, K3D
+> Kubeadm, Kind, K3D, GKE, EKS, OpenShift
 
 ##### DevOps CI/CD
 
