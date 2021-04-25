@@ -72,7 +72,6 @@
 ## 📕  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kaniko: A Cloud-Native solution to build container images in Kubernetes Cluster](https://hikariai.net/cloud/kaniko-a-cloud-native-solution-to-build-container-images-in-kubernetes-cluster/)
 - [Containerized Microservices Cloud CI/CD Pipeline Automation with Jenkins, Helm, Keel, and Kubernetes](https://hikariai.net/cloud/containerized-microservices-cloud-cicd-pipeline-automation/)
 - [Cloud-Native Edge Computing Signals a New Era of Digital Transformation](https://hikariai.net/cloud/digital-transformation-edge-computing/)
 - [Cloud-Native Solution: Build a Server Cluster with Docker Swarm](https://hikariai.net/cloud/docker-swarm/)
