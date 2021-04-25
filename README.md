@@ -16,6 +16,7 @@
 
 - [Website](https://hikariai.net )
 - [LinkedIn](http://www.linkedin.com/in/chinglong-kevin-yu)
+- [Email](kevinyu211@yahoo.com)
 
 ## Skills
 
