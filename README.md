@@ -4,7 +4,7 @@
 
 ## I'm a Developer, DevOps Engineer, Cloud Architect, and Solution Engineer
 
-- I am an advocate for Cloud Native and Serverless Application such as Knative!
+- I am an advocate of Cloud Native and Serverless Application such as Knative!
 
 - I am interested in Open Application Model (OAM) and its implementation tool such as KubeVela
 
