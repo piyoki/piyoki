@@ -34,7 +34,7 @@
 
 ##### Cluster Provisioning
 
-> Kubeadm, Kind, K3D, GKE, EKS, OpenShift
+> Kubeadm, Kind, K3D, GKE, OKE, EKS, OpenShift
 
 ##### DevOps CI/CD
 
@@ -43,6 +43,10 @@
 ##### Infrastructure as Code
 
 > Pulumi, CrossPlane, Terraform
+
+##### Cloud Function (FaaS, or Function as a Service)
+
+> Oracle Functions, Google Cloud Functions, AWS Lamda
 
 ##### Monitoring Tools
 
