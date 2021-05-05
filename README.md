@@ -36,9 +36,9 @@
 
 > Kubeadm, Kind, K3D, GKE, OKE, EKS, OpenShift
 
-##### DevOps CI/CD
+##### DevOps CI/CD and GitOps
 
-> Git, Jenkins, Ansible, CircleCI, Tekton, Argo CD, OpenShift, GitOps, Weaveworks, Flux CD
+> Git, Jenkins, Ansible, CircleCI, Tekton, Argo CD, OpenShift, Weaveworks, Flux CD
 
 ##### Infrastructure as Code
 
