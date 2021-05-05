@@ -46,7 +46,7 @@
 
 ##### Cloud Function (FaaS, or Function as a Service)
 
-> Oracle Functions, Google Cloud Functions, AWS Lamda
+> API Gateways, Oracle Functions, Google Cloud Functions, AWS Lamda
 
 ##### Monitoring Tools
 
