@@ -12,7 +12,7 @@
 
 - 2021 Goals: Contribute more to Open Source projects
 
-## Connect with me
+## Contacts
 
 - [Website](https://hikariai.net )
 - [LinkedIn](http://www.linkedin.com/in/chinglong-kevin-yu)
