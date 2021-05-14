@@ -38,7 +38,7 @@
 
 ##### DevOps CI/CD and GitOps
 
-> Git, Jenkins, Ansible, CircleCI, Tekton, Argo CD, OpenShift, Weaveworks, Flux CD
+> Git, Jenkins, Ansible, CircleCI, Tekton CICD, Argo Workflow, Argo CD, OpenShift, Weaveworks, Flux CD
 
 ##### Infrastructure as Code
 
