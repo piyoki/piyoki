@@ -62,7 +62,7 @@
 
 ##### Container & Orchestration
 
-> Docker, Docker Compose, Multistage and Layering, Docker Swarm, Rancher (k3s), Kubernetes (k8s), OpenShift
+> Docker, Docker Compose, Multistage and Layering, Docker Swarm, Rancher (k3s), Kubernetes (k8s), OpenShift, AWS ECS (Elastric Container Service)
 
 ##### Artificial Intelligence
 
