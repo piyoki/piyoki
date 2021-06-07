@@ -46,7 +46,7 @@
 
 ##### Cloud Function (FaaS, or Function as a Service)
 
-> API Gateways, Fn, Oracle Functions, Google Cloud Functions, AWS Lamda
+> API Gateways, Fn, Oracle Functions, Google Cloud Functions, AWS Lamda, Vercel Serverless Function
 
 ##### Monitoring Tools
 
