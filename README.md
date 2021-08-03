@@ -60,11 +60,11 @@
 
 ##### Cloud Native
 
-> gRPC, Service Mesh, Mesh Gateways, Consul, Istios, Linkerd, Envoy, HAproxy, Nginx, Trafik, Helm, Keel (Automation tool for Kubernetes deployment updates), Argo CD, Flux CD, Tekton CI/CD, Kafka (Stream Processing), Harbor (Private Container Repository), Longhorn (Cloud Native Distributed Storage), Buildpack, Paketo, Kaniko (Container Image Builder), EFK Stack, FluentBit, Fluentd (Log Management), Knative, KubeFlow, KubeEdge, Nvidia Operator, Flagger (Service Deployment Operator), Kubeseal (Secret Operator), KubeLinter (Configuration Sanity Checker), KubeVela (OAM Implementation), Kogito (Serverless Workflow), Zipkin (Traces and Latency), Apache JMeter (Test as a Service), NeoLoad (Load Testing), Keptn (Cloud Native Application Life-cycle Orchestration), Velero (Backups), GatesKeeper (Admision Controller), KubeMQ (Enterprise-Grade Message Broker), Apache Pulsar (Alternative to Apache Kafka), Capsule (Multi-Tenant Kubernetes Cluster), VCluser (Virtual Cluster together with PR)
+> gRPC, Service Mesh, Mesh Gateways, Consul, Istios, Linkerd, Envoy, HAproxy, Nginx, Trafik, Helm, Keel (Automation tool for Kubernetes deployment updates), Argo CD, Flux CD, Tekton CI/CD, Kafka (Stream Processing), Harbor (Private Container Repository), Longhorn (Cloud Native Distributed Storage), Buildpack, Paketo, Kaniko (Container Image Builder), EFK Stack, FluentBit, Fluentd (Log Management), Knative, KubeFlow, KubeEdge, Nvidia Operator, Flagger (Service Deployment Operator), Kubeseal (Secret Operator), KubeLinter (Configuration Sanity Checker), KubeVela (OAM Implementation), Kogito (Serverless Workflow), Zipkin (Traces and Latency), Apache JMeter (Test as a Service), NeoLoad (Load Testing), Keptn (Cloud Native Application Life-cycle Orchestration), Velero (Backups), GatesKeeper (Admision Controller), KubeMQ (Enterprise-Grade Message Broker), Apache Pulsar (Alternative to Apache Kafka), Capsule (Multi-Tenant Kubernetes Cluster), VCluser (Virtual Cluster together with PR), DevSpace (Developer Tool for Kubernetes)
 
 ##### Container & Orchestration
 
-> Docker, Docker Compose, Multistage and Layering, Docker Swarm, Rancher (k3s), Kubernetes (k8s), OpenShift, AWS ECS (Elastric Container Service)
+> Docker, Docker Compose, Multistage and Layering, Docker Swarm, Rancher (k3s), Kubernetes (k8s), OpenShift, AWS ECS (Elastric Container Service), K3D, K0S
 
 ##### Artificial Intelligence
 
