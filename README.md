@@ -46,7 +46,7 @@
 
 > Pulumi, CrossPlane, Terraform
 
-##### Cloud Function (FaaS, or Function as a Service)
+##### Serverless & Cloud Function (FaaS, or Function as a Service)
 
 > API Gateways, Fn, Oracle Functions, Google Cloud Functions, AWS Lamda, Vercel Serverless Function, AWS Fargate (Serverless way to launch containers)
 
@@ -64,7 +64,7 @@
 
 ##### Container & Orchestration
 
-> Docker, Docker Compose, Multistage and Layering, Docker Swarm, Rancher (k3s), Kubernetes (k8s), OpenShift, AWS ECS (Elastric Container Service), K3D, K0S
+> CloudFoundry, Docker, Docker Compose, Multistage and Layering, Docker Swarm, Rancher (k3s), Kubernetes (k8s), OpenShift, AWS ECS (Elastric Container Service), K3D, K0S
 
 ##### Artificial Intelligence
 
