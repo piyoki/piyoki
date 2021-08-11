@@ -44,7 +44,7 @@
 
 ##### Infrastructure as Code
 
-> Pulumi, CrossPlane, Terraform
+> Pulumi, CrossPlane, Terraform, Packer, Cloud-init
 
 ##### Serverless & Cloud Function (FaaS, or Function as a Service)
 
