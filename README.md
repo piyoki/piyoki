@@ -38,7 +38,7 @@
 
 ##### Cluster Provisioning
 
-> Kubeadm, Kind, K3D, GKE, OKE, EKS, OpenShift
+> Kubeadm, Kind, K3D, GKE, OKE, EKS, OpenShift, k0S
 
 ##### DevOps CI/CD and GitOps
 
@@ -58,7 +58,7 @@
 
 ##### Cloud Hosting
 
-> AWS, Google Cloud, Huawei Cloud, Oracle Cloud, AliCloud, Tencent Cloud, Bandwagon VPS Hosting, Tencent Cloud, Baidu Cloud, Linnode, Vultr
+> vSphere, vCenter, AWS, Google Cloud, Huawei Cloud, Oracle Cloud, AliCloud, Tencent Cloud, Bandwagon VPS Hosting, Tencent Cloud, Baidu Cloud, Linnode, Vultr
 
 ##### Cloud Native
 
