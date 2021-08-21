@@ -12,6 +12,8 @@
 
 - I am also an ArchLinux user xD!
 
+- Currently working on a Homelab project with VMware vSphere
+
 - 2021 Goals: Contribute more to Open Source projects
 
 ## Contacts
