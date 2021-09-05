@@ -20,10 +20,6 @@
 
 [![Website](https://img.shields.io/website?label=link.hikariai.net&style=for-the-badge&url=https%3A%2F%2Flink.hikariai.net)](https://link.hikariai.net/)
 
-- [Website](https://hikariai.net )
-- [LinkedIn](http://www.linkedin.com/in/chinglong-kevin-yu)
-- [Email](mailto:kevinyu211@yahoo.com)
-
 ## Skills
 
 ##### Languages
