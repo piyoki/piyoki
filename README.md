@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=hikariai.net&style=for-the-badge&url=https%3A%2F%2Fhikariai.net)](https://hikariai.net/)
 
-## I'm a Developer, DevOps Engineer, Cloud Architect, and Solution Engineer
+## I'm a Developer, DevOps Engineer, Cloud Solution Architect
 
 - I am an advocate of Cloud Native and Serverless Application!
 
