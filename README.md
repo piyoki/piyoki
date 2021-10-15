@@ -79,11 +79,12 @@
 ## 📕  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Containerized Microservices Cloud CI/CD Pipeline Automation with Jenkins, Helm, Keel, and Kubernetes](https://hikariai.net/cloud/containerized-microservices-cloud-cicd-pipeline-automation/)
-- [Cloud-Native Edge Computing Signals a New Era of Digital Transformation](https://hikariai.net/cloud/digital-transformation-edge-computing/)
-- [Cloud-Native Solution: Build a Server Cluster with Docker Swarm](https://hikariai.net/cloud/docker-swarm/)
-- [Cross-architecture Kubernetes with Edge Devices Using Hybrid Cloud Strategy](https://hikariai.net/cloud/kubernetes-edge-deployment/)
-- [Cloud Computing Series #2 — Setting Up Your Computing Engine for CUDA AI Development with GCP](https://hikariai.net/cloud/gcp-instance/)
+- [Kaniko: A Cloud-Native solution to build container images in Kubernetes Cluster](https://hikariai.net/blog/22-kaniko-a-cloud-native-solution-to-build-container-images-in-kubernetes-cluster)
+- [Containerized Microservices Cloud CI/CD Pipeline Automation with Jenkins, Helm, Keel, and Kubernetes](https://hikariai.net/blog/21-containerized-microservices-cloud-cicd-pipeline-automation/)
+- [Cloud-Native Edge Computing Signals a New Era of Digital Transformation](https://hikariai.net/blog/20-cloud-native-edge-computing-signals-a-new-era-of-digital-transformation/)
+- [Cloud-Native Solution: Build a Server Cluster with Docker Swarm](https://hikariai.net/blog/19-cloud-native-solution-build-a-server-cluster-with-docker-swarm/)
+- [Cross-architecture Kubernetes with Edge Devices Using Hybrid Cloud Strategy](https://hikariai.net/blog/18-cross-architecture-kubernetes-with-edge-devices-using-hybrid-cloud-strategy/)
+- [Cloud Computing Series #2 — Setting Up Your Computing Engine for CUDA AI Development with GCP](https://hikariai.net/blog/17-cloud-computing-series-02-setting-up-your-computing-engine-for-cuda-ai-development-with-gcp/)
 <!-- BLOG-POST-LIST:END -->
 
 <u>[More posts](https://hikariai.net)</u>
