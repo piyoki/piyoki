@@ -4,7 +4,7 @@
 
 ## I'm a Developer, DevOps Engineer, Cloud Solution Architect
 
-- I am an advocate of Cloud Native and Serverless Application!
+- I am an advocate of Cloud Native
 
 - I am interested in Open Application Model (OAM) and its implementation tool such as KubeVela
 
