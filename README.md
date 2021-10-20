@@ -17,11 +17,11 @@
 ✅ 2021 Goals: Contribute more to Open Source projects
 
 [![ProfileView: yqlbu](https://komarev.com/ghpvc/?username=yqlbu&label=PROFILE+VIEWS&color=red&style=flat-square)](https://github.com/yqlbu)
-[![Link: profile-link](https://img.shields.io/badge/-ProfileLink-gray?style=flat-square&logo=Artifact%20Hub&logoColor=white&link=https://www.linkedin.com/in/chinglong-kevin-yu)](https://www.linkedin.com/in/chinglong-kevin-yu)
+[![Link: profile-link](https://img.shields.io/badge/-Profile%20Link-gray?style=flat-square&logo=Artifact%20Hub&logoColor=white&link=https://www.linkedin.com/in/chinglong-kevin-yu)](https://www.linkedin.com/in/chinglong-kevin-yu)
 [![Linkedin: kevin-yu](https://img.shields.io/badge/-Kevin%20Yu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinglong-kevin-yu)](https://www.linkedin.com/in/chinglong-kevin-yu)
 [![Discord: tech-prober](https://img.shields.io/badge/-Discord-blueviolet?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/hyNwvjtBJ7)](https://discord.gg/hyNwvjtBJ7)
 [![Telegram: hikariai](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/hikariai_channel)](https://discord.gg/hyNwvjtBJ7)
-[![website](https://img.shields.io/badge/PersonalWebsite-hikariai.net-brightgreen?style=flat-square&logo=appveyor)](https://hikariai.net/)
+[![website](https://img.shields.io/badge/Personal%20Website-hikariai.net-brightgreen?style=flat-square&logo=appveyor)](https://hikariai.net/)
 [![RSS](https://img.shields.io/badge/RSS-hikariai.net-yellow?style=flat-square&logo=rss)](https://www.hikariai.net/index.xml)
 
 
