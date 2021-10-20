@@ -24,7 +24,7 @@
 
 ## Contacts
 
-[![](https://img.shields.io/badge/www.hikariai.net-up-brightegreen?style=for-the-badge)](https://link.hikariai.net)
+[![](https://img.shields.io/badge/link.hikariai.net-up-brightegreen?style=for-the-badge)](https://link.hikariai.net)
 
 ## Skills
 
