@@ -4,6 +4,11 @@
 
 ## I'm a Developer, DevOps Engineer, Cloud Solution Architect
 
+<ul style="list-style: none;">
+ <li>☁️ I am an advocate of Cloud Native and an ArchLinux User</li>
+ <li>🌱 I’m currently learning more about CloudNative and Serverless.</li>
+</ul>
+
 - ☁️ I am an advocate of Cloud Native and an ArchLinux User
 
 - 🌱 I’m currently learning more about CloudNative and Serverless.
