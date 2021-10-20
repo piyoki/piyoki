@@ -1,4 +1,4 @@
-### Hi there, I'm Kevin Yu 👋
+### Hi there, I'm Kevin Yu 👋 
 
 [![](https://img.shields.io/badge/www.hikariai.net-up-brightegreen?style=for-the-badge)](https://hikariai.net)
 
@@ -15,6 +15,12 @@
 🎵 Fun fact: I spend almost 12 hours listening to songs every day.
 
 ✅ 2021 Goals: Contribute more to Open Source projects
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=yqlbu&label=PROFILE+VIEWS&label=Views&color=blueviolet&style=plastic" alt="yqlbu"/></p>
+
+[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
+[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
+[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
 
 ## Contacts
 
