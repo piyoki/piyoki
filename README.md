@@ -1,7 +1,7 @@
 ### Hi there, I'm Kevin Yu 👋
 
 [![Website](https://img.shields.io/website?label=www.hikariai.net&style=for-the-badge&url=https%3A%2F%2Fhikariai.net)](https://www.hikariai.net/)
-[![](https://img.shields.io/badge/www.hikariai.net-up-brightegreen)(https://hikariai.net)]
+[![](https://img.shields.io/badge/www.hikariai.net-up-brightegreen)](https://hikariai.net)]
 
 ## I'm a Developer, DevOps Engineer, Cloud Solution Architect
 
