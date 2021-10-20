@@ -1,4 +1,4 @@
-### Hi there, I'm Kevin Yu 👋 
+## Hi there, I'm Kevin Yu 👋 
 
 [![](https://img.shields.io/badge/www.hikariai.net-up-brightegreen?style=for-the-badge)](https://hikariai.net)
 
