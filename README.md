@@ -2,6 +2,8 @@
 
 [![](https://img.shields.io/badge/www.hikariai.net-up-brightegreen?style=for-the-badge)](https://hikariai.net)
 
+[![](https://img.shields.io/badge/www.hikariai.net-up-brightegreen?style=for-the-badge)](https://link.hikariai.net)
+
 ## I'm a Developer, DevOps Engineer, Cloud Solution Architect
 
 - I am an advocate of Cloud Native and an ArchLinux User
@@ -12,11 +14,9 @@
 
 - Currently working on a Homelab Private-Cloud project with VMware vSphere and Proxmox VE
 
+- 📫 How to reach me: [Link Page](https://link.hikariai.net)
+
 - 2021 Goals: Contribute more to Open Source projects
-
-## Contacts
-
-[![](https://img.shields.io/badge/www.hikariai.net-up-brightegreen?style=for-the-badge)](https://link.hikariai.net)
 
 ## Skills
 
