@@ -20,7 +20,10 @@
 [![Linkedin: kevin-yu](https://img.shields.io/badge/-Kevin%20Yu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinglong-kevin-yu)](https://www.linkedin.com/in/chinglong-kevin-yu)
 [![Discord: tech-prober](https://img.shields.io/badge/-Discord-blueviolet?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/hyNwvjtBJ7)](https://discord.gg/hyNwvjtBJ7)
 [![website](https://img.shields.io/badge/PersonalWebsite-hikariai.net-brightgreen?style=flat-square&logo=appveyor)](https://hikariai.net/)
+[![RSS](https://img.shields.io/badge/PersonalWebsite-hikariai.net-brightgreen?style=flat-square&logo=rss)](https://hikariai.net/)
 
+
+https://www.hikariai.net/index.xml
 ## Contacts
 
 [![](https://img.shields.io/badge/link.hikariai.net-up-brightegreen?style=for-the-badge)](https://link.hikariai.net)
