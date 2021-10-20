@@ -2,21 +2,23 @@
 
 [![](https://img.shields.io/badge/www.hikariai.net-up-brightegreen?style=for-the-badge)](https://hikariai.net)
 
-[![](https://img.shields.io/badge/www.hikariai.net-up-brightegreen?style=for-the-badge)](https://link.hikariai.net)
-
 ## I'm a Developer, DevOps Engineer, Cloud Solution Architect
 
-- I am an advocate of Cloud Native and an ArchLinux User
+- ☁️ I am an advocate of Cloud Native and an ArchLinux User
 
-- I am interested in Open Application Model (OAM) and its implementation tool such as KubeVela
+- 🌱 I’m currently learning more about CloudNative and Serverless.
 
-- I am interested in Apache Pulsar, an alternative to Apache Kafka
-
-- Currently working on a Homelab Private-Cloud project with VMware vSphere and Proxmox VE
+- 💻 Currently working on a Homelab Private-Cloud project with VMware vSphere and Proxmox VE
 
 - 📫 How to reach me: [Link Page](https://link.hikariai.net)
 
-- 2021 Goals: Contribute more to Open Source projects
+- 🎵 Fun fact: I spend almost 12 hours listening to songs every day.
+
+- ✅ 2021 Goals: Contribute more to Open Source projects
+
+## Contacts
+
+[![](https://img.shields.io/badge/www.hikariai.net-up-brightegreen?style=for-the-badge)](https://link.hikariai.net)
 
 ## Skills
 
