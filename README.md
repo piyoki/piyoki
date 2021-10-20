@@ -4,15 +4,13 @@
 
 ## I'm a Developer, DevOps Engineer, Cloud Solution Architect
 
-- I am an advocate of Cloud Native
+- I am an advocate of Cloud Native and an ArchLinux User
 
 - I am interested in Open Application Model (OAM) and its implementation tool such as KubeVela
 
 - I am interested in Apache Pulsar, an alternative to Apache Kafka
 
-- I am also an ArchLinux user xD!
-
-- Currently working on a Homelab project with VMware vSphere
+- Currently working on a Homelab Private-Cloud project with VMware vSphere and Proxmox VE
 
 - 2021 Goals: Contribute more to Open Source projects
 
