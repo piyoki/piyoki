@@ -113,7 +113,7 @@
 ## GitHub Stat
 
 <a href="https://github.com/yqlbu">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=yqlbu&show_icons=true&theme=light&line_height=27" alt="Kevin Yu's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=yqlbu&show_icons=true&theme=light&line_height=30" alt="Kevin's github stats"/>
 </a>
 
 
