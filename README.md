@@ -4,8 +4,6 @@
 
 ## I'm a Developer, DevOps Engineer, Cloud Solution Architect
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=yqlbu&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="yqlbu"/></p>
-
 ☁️ I am an advocate of Cloud Native and an ArchLinux User
 
 🌱 I’m currently learning more about CloudNative and Serverless.
