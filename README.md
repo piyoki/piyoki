@@ -4,8 +4,8 @@
 
 ## I'm a Developer, DevOps Engineer, Cloud Solution Architect
 
-<ul style="list-style: none;">
- <li>☁️ I am an advocate of Cloud Native and an ArchLinux User</li>
+<ul style="list-style: none; padding: 0; margin: 0">
+ <li style="list-style: none; padding: 0; margin: 0">☁️ I am an advocate of Cloud Native and an ArchLinux User</li>
  <li>🌱 I’m currently learning more about CloudNative and Serverless.</li>
 </ul>
 
