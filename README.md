@@ -16,7 +16,7 @@
 
 ✅ 2021 Goals: Contribute more to Open Source projects
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=yqlbu&label=PROFILE+VIEWS&label=Views&color=blueviolet&style=plastic" alt="yqlbu"/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=yqlbu&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="yqlbu"/></p>
 
 [![Linkedin: kevin-yu](https://img.shields.io/badge/-Kevin%20Yu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinglong-kevin-yu)](https://www.linkedin.com/in/chinglong-kevin-yu)
 [![Discord: tech-prober](https://img.shields.io/badge/-Discord-gray?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/hyNwvjtBJ7)](https://discord.gg/hyNwvjtBJ7)
