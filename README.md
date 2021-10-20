@@ -18,9 +18,9 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=yqlbu&label=PROFILE+VIEWS&label=Views&color=blueviolet&style=plastic" alt="yqlbu"/></p>
 
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
+[![Linkedin: kevin-yu](https://img.shields.io/badge/-Kevin%20Yu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinglong-kevin-yu)](https://www.linkedin.com/in/chinglong-kevin-yu)
+[![Discord: tech-prober](https://img.shields.io/badge/-Discord-gray?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/hyNwvjtBJ7)](https://discord.gg/hyNwvjtBJ7)
+[![website](https://img.shields.io/badge/PersonalWebsite-hikariai.net-brightgreen?style=flat-square&logo=appveyor)](https://hikariai.net/)
 
 ## Contacts
 
