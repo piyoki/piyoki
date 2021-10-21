@@ -17,7 +17,7 @@
 ✅ 2021 Goals: Contribute more to Open Source projects
 
 [![ProfileView: yqlbu](https://komarev.com/ghpvc/?username=yqlbu&label=PROFILE+VIEWS&color=red&style=flat-square)](https://github.com/yqlbu)
-[![Link: profile-link](https://img.shields.io/badge/-Profile%20Link-gray?style=flat-square&logo=Artifact%20Hub&logoColor=white)](https:/link.hikariai.net)
+[![Link: profile-link](https://img.shields.io/badge/-Profile%20Link-gray?style=flat-square&logo=Artifact%20Hub&logoColor=white&link=https://link.hikariai.net)](https:/link.hikariai.net)
 [![Linkedin: kevin-yu](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinglong-kevin-yu)](https://www.linkedin.com/in/chinglong-kevin-yu)
 [![Discord: tech-prober](https://img.shields.io/badge/-Discord-blueviolet?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/hyNwvjtBJ7)](https://discord.gg/hyNwvjtBJ7)
 [![Telegram: hikariai](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/hikariai_channel)](https://discord.gg/hyNwvjtBJ7)
