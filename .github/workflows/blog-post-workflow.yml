@@ -1,20 +1,15 @@
-name: Latest stack overflow activity
+name: Latest blog post workflow
 on:
-  schedule:
-    # Runs every hour
-    - cron: "0 * * * *"
-  workflow_dispatch:
-
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually with a trigger
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
-    
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          # you can change this to your own RSS feed
           feed_list: "https://www.hikariai.net/index.xml"
-          max_post_count: 5
-          accept_header: application/rss+xml
