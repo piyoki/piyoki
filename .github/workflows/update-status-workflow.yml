@@ -14,6 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.TOKEN }}
+          SHOW_TIME: false
           
   # Update blog posts
 #   update-readme-with-blog:
