@@ -109,7 +109,7 @@
 
 <u>[More posts](https://hikariai.net)</u>
 
-## Activities
+## Weekly Activities
 
 <!--START_SECTION:waka-->
 ```text
