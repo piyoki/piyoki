@@ -111,6 +111,10 @@
 
 ## This week I spent my time on
 
+<a href="https://github.com/yqlbu">
+ <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yqlbu&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" alt="Kevin's github stats"/>
+</a>
+
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=yqlbu&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 ## GitHub Stat
