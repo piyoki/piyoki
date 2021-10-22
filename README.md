@@ -100,16 +100,17 @@
 ## 📕  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying PHP Applications to Azure App Service with Azure DevOps](https://dotnetthoughts.net/deploying-php-app-to-appservice-with-azure-devops/)
-- [Deploying Angular with ASP.​NET MVC 5 on IIS](https://dotnetthoughts.net/deploying-angular-with-asp-net-mvc-5-on-iis/)
-- [The workflow must be associated with an integration account - Azure Logic App](https://dotnetthoughts.net/using-excute-javascript-code-action-in-azure-logic-app/)
-- [OData (Open Data Protocol) in ASP.NET 6.0](https://dotnetthoughts.net/odata-in-aspnet-core6/)
-- [Working with DevOps friendly EF Core Migration Bundles](https://dotnetthoughts.net/working-with-ef-core-migration-bundles/)
-- [How to implement two-factor authentication in ASP.NET Core without Identity](https://dotnetthoughts.net/how-to-implement-2fa-with-aspnet-core-without-identity/)
-- [ASP.NET Core Web.config Transform for Production](https://dotnetthoughts.net/asp-net-core-web-config-transform-for-production/)
-- [Continuous database deployment with GitHub Actions](https://dotnetthoughts.net/continuous-database-deployment-with-github-actions/)
-- [Run EF Core Migrations in multiple databases with Azure DevOps](https://dotnetthoughts.net/run-ef-core-migrations-in-multiple-databases-with-azure-devops/)
-- [Authenticating ASP.NET Core MVC applications with Azure Active Directory B2C - User flows - Part2](https://dotnetthoughts.net/azure-active-directory-b2c-in-aspnet-core-mvc-part2/)
+- [Virtualize unRAID Server in VMWare ESXi 7.0](https://www.hikariai.net/blog/23-virtualize-unraid-server-in-vmware-esxi-7.0/)
+- [Kaniko: A Cloud-Native solution to build container images in Kubernetes Cluster](https://hikariai.net/blog/22-kaniko-a-cloud-native-solution-to-build-container-images-in-kubernetes-cluster)
+- [Containerized Microservices Cloud CI/CD Pipeline Automation with Jenkins, Helm, Keel, and Kubernetes](https://hikariai.net/blog/21-containerized-microservices-cloud-cicd-pipeline-automation/)
+- [Cloud-Native Edge Computing Signals a New Era of Digital Transformation](https://hikariai.net/blog/20-cloud-native-edge-computing-signals-a-new-era-of-digital-transformation/)
+- [Cross-architecture Kubernetes with Edge Devices Using Hybrid Cloud Strategy](https://hikariai.net/blog/18-cross-architecture-kubernetes-with-edge-devices-using-hybrid-cloud-strategy/)
+<!-- BLOG-POST-LIST:END --><!-- BLOG-POST-LIST:START -->
+- [Virtualize unRAID Server in VMWare ESXi 7.0](https://www.hikariai.net/blog/23-virtualize-unraid-server-in-vmware-esxi-7.0/)
+- [Kaniko: A Cloud-Native solution to build container images in Kubernetes Cluster](https://hikariai.net/blog/22-kaniko-a-cloud-native-solution-to-build-container-images-in-kubernetes-cluster)
+- [Containerized Microservices Cloud CI/CD Pipeline Automation with Jenkins, Helm, Keel, and Kubernetes](https://hikariai.net/blog/21-containerized-microservices-cloud-cicd-pipeline-automation/)
+- [Cloud-Native Edge Computing Signals a New Era of Digital Transformation](https://hikariai.net/blog/20-cloud-native-edge-computing-signals-a-new-era-of-digital-transformation/)
+- [Cross-architecture Kubernetes with Edge Devices Using Hybrid Cloud Strategy](https://hikariai.net/blog/18-cross-architecture-kubernetes-with-edge-devices-using-hybrid-cloud-strategy/)
 <!-- BLOG-POST-LIST:END -->
 
 <u>[More posts](https://hikariai.net)</u>
