@@ -99,13 +99,13 @@
 
 ## 📕  Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOGPOSTS:START -->
 - [Virtualize unRAID Server in VMWare ESXi 7.0](https://www.hikariai.net/blog/23-virtualize-unraid-server-in-vmware-esxi-7.0/)
 - [Kaniko: A Cloud-Native solution to build container images in Kubernetes Cluster](https://hikariai.net/blog/22-kaniko-a-cloud-native-solution-to-build-container-images-in-kubernetes-cluster)
 - [Containerized Microservices Cloud CI/CD Pipeline Automation with Jenkins, Helm, Keel, and Kubernetes](https://hikariai.net/blog/21-containerized-microservices-cloud-cicd-pipeline-automation/)
 - [Cloud-Native Edge Computing Signals a New Era of Digital Transformation](https://hikariai.net/blog/20-cloud-native-edge-computing-signals-a-new-era-of-digital-transformation/)
 - [Cross-architecture Kubernetes with Edge Devices Using Hybrid Cloud Strategy](https://hikariai.net/blog/18-cross-architecture-kubernetes-with-edge-devices-using-hybrid-cloud-strategy/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOGPOSTS:END -->
 
 <u>[More posts](https://hikariai.net)</u>
 
