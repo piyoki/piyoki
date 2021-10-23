@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/www.hikariai.net-up-brightegreen?style=for-the-badge)](https://hikariai.net)
 
-## I'm a Developer, DevOps Engineer, Cloud Solution Architect
+## I'm a Developer, DevOps Engineer, and Cloud Solution Architect
 
 ☁️ I am an advocate of Cloud Native and an ArchLinux User
 
