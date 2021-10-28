@@ -6,13 +6,15 @@
 
 ☁️ I am an advocate of Cloud Native and an ArchLinux User
 
-🌱 I’m currently learning more about CloudNative and Serverless.
+🌱 I’m currently learning more about CloudNative and Serverless
+
+⌨️ Huge fan of Vim
 
 💻 Currently working on a Homelab Private-Cloud project with VMware vSphere and Proxmox VE
 
 📫 How to reach me: [Link Page](https://link.hikariai.net)
 
-🎵 Fun fact: I spend almost 12 hours listening to songs every day.
+🎵 Fun fact: I spend almost 12 hours listening to songs every day
 
 ✅ 2021 Goals: Contribute more to Open Source projects
 
