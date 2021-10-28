@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning more about CloudNative and Serverless
 
-⌨️ Huge fan of Vim
+⌨️ Huge fan of Vim, and use Vim as my daily driver
 
 💻 Currently working on a Homelab Private-Cloud project with VMware vSphere and Proxmox VE
 
