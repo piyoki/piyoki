@@ -10,7 +10,7 @@
 
 📍 Interested in Kubernetes, Native CICD, GitOps, and DevSecOps
 
-⌨️ Huge fan of Vim, and use Vim as my daily driver
+⌨️ Huge fan of Vim, and use NeoVim as my daily driver
 
 💻 Currently working on a Homelab Private-Cloud project with VMware vSphere and Proxmox VE
 
