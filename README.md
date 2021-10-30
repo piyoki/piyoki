@@ -61,10 +61,6 @@
 
 > ETCD, MongoDB, MySQL, MariaDB, PostgreSQL, Firestore, InfluxDB, Redis
 
-##### Cluster Provisioning
-
-> Kubeadm, Kind, K3D, GKE, OKE, EKS, OpenShift, k0S
-
 ##### DevOps CI/CD and GitOps
 
 > Git, Jenkins, Ansible, CircleCI, Tekton CICD, Argo Workflow, Argo CD, OpenShift, Weaveworks, Flux CD
@@ -89,9 +85,9 @@
 
 > gRPC, Service Mesh, Mesh Gateways, Consul, Istios, Linkerd, Envoy, HAproxy, Nginx, Trafik, Helm, Keel (Automation tool for Kubernetes deployment updates), Argo CD, Flux CD, ArgoWorkflow, Tekton CI, Kafka (Stream Processing), Harbor (Private Container Repository), Longhorn (Cloud Native Distributed Storage), Buildpack, Paketo, Kaniko (Container Image Builder), EFK Stack, FluentBit, Fluentd (Log Management), Knative, KubeFlow, KubeEdge, Nvidia Operator, Flagger (Service Deployment Operator), Kubeseal (Secret Operator), KubeLinter (Configuration Sanity Checker), KubeVela (OAM Implementation), Kogito (Serverless Workflow), Zipkin (Traces and Latency), Apache JMeter (Test as a Service), NeoLoad (Load Testing), Keptn (Cloud Native Application Life-cycle Orchestration), Velero (Backups), GatesKeeper (Admision Controller), KubeMQ (Enterprise-Grade Message Broker), Apache Pulsar (Alternative to Apache Kafka), Capsule (Multi-Tenant Kubernetes Cluster), VCluser (Virtual Cluster together with PR), DevSpace (Developer Tool for Kubernetes)
 
-##### Container Runtime & Orchestration
+##### Container Runtime, Orchestration, and Provision
 
-> Docker, Kata Container, CRI-O, Containerd, Docker Swarm, Rancher (k3s), CloudFoundry, Kubernetes (k8s), OpenShift, AWS ECS, K3D, K0S, MiniKube
+> Docker, Kata Container, CRI-O, Containerd, Docker Swarm, Rancher (k3s), CloudFoundry, Kubernetes (k8s), OpenShift, AWS EKS, GKE, OKE, K3D, K0S, MiniKube, Kind
 
 ##### Artificial Intelligence
 
