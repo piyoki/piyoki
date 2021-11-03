@@ -113,7 +113,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 October, 2021 - 01 November, 2021
+Week: 27 October, 2021 - 02 November, 2021
 
 Other      █████████████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░   33.62 % 
 Markdown   █████████████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░   33.34 % 
