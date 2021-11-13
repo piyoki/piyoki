@@ -15,7 +15,7 @@ jobs:
           GH_TOKEN: ${{ secrets.TOKEN }}
           SHOW_TIME: false
           SHOW_TITLE: true
-          
+
   # Update blog posts
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -26,4 +26,3 @@ jobs:
         with:
           # you can change this to your own RSS feed
           feed_list: "https://www.hikariai.net/index.xml"
-      
