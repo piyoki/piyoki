@@ -113,7 +113,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 November, 2021 - 11 November, 2021
+Week: 06 November, 2021 - 12 November, 2021
 
 Other   █████████████████████████████████████████   100.00 % 
 ```
