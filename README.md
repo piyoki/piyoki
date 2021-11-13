@@ -102,6 +102,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Virtualize unRAID Server in VMWare ESXi 7.0](https://www.hikariai.net/blog/23-virtualize-unraid-server-in-vmware-esxi-7.0/)
 - [Kaniko: A Cloud-Native solution to build container images in Kubernetes Cluster](https://www.hikariai.net/blog/22-kaniko-a-cloud-native-solution-to-build-container-images-in-kubernetes-cluster/)
+- [Kevin Yu](https://www.hikariai.net/author/kevin-yu/)
 - [Containerized Microservices Cloud CI/CD Pipeline Automation with Jenkins, Helm, Keel, and Kubernetes](https://www.hikariai.net/blog/21-containerized-microservices-cloud-cicd-pipeline-automation/)
 - [Cloud-Native Edge Computing Signals a New Era of Digital Transformation](https://www.hikariai.net/blog/20-cloud-native-edge-computing-signals-a-new-era-of-digital-transformation/)
 <!-- BLOG-POST-LIST:END -->
