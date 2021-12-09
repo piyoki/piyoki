@@ -8,6 +8,8 @@
 
 🌱 I’m currently learning more about CloudNative and Serverless
 
+🌟 I focus primarily on topics accross Serverless, GitOps, and DevSecOps
+
 📍 Interested in Kubernetes, Native CICD, GitOps, DevSecOps, and Hackintosh
 
 ⌨️ Huge fan of Vim, and use NeoVim as my daily driver
