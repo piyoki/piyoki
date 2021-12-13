@@ -6,7 +6,7 @@
 
 ☁️ I am an advocate of Cloud Native and an ArchLinux User
 
-🌱 I’m currently learning more about CloudNative and Serverless
+🌱 OpenSource new-comer
 
 🌟 I focus primarily on topics accross Serverless, GitOps, Native CICD, and DevSecOps
 
