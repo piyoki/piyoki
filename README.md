@@ -6,7 +6,7 @@
 
 ☁️ I am an advocate of Cloud Native and an ArchLinux User
 
-🌱 OpenSource new-comer
+🌱 I am an OpenSource Newbie
 
 🌟 I focus primarily on topics accross Serverless, GitOps, Native CICD, and DevSecOps
 
