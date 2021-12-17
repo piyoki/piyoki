@@ -10,7 +10,7 @@
 
 🌎 I speak Mandarin, Cantonese, English, and Japanese
 
-🌟 I focus primarily on topics accross Serverless, GitOps, Native CICD, and DevSecOps
+🌟 Primarily focusing on topics accross Serverless, GitOps, Native CICD, and DevSecOps
 
 ⌨️ Neovim Amateur desu~
 
