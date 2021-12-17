@@ -10,7 +10,7 @@
 
 🌟 I focus primarily on topics accross Serverless, GitOps, Native CICD, and DevSecOps
 
-⌨️ Huge fan of Vim, and use NeoVim as my daily driver
+⌨️ Neovim Amateur desu~
 
 💻 Currently working on a Homelab Private-Cloud project with VMware vSphere and Proxmox VE
 
