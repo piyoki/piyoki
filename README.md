@@ -8,6 +8,8 @@
 
 🌱 I am an OpenSource Newbie
 
+🌎 I speak Mandarin, Cantonese, English, and Japanese
+
 🌟 I focus primarily on topics accross Serverless, GitOps, Native CICD, and DevSecOps
 
 ⌨️ Neovim Amateur desu~
