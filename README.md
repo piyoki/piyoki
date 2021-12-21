@@ -115,11 +115,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 December, 2021 - 19 December, 2021
-
-Go           ███████████████████████████░░░░░░░░░░░░░░   66.03 % 
-Markdown     ██████████▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   25.25 % 
-Git Config   █▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
