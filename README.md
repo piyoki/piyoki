@@ -115,7 +115,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 10 January, 2022 - 16 January, 2022
+
+Go   █████████████████████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
