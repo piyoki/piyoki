@@ -73,7 +73,7 @@
 
 ##### Serverless & Cloud Function (FaaS, or Function as a Service)
 
-> API Gateways, Fn, Oracle Functions, Google Cloud Functions, AWS Lamda, Vercel Serverless Function, AWS Fargate (Serverless way to launch containers)
+> API Gateways, Fn, Oracle Functions, Google Cloud Functions, AWS Lamda, Vercel Serverless Function, AWS Fargate (Serverless way to launch containers), OpenFaaS
 
 ##### Monitoring Tools
 
