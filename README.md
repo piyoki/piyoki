@@ -53,7 +53,7 @@
 
 ##### Languages
 
-> JaveScript, HTML, CSS, C, C++, #C, Shell, Groovy, Java, Python, Golang, TypeScript, YAML, JSON, Vim Script, Markdown, HCL, Lua, PromQL
+> JaveScript, HTML, CSS, C, C++, #C, Shell, Groovy, Java, Python, Golang, TypeScript, YAML, JSON, Vim Script, Markdown, HCL, Lua, PromQL, Ruby
 
 ##### Web Development
 
