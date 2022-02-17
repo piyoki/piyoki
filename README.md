@@ -10,7 +10,7 @@
 
 🌎 I speak Mandarin, Cantonese, English, and Japanese
 
-🌟 Primarily focusing on topics accross Serverless, GitOps, Native CICD, and DevSecOps
+🌟 Primarily focus on topics accross Serverless, GitOps, Native CICD, and DevSecOps
 
 ⌨️ Neovim Amateur desu~
 
@@ -67,7 +67,7 @@
 
 > Git, Jenkins, Ansible, CircleCI, Tekton CICD, Argo Workflow, Argo CD, OpenShift, Weaveworks, Flux CD
 
-##### Infrastructure as Code
+##### Infrastructure as Code, Template as Code
 
 > Pulumi, CrossPlane, Terraform, Packer, Cloud-init
 
