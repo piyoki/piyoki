@@ -8,7 +8,9 @@
 
 🌱 I am an OpenSource Newbie
 
-🌎 I speak Mandarin, Cantonese, English, and Japanese
+🌎 Contribute projects globally
+
+🌎 Native in Cantonese, Proficient in Madarin, English, and Japanese
 
 🌟 Primarily focus on topics accross Serverless, GitOps, Native CICD, and DevSecOps
 
