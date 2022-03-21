@@ -118,9 +118,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 March 2022 - To: 19 March 2022
+From: 13 March 2022 - To: 20 March 2022
 
-Other                        █████████████▓░░░░░░░░░░░   55.02 %
+YAML                        █████████████░░░░░░░░░░░░   52.57 %
+Other                       ██████▓░░░░░░░░░░░░░░░░░░   27.02 %
 ```
 
 <!--END_SECTION:waka-->
