@@ -87,7 +87,7 @@
 
 ##### Cloud Hosting
 
-> vSphere, vCenter, AWS, Google Cloud, Huawei Cloud, Oracle Cloud, AliCloud, Tencent Cloud, Bandwagon VPS Hosting, Tencent Cloud, Baidu Cloud, Linnode, Vultr, Civo
+> vSphere, vCenter, Proxmox VE, AWS, Google Cloud, Huawei Cloud, Oracle Cloud, AliCloud, Tencent Cloud, Bandwagon VPS Hosting, Tencent Cloud, Baidu Cloud, Linnode, Vultr, Civo
 
 ##### Container Runtime, Orchestration, and Provision
 
