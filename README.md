@@ -71,7 +71,7 @@
 
 ##### Networking and Firewall
 
-> L2/L3 Routing, VLAN, Pfsense, OPNSense, Sophos-XG-Firewall, Cloud Router, IPS, DDoS Protection
+> L2/L3 Routing, VLAN, Pfsense, OPNSense, Sophos-XG-Firewall, Cloud Router, IPS, DDoS Protection, CDN, Proxy Tunnel
 
 ##### Infrastructure as Code, Template as Code
 
