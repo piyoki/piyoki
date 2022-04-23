@@ -122,10 +122,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 April 2022 - To: 21 April 2022
+From: 15 April 2022 - To: 22 April 2022
 
-Markdown                    ████████▒░░░░░░░░░░░░░░░░   33.76 %
-Other                       ███████▓░░░░░░░░░░░░░░░░░   30.42 %
+Markdown                    ███████▓░░░░░░░░░░░░░░░░░   30.08 %
+Other                       █████▓░░░░░░░░░░░░░░░░░░░   22.72 %
 ```
 
 <!--END_SECTION:waka-->
