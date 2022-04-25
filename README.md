@@ -108,11 +108,11 @@
 ## 📕  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Use Packer like a Pro](https://www.hikariai.net/blog/24-use-packer-like-a-pro/)
 - [Virtualize unRAID Server in VMWare ESXi 7.0](https://www.hikariai.net/blog/23-virtualize-unraid-server-in-vmware-esxi-7.0/)
 - [Kaniko: A Cloud-Native solution to build container images in Kubernetes Cluster](https://www.hikariai.net/blog/22-kaniko-a-cloud-native-solution-to-build-container-images-in-kubernetes-cluster/)
 - [Containerized Microservices Cloud CI/CD Pipeline Automation with Jenkins, Helm, Keel, and Kubernetes](https://www.hikariai.net/blog/21-containerized-microservices-cloud-cicd-pipeline-automation/)
 - [Cloud-Native Edge Computing Signals a New Era of Digital Transformation](https://www.hikariai.net/blog/20-cloud-native-edge-computing-signals-a-new-era-of-digital-transformation/)
-- [Cloud-Native Solution: Build a Server Cluster with Docker Swarm](https://www.hikariai.net/blog/19-cloud-native-solution-build-a-server-cluster-with-docker-swarm/)
 <!-- BLOG-POST-LIST:END -->
 
 <u>[More posts](https://hikariai.net)</u>
