@@ -68,7 +68,7 @@
 
 ##### DevOps CI/CD and GitOps
 
-> Git, Jenkins, Ansible, CircleCI, Tekton CICD, Argo Workflow, Argo CD, OpenShift, Weaveworks, Flux CD, ChatOps
+> Git, Jenkins, Ansible, CircleCI, Tekton CICD, Argo Workflow, Argo CD, OpenShift, Weaveworks, Flux CD, ChatOps, Jenkins X
 
 ##### Networking and Firewall
 
