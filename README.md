@@ -68,7 +68,7 @@
 
 ##### DevOps CI/CD and GitOps
 
-> Git, Jenkins, Ansible, CircleCI, Tekton CICD, Argo Workflow, Argo CD, OpenShift, Weaveworks, Flux CD
+> Git, Jenkins, Ansible, CircleCI, Tekton CICD, Argo Workflow, Argo CD, OpenShift, Weaveworks, Flux CD, ChatOps
 
 ##### Networking and Firewall
 
@@ -96,7 +96,7 @@
 
 ##### Cloud Native Solutions
 
-> gRPC, Service Mesh, Mesh Gateways, Consul, Istios, Linkerd, Envoy, HAproxy, Nginx, Trafik, Helm, Keel (Automation tool for Kubernetes deployment updates), Argo CD, Flux CD, ArgoWorkflow, Tekton CI, Kafka (Stream Processing), Harbor (Private Container Repository), Longhorn (Cloud Native Distributed Storage), Buildpack, Paketo, Kaniko (Container Image Builder), EFK Stack, FluentBit, Fluentd (Log Management), Knative, KubeFlow, KubeEdge, Nvidia Operator, Flagger (Service Deployment Operator), Kubeseal (Secret Operator), KubeLinter (Configuration Sanity Checker), KubeVela (OAM Implementation), Kogito (Serverless Workflow), Zipkin (Traces and Latency), Apache JMeter (Test as a Service), NeoLoad (Load Testing), Keptn (Cloud Native Application Life-cycle Orchestration), Velero (Backups), GatesKeeper (Admision Controller), KubeMQ (Enterprise-Grade Message Broker), Apache Pulsar (Alternative to Apache Kafka), Capsule (Multi-Tenant Kubernetes Cluster), VCluser (Virtual Cluster together with PR), DevSpace (Developer Tool for Kubernetes), Keda (Kubernetes Event-driven Autoscaling), Dapr (Microservice Runtime System), Karmada (Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration), Faasd (Lightweight & portable faas engine), Sysbox (Next generation Container Runtime), Flagger (Progressive Delivery), OpenTelemetry (Tracing Tool)
+> gRPC, Service Mesh, Mesh Gateways, Consul, Istios, Linkerd, Envoy, HAproxy, Nginx, Trafik, Helm, Keel (Automation tool for Kubernetes deployment updates), Argo CD, Flux CD, ArgoWorkflow, Tekton CI, Kafka (Stream Processing), Harbor (Private Container Repository), Longhorn (Cloud Native Distributed Storage), Buildpack, Paketo, Kaniko (Container Image Builder), EFK Stack, FluentBit, Fluentd (Log Management), Knative, KubeFlow, KubeEdge, Nvidia Operator, Flagger (Service Deployment Operator), Kubeseal (Secret Operator), KubeLinter (Configuration Sanity Checker), KubeVela (OAM Implementation), Kogito (Serverless Workflow), Zipkin (Traces and Latency), Apache JMeter (Test as a Service), NeoLoad (Load Testing), Keptn (Cloud Native Application Life-cycle Orchestration), Velero (Backups), GatesKeeper (Admision Controller), KubeMQ (Enterprise-Grade Message Broker), Apache Pulsar (Alternative to Apache Kafka), Capsule (Multi-Tenant Kubernetes Cluster), VCluser (Virtual Cluster together with PR), DevSpace (Developer Tool for Kubernetes), Keda (Kubernetes Event-driven Autoscaling), Dapr (Microservice Runtime System), Karmada (Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration), Faasd (Lightweight & portable faas engine), Sysbox (Next generation Container Runtime), Flagger (Progressive Delivery), OpenTelemetry (Tracing Tool), Jenkins X (Native CICD Pipeline Engine)
 
 ##### Artificial Intelligence
 
