@@ -20,7 +20,7 @@
 
 📫 How to reach me: [Link Page](https://link.hikariai.net)
 
-🎵 Fun fact: I spend almost 12 hours listening to songs every day
+🎵 Fun fact: I spend almost 8 hours listening to songs every day
 
 ✅ 2022 Goals: Contribute more to open-source projects
 
