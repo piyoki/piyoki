@@ -1,6 +1,6 @@
 ## Hi, there 👋
 
-[![Headline Image](https://github.com/yqlbu/yqlbu/blob/master/assets/headline.png?raw=true)](https://github.com/yqlbu)
+[![Headline Image](https://github.com/yqlbu/yqlbu/blob/master/assets/github-headline.png?raw=true)](https://github.com/yqlbu)
 
 [![](https://img.shields.io/badge/www.hikariai.net-up-brightegreen?style=for-the-badge)](https://hikariai.net)
 
