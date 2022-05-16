@@ -6,7 +6,7 @@
 
 ## About Me 👨🏻‍💻
 
-☁️ I am an advocate of Cloud Native and an ArchLinux User
+☁️ I am an advocate of CloudNative and an ArchLinux User
 
 🌱 I am an OpenSource Newbie
 
