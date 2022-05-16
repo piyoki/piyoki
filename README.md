@@ -30,7 +30,7 @@
 [![Linkedin: kevin-yu](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinglong-kevin-yu)](https://www.linkedin.com/in/chinglong-kevin-yu)
 [![Discord: tech-prober](https://img.shields.io/badge/Discord-TechProber-blueviolet?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/hyNwvjtBJ7)](https://discord.gg/hyNwvjtBJ7)
 [![Twitch: TheDevOpsNut](https://img.shields.io/badge/Twitch-TheDevOpsNut-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/TheDevOpsNut)](https://www.twitch.tv/TheDevOpsNut)
-[![Telegram: hikariai](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/hikariai_channel)](https://t.me/hikariai_channel)
+[![Telegram: hikariai](https://img.shields.io/badge/Telegram-Hikari%20AI-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/hikariai_channel)](https://t.me/hikariai_channel)
 [![website](https://img.shields.io/badge/Personal%20Website-hikariai.net-brightgreen?style=flat-square&logo=Hugo)](https://hikariai.net/)
 [![RSS](https://img.shields.io/badge/RSS-hikariai.net-yellow?style=flat-square&logo=rss)](https://www.hikariai.net/index.xml)
 
