@@ -1,4 +1,6 @@
-## Hi there, I'm Kevin Yu 👋 
+## Hi, there 👋
+
+[![Headline Image](https://github.com/yqlbu/yqlbu/blob/master/assets/headline.png?raw=true)](https://github.com/yqlbu)
 
 [![](https://img.shields.io/badge/www.hikariai.net-up-brightegreen?style=for-the-badge)](https://hikariai.net)
 
@@ -52,7 +54,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 ##### Languages
 
@@ -110,9 +112,10 @@
 
 > Message Quene and Procasting (RabitMQ, MQTT, Apache Kafka), PWM Control, Motor Control, Lidar Control, Relay Control
 
-## 📕  Latest Blog Posts
+## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Use Packer like a Pro](https://www.hikariai.net/blog/24-use-packer-like-a-pro/)
 - [Virtualize unRAID Server in VMWare ESXi 7.0](https://www.hikariai.net/blog/23-virtualize-unraid-server-in-vmware-esxi-7.0/)
 - [Kaniko: A Cloud-Native solution to build container images in Kubernetes Cluster](https://www.hikariai.net/blog/22-kaniko-a-cloud-native-solution-to-build-container-images-in-kubernetes-cluster/)
@@ -140,11 +143,3 @@ Other                       ███▒░░░░░░░░░░░░░�
 <a href="https://github.com/yqlbu">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yqlbu&show_icons=true&theme=light&line_height=30" alt="Kevin's github stats"/>
 </a>
-
-
-
-
-
-
-
-
