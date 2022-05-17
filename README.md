@@ -40,29 +40,49 @@
 
 ## Skills
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Containerd](https://img.shields.io/badge/-Containerd-000?&logo=Containerd)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform&logoColor=blueviolet)
+![CircleCI](https://img.shields.io/badge/-Circle%20CI-000?&logo=CircleCI)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
+![Tekton](https://img.shields.io/badge/-Tekton-000?&logo=Tekton)
+![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
+![Packer](https://img.shields.io/badge/-Packer-000?&logo=Packer)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Knative](https://img.shields.io/badge/-Knative-000?&logo=Knative&logoColor=blue)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=darkred)
+![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
 ##### Languages
 
-> JaveScript, HTML, CSS, C, C++, #C, Shell, Groovy, Java, Python, Golang, TypeScript, YAML, JSON, Vim Script, Markdown, HCL, Lua, PromQL, Ruby
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
+![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=darkred)
+![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
+![Groovy](https://img.shields.io/badge/-Groovy-000?&logo=ApacheGroovy)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Shell](https://img.shields.io/badge/-Shell-000?&logo=GNOMETerminal)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=yellow)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=CPlusPlus&logoColor=blue)
+![Vim Script](https://img.shields.io/badge/-Vim%20Script-000?&logo=vim&logoColor=green)
+![Lua](https://img.shields.io/badge/-C++-000?&logo=Lua&logoColor=pink)
+![PromQL](https://img.shields.io/badge/-PromQL-000?&logo=Prometheus)
+![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
 
 ##### Web Development
 
-> NodeJS, ExpressJS, ReactJS, AngularJS, RxJS, RestfulAPI, Yarn, Webpack, Flask, SprintBoot
+> Flask, Go-Gin, NodeJS, ExpressJS, ReactJS, AngularJS, RxJS, Yarn, Webpack
 
 ##### Database
 
