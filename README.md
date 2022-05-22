@@ -76,7 +76,7 @@
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=CPlusPlus&logoColor=blue)
 ![Vim Script](https://img.shields.io/badge/-Vim%20Script-000?&logo=vim&logoColor=green)
-![Lua](https://img.shields.io/badge/-C++-000?&logo=Lua&logoColor=pink)
+![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua&logoColor=pink)
 ![PromQL](https://img.shields.io/badge/-PromQL-000?&logo=Prometheus)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
 
