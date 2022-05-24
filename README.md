@@ -1,4 +1,4 @@
-## Welcome! 👋
+## Welcome 👋
 
 [![Headline Image](https://github.com/yqlbu/yqlbu/blob/master/assets/github-headline.png?raw=true)](https://github.com/yqlbu)
 
