@@ -24,7 +24,7 @@
 
 🎵 Fun fact: I spend almost 8 hours listening to songs every day
 
-✅ 2022 Goals: Contribute more to open-source projects
+✅ 2022 Goals: Contribute more to open-source project; get the `CKA` and `CKAD` by the end of the year
 
 [![ProfileView: yqlbu](https://komarev.com/ghpvc/?username=yqlbu&label=PROFILE+VIEWS&color=red&style=flat-square)](https://github.com/yqlbu)
 [![Linkedin: kevin-yu](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinglong-kevin-yu)](https://www.linkedin.com/in/chinglong-kevin-yu)
