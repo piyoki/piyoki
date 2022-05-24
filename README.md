@@ -10,19 +10,19 @@
 
 🌱 I am an OpenSource Newbie
 
+⌨️ Neovim Amateur desu~
+
 🌎 Contribute projects globally
 
 🌎 Native in Cantonese, Proficient in Madarin, English, and Japanese
 
-🌟 Primarily focus on topics accross Serverless, GitOps, Native CICD, and DevSecOps
-
-⌨️ Neovim Amateur desu~
+🌟 Primarily focus on topics ranging from Serverless, GitOps, Native CICD, and DevSecOps
 
 💻 Currently working on a Homelab Private-Cloud project with VMware vSphere and Proxmox VE
 
-📫 How to reach me: [Link Page](https://link.hikariai.net)
+🎵 Fun fact:I spend 6-8 hours listening to music everyday. I love R&B, Blue, Pop, and Jazz!
 
-🎵 Fun fact: I spend almost 8 hours listening to songs every day
+📫 How to reach me: [Link Page](https://link.hikariai.net)
 
 ✅ 2022 Goals: Contribute more to open-source project; get the `CKA` and `CKAD` by the end of the year
 
