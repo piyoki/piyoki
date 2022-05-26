@@ -3,6 +3,7 @@
 [![Headline Image](https://github.com/yqlbu/yqlbu/blob/master/assets/github-headline.png?raw=true)](https://github.com/yqlbu)
 
 [![](https://img.shields.io/badge/www.hikariai.net-up-brightegreen?style=for-the-badge)](https://hikariai.net)
+[![](https://img.shields.io/badge/link.hikariai.net-up-brightegreen?style=for-the-badge)](https://link.hikariai.net)
 
 ## About Me 👨🏻‍💻
 
@@ -14,29 +15,32 @@
 
 🌎 Contribute projects globally
 
-🌎 Native in Cantonese, Proficient in Madarin, English, and Japanese
+🌎 Native in Cantonese, Proficient in Mandarin, English, and Japanese
 
 🌟 Primarily focus on topics ranging from Serverless, GitOps, Native CICD, and DevSecOps
 
 💻 Currently working on a Homelab Private-Cloud project with VMware vSphere and Proxmox VE
 
-🎵 Fun fact: I spend 6-8 hours listening to music everyday. I love R&B, Blue, Pop, and Jazz!
+🎵 Fun fact: I spend 6-8 hours listening to music every day. I love R&B, Blue, Pop, and Jazz!
 
 📫 How to reach me: [Link Page](https://link.hikariai.net)
 
-✅ 2022 Goals: Contribute more to open-source project; get the `CKA` and `CKAD` by the end of the year
+✅ 2022 Goals: Contribute more to open-source projects; get the `CKA` and `CKAD` by the end of the year
 
-[![ProfileView: yqlbu](https://komarev.com/ghpvc/?username=yqlbu&label=PROFILE+VIEWS&color=red&style=flat-square)](https://github.com/yqlbu)
-[![Linkedin: kevin-yu](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinglong-kevin-yu)](https://www.linkedin.com/in/chinglong-kevin-yu)
+## Contacts
+
+[![ProfileView: yqlbu](https://komarev.com/ghpvc/?username=yqlbu&label=Profile+View&color=red&style=flat-square)](https://github.com/yqlbu)
+[![Linkedin: kevin-yu](https://img.shields.io/badge/Linkedin-Kevin%20Yu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinglong-kevin-yu)](https://www.linkedin.com/in/chinglong-kevin-yu)
 [![Discord: tech-prober](https://img.shields.io/badge/Discord-TechProber-blueviolet?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/hyNwvjtBJ7)](https://discord.gg/hyNwvjtBJ7)
 [![Twitch: TheDevOpsNut](https://img.shields.io/badge/Twitch-TheDevOpsNut-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/TheDevOpsNut)](https://www.twitch.tv/TheDevOpsNut)
 [![Telegram: hikariai](https://img.shields.io/badge/Telegram-Hikari%20AI-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/hikariai_channel)](https://t.me/hikariai_channel)
 [![website](https://img.shields.io/badge/Personal%20Website-hikariai.net-brightgreen?style=flat-square&logo=Hugo)](https://hikariai.net/)
 [![RSS](https://img.shields.io/badge/RSS-hikariai.net-yellow?style=flat-square&logo=rss)](https://www.hikariai.net/index.xml)
 
-## Contacts
+## Repos
 
-[![](https://img.shields.io/badge/link.hikariai.net-up-brightegreen?style=for-the-badge)](https://link.hikariai.net)
+[![Repo](https://custom-icon-badges.herokuapp.com/badge/-Personal%20Repos-black?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/yqlbu)
+[![Repo](https://custom-icon-badges.herokuapp.com/badge/-Team%20Repos-black?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/TechProber)
 
 ## Skills
 
@@ -120,7 +124,7 @@
 
 > HAproxy, Nginx, Trafik, Istio, Linkerd, Envoy, Consul
 
-##### Cloud Native Solutions
+##### Cloud-Native Solutions
 
 > gRPC, Helm, Keel (Automation tool for Kubernetes deployment updates), Argo CD, Flux CD, ArgoWorkflow, Tekton CI (Kubernetes Native CI), Kafka (Stream Processing), Harbor (Private Container Repository), Longhorn (Cloud Native Distributed Storage), Buildpack, Paketo, Kaniko (Container Image Builder), EFK Stack, FluentBit, Fluentd (Log Management), Knative, KubeFlow, KubeEdge, Nvidia Operator, Flagger (Service Deployment Operator), Kubeseal (Secret Operator), KubeLinter (Configuration Sanity Checker), KubeVela (OAM Implementation), Kogito (Serverless Workflow), Zipkin (Traces and Latency), Apache JMeter (Test as a Service), NeoLoad (Load Testing), Keptn (Cloud Native Application Life-cycle Orchestration), Velero (Backups), GatesKeeper (Admision Controller), KubeMQ (Enterprise-Grade Message Broker), Apache Pulsar (Alternative to Apache Kafka), Capsule (Multi-Tenant Kubernetes Cluster), VCluser (Virtual Cluster together with PR), DevSpace (Developer Tool for Kubernetes), Keda (Kubernetes Event-driven Autoscaling), Dapr (Microservice Runtime System), Karmada (Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration), Faasd (Lightweight & portable faas engine), Sysbox (Next generation Container Runtime), Flagger (Progressive Delivery), OpenTelemetry (Tracing Tool), Jenkins X (Native CICD Pipeline Engine), Cilium (eBPF-based Networking, Observability, Security)
 
