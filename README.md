@@ -44,8 +44,10 @@
 
 ## Skills
 
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Containerd](https://img.shields.io/badge/-Containerd-000?&logo=Containerd)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
@@ -55,7 +57,9 @@
 ![Tekton](https://img.shields.io/badge/-Tekton-000?&logo=Tekton)
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
 ![Packer](https://img.shields.io/badge/-Packer-000?&logo=Packer)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx&logoColor=009900)
 ![Knative](https://img.shields.io/badge/-Knative-000?&logo=Knative&logoColor=blue)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
@@ -64,6 +68,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=darkred)
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
 ##### Languages
 
