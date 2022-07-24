@@ -99,15 +99,15 @@
 
 ##### DevOps CI/CD and GitOps
 
-> Git, Jenkins, Ansible, CircleCI, Tekton CICD, Argo Workflow, Argo CD, OpenShift, Weaveworks, Flux CD, ChatOps, Jenkins X
+> Git, Jenkins, CircleCI, Tekton CICD, Argo Workflow, Argo CD, OpenShift, Weaveworks, Flux CD, ChatOps, Jenkins X
 
 ##### Networking and Firewall
 
 > L2/L3 Routing, VLAN, Pfsense, OPNSense, Sophos-XG-Firewall, Cloud Router, IPS, DDoS Protection, CDN, Proxy Tunnel
 
-##### Infrastructure as Code, Template as Code
+##### Infrastructure as Code, Template as Code, and Configuration as Code
 
-> Pulumi, CrossPlane, Terraform, Terragrunt, Packer, Cloud-init
+> Pulumi, CrossPlane, Terraform, Terragrunt, Packer, Cloud-init, Ansible
 
 ##### Serverless & Cloud Function (FaaS, or Function as a Service)
 
@@ -119,7 +119,7 @@
 
 ##### Cloud Hosting
 
-> vSphere, vCenter, Proxmox VE, AWS, Google Cloud, Huawei Cloud, Oracle Cloud, AliCloud, Tencent Cloud, Bandwagon VPS Hosting, Tencent Cloud, Baidu Cloud, Linnode, Vultr, Civo
+> vSphere, vCenter, Proxmox VE, AWS, Google Cloud, Huawei Cloud, Oracle Cloud, AliCloud, Bandwagon VPS Hosting, Tencent Cloud, Linnode, Vultr, Civo, Hetzner
 
 ##### Container Runtime, Orchestration, and Provision
 
