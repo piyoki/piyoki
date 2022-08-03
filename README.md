@@ -98,9 +98,13 @@
 
 > ETCD, MongoDB, MySQL, MariaDB, PostgreSQL, Firestore, InfluxDB, Redis
 
-##### DevOps CI/CD and GitOps
+##### DevOps, CI/CD and GitOps
 
-> Git, Jenkins, CircleCI, Tekton CICD, Argo Workflow, Argo CD, OpenShift, Weaveworks, Flux CD, ChatOps, Jenkins X
+> GitHub Checks (Check Suite and Check Run), ChatOps based on Pull Request
+
+> Git, Jenkins, CircleCI, Tekton CI, Argo Workflow, OpenShift, Weaveworks, Jenkins X, Argo Events, Argo Workflow, Argo Image Updater
+
+> ArgoCD, FluxCD
 
 ##### Networking and Firewall
 
