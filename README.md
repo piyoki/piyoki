@@ -149,7 +149,6 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Use Packer like a Pro](https://www.hikariai.net/blog/24-use-packer-like-a-pro/)
 - [Virtualize unRAID Server in VMWare ESXi 7.0](https://www.hikariai.net/blog/23-virtualize-unraid-server-in-vmware-esxi-7.0/)
 - [Kaniko: A Cloud-Native solution to build container images in Kubernetes Cluster](https://www.hikariai.net/blog/22-kaniko-a-cloud-native-solution-to-build-container-images-in-kubernetes-cluster/)
