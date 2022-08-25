@@ -162,11 +162,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#39](https://github.com/yqlbu/hikariai-web/pull/39) in [yqlbu/hikariai-web](https://github.com/yqlbu/hikariai-web)
-2. 🗣 Commented on [#471](https://github.com/IrineSistiana/mosdns/issues/471) in [IrineSistiana/mosdns](https://github.com/IrineSistiana/mosdns)
-3. ❗️ Opened issue [#471](https://github.com/IrineSistiana/mosdns/issues/471) in [IrineSistiana/mosdns](https://github.com/IrineSistiana/mosdns)
-4. 🎉 Merged PR [#167](https://github.com/TechProber/cloud-estate/pull/167) in [TechProber/cloud-estate](https://github.com/TechProber/cloud-estate)
-5. 💪 Opened PR [#167](https://github.com/TechProber/cloud-estate/pull/167) in [TechProber/cloud-estate](https://github.com/TechProber/cloud-estate)
+1. 🎉 Merged PR [#39](https://github.com/yqlbu/hikariai-web/pull/39) in [yqlbu/hikariai-web](https://github.com/yqlbu/hikariai-web)
+2. 💪 Opened PR [#39](https://github.com/yqlbu/hikariai-web/pull/39) in [yqlbu/hikariai-web](https://github.com/yqlbu/hikariai-web)
+3. 🗣 Commented on [#471](https://github.com/IrineSistiana/mosdns/issues/471) in [IrineSistiana/mosdns](https://github.com/IrineSistiana/mosdns)
+4. ❗️ Opened issue [#471](https://github.com/IrineSistiana/mosdns/issues/471) in [IrineSistiana/mosdns](https://github.com/IrineSistiana/mosdns)
+5. 🎉 Merged PR [#167](https://github.com/TechProber/cloud-estate/pull/167) in [TechProber/cloud-estate](https://github.com/TechProber/cloud-estate)
 
 <!--END_SECTION:activity-->
 
