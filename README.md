@@ -21,7 +21,7 @@
 
 💻 Currently working on a Homelab Private-Cloud project with VMware vSphere and Proxmox VE
 
-🎵 Fun fact: I spend 6-8 hours listening to music every day. I love R&B, Blue, Pop, and Jazz!
+🎵 Fun fact: I spend 6-8 hours listening to music every day. I love R&B, Blue, J-Pop, and Jazz!
 
 📫 How to reach me: [Link Page](https://link.hikariai.net)
 
