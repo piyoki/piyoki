@@ -162,7 +162,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#174](https://github.com/TechProber/cloud-estate/pull/174) in [TechProber/cloud-estate](https://github.com/TechProber/cloud-estate)
+1. 🎉 Merged PR [#44](https://github.com/yqlbu/hikariai-web/pull/44) in [yqlbu/hikariai-web](https://github.com/yqlbu/hikariai-web)
 2. 💪 Opened PR [#174](https://github.com/TechProber/cloud-estate/pull/174) in [TechProber/cloud-estate](https://github.com/TechProber/cloud-estate)
 3. ❌ Reopened PR [#44](https://github.com/yqlbu/hikariai-web/pull/44) in [yqlbu/hikariai-web](https://github.com/yqlbu/hikariai-web)
 4. ❌ Closed PR [#44](https://github.com/yqlbu/hikariai-web/pull/44) in [yqlbu/hikariai-web](https://github.com/yqlbu/hikariai-web)
