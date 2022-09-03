@@ -175,10 +175,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 August 2022 - To: 31 August 2022
+From: 25 August 2022 - To: 01 September 2022
 
-Markdown                     ██████████░░░░░░░░░░░░░░░   40.28 %
-Other                        ████████░░░░░░░░░░░░░░░░░   32.31 %
+Other                        ██████████▒░░░░░░░░░░░░░░   41.93 %
 ```
 
 <!--END_SECTION:waka-->
