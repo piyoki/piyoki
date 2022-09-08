@@ -175,10 +175,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 August 2022 - To: 06 September 2022
+From: 31 August 2022 - To: 07 September 2022
 
-YAML                        ███████████████████░░░░░░   75.70 %
-Other                       ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
+YAML                        ████████████████████░░░░░   79.76 %
+Other                       █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
 ```
 
 <!--END_SECTION:waka-->
