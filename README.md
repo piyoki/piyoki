@@ -162,11 +162,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#189](https://github.com/TechProber/cloud-estate/pull/189) in [TechProber/cloud-estate](https://github.com/TechProber/cloud-estate)
-2. 💪 Opened PR [#188](https://github.com/TechProber/cloud-estate/pull/188) in [TechProber/cloud-estate](https://github.com/TechProber/cloud-estate)
-3. 💪 Opened PR [#187](https://github.com/TechProber/cloud-estate/pull/187) in [TechProber/cloud-estate](https://github.com/TechProber/cloud-estate)
-4. 🎉 Merged PR [#184](https://github.com/TechProber/cloud-estate/pull/184) in [TechProber/cloud-estate](https://github.com/TechProber/cloud-estate)
-5. 💪 Opened PR [#184](https://github.com/TechProber/cloud-estate/pull/184) in [TechProber/cloud-estate](https://github.com/TechProber/cloud-estate)
+1. 🎉 Merged PR [#189](https://github.com/TechProber/cloud-estate/pull/189) in [TechProber/cloud-estate](https://github.com/TechProber/cloud-estate)
+2. 💪 Opened PR [#189](https://github.com/TechProber/cloud-estate/pull/189) in [TechProber/cloud-estate](https://github.com/TechProber/cloud-estate)
+3. 💪 Opened PR [#188](https://github.com/TechProber/cloud-estate/pull/188) in [TechProber/cloud-estate](https://github.com/TechProber/cloud-estate)
+4. 💪 Opened PR [#187](https://github.com/TechProber/cloud-estate/pull/187) in [TechProber/cloud-estate](https://github.com/TechProber/cloud-estate)
+5. 🎉 Merged PR [#184](https://github.com/TechProber/cloud-estate/pull/184) in [TechProber/cloud-estate](https://github.com/TechProber/cloud-estate)
 
 <!--END_SECTION:activity-->
 
