@@ -175,10 +175,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 September 2022 - To: 18 September 2022
+From: 12 September 2022 - To: 19 September 2022
 
-Lua                         █████████▓░░░░░░░░░░░░░░░   38.52 %
-Other                       █████▒░░░░░░░░░░░░░░░░░░░   21.49 %
+Other                       ████████▒░░░░░░░░░░░░░░░░   33.55 %
 ```
 
 <!--END_SECTION:waka-->
