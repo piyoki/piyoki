@@ -162,11 +162,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#8](https://github.com/yqlbu/TRT-yolov3/pull/8) in [yqlbu/TRT-yolov3](https://github.com/yqlbu/TRT-yolov3)
-2. 🎉 Merged PR [#200](https://github.com/TechProber/cloud-estate/pull/200) in [TechProber/cloud-estate](https://github.com/TechProber/cloud-estate)
-3. 💪 Opened PR [#200](https://github.com/TechProber/cloud-estate/pull/200) in [TechProber/cloud-estate](https://github.com/TechProber/cloud-estate)
-4. 🎉 Merged PR [#199](https://github.com/TechProber/cloud-estate/pull/199) in [TechProber/cloud-estate](https://github.com/TechProber/cloud-estate)
-5. 💪 Opened PR [#199](https://github.com/TechProber/cloud-estate/pull/199) in [TechProber/cloud-estate](https://github.com/TechProber/cloud-estate)
+1. 🎉 Merged PR [#7](https://github.com/yqlbu/TRT-yolov3/pull/7) in [yqlbu/TRT-yolov3](https://github.com/yqlbu/TRT-yolov3)
+2. ❌ Closed PR [#9](https://github.com/yqlbu/TRT-yolov3/pull/9) in [yqlbu/TRT-yolov3](https://github.com/yqlbu/TRT-yolov3)
+3. 🎉 Merged PR [#10](https://github.com/yqlbu/TRT-yolov3/pull/10) in [yqlbu/TRT-yolov3](https://github.com/yqlbu/TRT-yolov3)
+4. 🎉 Merged PR [#8](https://github.com/yqlbu/TRT-yolov3/pull/8) in [yqlbu/TRT-yolov3](https://github.com/yqlbu/TRT-yolov3)
+5. 🎉 Merged PR [#200](https://github.com/TechProber/cloud-estate/pull/200) in [TechProber/cloud-estate](https://github.com/TechProber/cloud-estate)
 
 <!--END_SECTION:activity-->
 
