@@ -164,11 +164,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#213](https://github.com/techprober/cloud-estate/pull/213) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-2. 💪 Opened PR [#213](https://github.com/techprober/cloud-estate/pull/213) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 🗣 Commented on [#3013](https://github.com/ansible/galaxy/issues/3013) in [ansible/galaxy](https://github.com/ansible/galaxy)
-4. ❗️ Opened issue [#3013](https://github.com/ansible/galaxy/issues/3013) in [ansible/galaxy](https://github.com/ansible/galaxy)
-5. 🎉 Merged PR [#212](https://github.com/TechProber/cloud-estate/pull/212) in [TechProber/cloud-estate](https://github.com/TechProber/cloud-estate)
+1. 🎉 Merged PR [#214](https://github.com/techprober/cloud-estate/pull/214) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+2. 💪 Opened PR [#214](https://github.com/techprober/cloud-estate/pull/214) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 🎉 Merged PR [#213](https://github.com/techprober/cloud-estate/pull/213) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+4. 💪 Opened PR [#213](https://github.com/techprober/cloud-estate/pull/213) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+5. 🗣 Commented on [#3013](https://github.com/ansible/galaxy/issues/3013) in [ansible/galaxy](https://github.com/ansible/galaxy)
 
 <!--END_SECTION:activity-->
 
