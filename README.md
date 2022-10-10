@@ -98,6 +98,10 @@
 
 > ETCD, MongoDB, MySQL, MariaDB, PostgreSQL, Firestore, InfluxDB, Redis
 
+##### Storage & Distributed File System
+
+> Juicefs, iSCSI, NFS, Samba, Volume Storage, Bucket Storage, File Storage, CloudNative CSI (Container Storage Interface)
+
 ##### DevOps, CI/CD and GitOps
 
 > GitHub Checks (Check Suite and Check Run), ChatOps based on Pull Request
