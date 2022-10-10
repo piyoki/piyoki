@@ -168,11 +168,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/techprober/galaxy-collections/pull/1) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
-2. 💪 Opened PR [#1](https://github.com/techprober/galaxy-collections/pull/1) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
-3. 🎉 Merged PR [#216](https://github.com/techprober/cloud-estate/pull/216) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-4. 💪 Opened PR [#216](https://github.com/techprober/cloud-estate/pull/216) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-5. 🎉 Merged PR [#215](https://github.com/techprober/cloud-estate/pull/215) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. 🎉 Merged PR [#3](https://github.com/techprober/galaxy-collections/pull/3) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
+2. 💪 Opened PR [#3](https://github.com/techprober/galaxy-collections/pull/3) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
+3. 🎉 Merged PR [#2](https://github.com/techprober/galaxy-collections/pull/2) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
+4. 💪 Opened PR [#2](https://github.com/techprober/galaxy-collections/pull/2) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
+5. 🎉 Merged PR [#1](https://github.com/techprober/galaxy-collections/pull/1) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
 
 <!--END_SECTION:activity-->
 
