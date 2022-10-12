@@ -62,6 +62,7 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx&logoColor=009900)
 ![Kong](https://img.shields.io/badge/-Kong-000?&logo=Kong)
+![Cilium](https://img.shields.io/badge/-Cilium-000?&logo=Cilium)
 ![Lambda](https://img.shields.io/badge/-Lambda-000?&logo=AWSLambda)
 ![Knative](https://img.shields.io/badge/-Knative-000?&logo=Knative&logoColor=blue)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
