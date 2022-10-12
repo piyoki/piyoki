@@ -56,7 +56,7 @@
 ![CircleCI](https://img.shields.io/badge/-Circle%20CI-000?&logo=CircleCI)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 ![Tekton](https://img.shields.io/badge/-Tekton-000?&logo=Tekton)
-![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
+![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible&logoColor=red)
 ![Packer](https://img.shields.io/badge/-Packer-000?&logo=Packer)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
