@@ -61,6 +61,8 @@
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx&logoColor=009900)
+![Kong](https://img.shields.io/badge/-Kong-000?&logo=Kong)
+![Lambda](https://img.shields.io/badge/-Lambda-000?&logo=AWSLambda)
 ![Knative](https://img.shields.io/badge/-Knative-000?&logo=Knative&logoColor=blue)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
@@ -70,6 +72,9 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![Amazon S3](https://img.shields.io/badge/-S3-000?&logo=AmazonS3)
+![AWX](https://img.shields.io/badge/-AWX-000?&logo=AWX)
 
 ##### Languages
 
@@ -168,11 +173,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#7947](https://github.com/simple-icons/simple-icons/pull/7947) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. ❗️ Opened issue [#7946](https://github.com/simple-icons/simple-icons/issues/7946) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 🎉 Merged PR [#9](https://github.com/techprober/galaxy-collections/pull/9) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
-4. 💪 Opened PR [#9](https://github.com/techprober/galaxy-collections/pull/9) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
-5. 🎉 Merged PR [#8](https://github.com/techprober/galaxy-collections/pull/8) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
+1. 🎉 Merged PR [#9](https://github.com/techprober/galaxy-collections/pull/9) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
+2. 💪 Opened PR [#9](https://github.com/techprober/galaxy-collections/pull/9) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
+3. 🎉 Merged PR [#8](https://github.com/techprober/galaxy-collections/pull/8) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
+4. 💪 Opened PR [#8](https://github.com/techprober/galaxy-collections/pull/8) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
+5. 🎉 Merged PR [#7](https://github.com/techprober/galaxy-collections/pull/7) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
 
 <!--END_SECTION:activity-->
 
