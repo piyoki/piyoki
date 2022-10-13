@@ -187,10 +187,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 October 2022 - To: 11 October 2022
+From: 05 October 2022 - To: 12 October 2022
 
-YAML                        █████████▓░░░░░░░░░░░░░░░   39.31 %
-Other                       ███████▒░░░░░░░░░░░░░░░░░   28.71 %
+YAML                        █████████░░░░░░░░░░░░░░░░   36.49 %
+Other                       ███████░░░░░░░░░░░░░░░░░░   28.26 %
 ```
 
 <!--END_SECTION:waka-->
