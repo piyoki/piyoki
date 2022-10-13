@@ -175,10 +175,10 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#7947](https://github.com/simple-icons/simple-icons/issues/7947) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 💪 Opened PR [#7947](https://github.com/simple-icons/simple-icons/pull/7947) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. ❗️ Opened issue [#7946](https://github.com/simple-icons/simple-icons/issues/7946) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🎉 Merged PR [#9](https://github.com/techprober/galaxy-collections/pull/9) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
-5. 💪 Opened PR [#9](https://github.com/techprober/galaxy-collections/pull/9) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
+2. 🗣 Commented on [#7947](https://github.com/simple-icons/simple-icons/issues/7947) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 💪 Opened PR [#7947](https://github.com/simple-icons/simple-icons/pull/7947) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. ❗️ Opened issue [#7946](https://github.com/simple-icons/simple-icons/issues/7946) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🎉 Merged PR [#9](https://github.com/techprober/galaxy-collections/pull/9) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
 
 <!--END_SECTION:activity-->
 
