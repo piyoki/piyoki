@@ -174,11 +174,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#222](https://github.com/techprober/cloud-estate/pull/222) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-2. 💪 Opened PR [#222](https://github.com/techprober/cloud-estate/pull/222) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. ❌ Closed PR [#7947](https://github.com/simple-icons/simple-icons/pull/7947) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🎉 Merged PR [#221](https://github.com/techprober/cloud-estate/pull/221) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-5. 💪 Opened PR [#221](https://github.com/techprober/cloud-estate/pull/221) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. 🎉 Merged PR [#223](https://github.com/techprober/cloud-estate/pull/223) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+2. 💪 Opened PR [#223](https://github.com/techprober/cloud-estate/pull/223) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 🎉 Merged PR [#1](https://github.com/techprober/telegram-awx-check-run/pull/1) in [techprober/telegram-awx-check-run](https://github.com/techprober/telegram-awx-check-run)
+4. 💪 Opened PR [#1](https://github.com/techprober/telegram-awx-check-run/pull/1) in [techprober/telegram-awx-check-run](https://github.com/techprober/telegram-awx-check-run)
+5. 🎉 Merged PR [#222](https://github.com/techprober/cloud-estate/pull/222) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 
 <!--END_SECTION:activity-->
 
