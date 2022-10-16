@@ -89,8 +89,6 @@
 ![Shell](https://img.shields.io/badge/-Shell-000?&logo=GNOMETerminal)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=yellow)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=CPlusPlus&logoColor=blue)
 ![Vim Script](https://img.shields.io/badge/-Vim%20Script-000?&logo=vim&logoColor=green)
 ![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua&logoColor=pink)
 ![PromQL](https://img.shields.io/badge/-PromQL-000?&logo=Prometheus)
