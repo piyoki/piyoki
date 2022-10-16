@@ -174,11 +174,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#223](https://github.com/techprober/cloud-estate/pull/223) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-2. 💪 Opened PR [#223](https://github.com/techprober/cloud-estate/pull/223) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 🎉 Merged PR [#1](https://github.com/techprober/telegram-awx-check-run/pull/1) in [techprober/telegram-awx-check-run](https://github.com/techprober/telegram-awx-check-run)
-4. 💪 Opened PR [#1](https://github.com/techprober/telegram-awx-check-run/pull/1) in [techprober/telegram-awx-check-run](https://github.com/techprober/telegram-awx-check-run)
-5. 🎉 Merged PR [#222](https://github.com/techprober/cloud-estate/pull/222) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. 🎉 Merged PR [#224](https://github.com/techprober/cloud-estate/pull/224) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+2. 💪 Opened PR [#224](https://github.com/techprober/cloud-estate/pull/224) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 🎉 Merged PR [#10](https://github.com/techprober/galaxy-collections/pull/10) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
+4. 💪 Opened PR [#10](https://github.com/techprober/galaxy-collections/pull/10) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
+5. 🎉 Merged PR [#223](https://github.com/techprober/cloud-estate/pull/223) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 
 <!--END_SECTION:activity-->
 
