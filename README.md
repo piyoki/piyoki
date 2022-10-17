@@ -172,11 +172,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#224](https://github.com/techprober/cloud-estate/pull/224) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-2. 💪 Opened PR [#224](https://github.com/techprober/cloud-estate/pull/224) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 🎉 Merged PR [#10](https://github.com/techprober/galaxy-collections/pull/10) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
-4. 💪 Opened PR [#10](https://github.com/techprober/galaxy-collections/pull/10) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
-5. 🎉 Merged PR [#223](https://github.com/techprober/cloud-estate/pull/223) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. ❗️ Opened issue [#1](https://github.com/nogizaka46-zh/community/issues/1) in [nogizaka46-zh/community](https://github.com/nogizaka46-zh/community)
+2. 🎉 Merged PR [#1](https://github.com/nogizaka46-zh/organization-assets/pull/1) in [nogizaka46-zh/organization-assets](https://github.com/nogizaka46-zh/organization-assets)
+3. 💪 Opened PR [#1](https://github.com/nogizaka46-zh/organization-assets/pull/1) in [nogizaka46-zh/organization-assets](https://github.com/nogizaka46-zh/organization-assets)
+4. 🎉 Merged PR [#224](https://github.com/techprober/cloud-estate/pull/224) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+5. 💪 Opened PR [#224](https://github.com/techprober/cloud-estate/pull/224) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 
 <!--END_SECTION:activity-->
 
