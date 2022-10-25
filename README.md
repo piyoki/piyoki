@@ -172,11 +172,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#226](https://github.com/techprober/cloud-estate/pull/226) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-2. 💪 Opened PR [#226](https://github.com/techprober/cloud-estate/pull/226) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 🎉 Merged PR [#225](https://github.com/techprober/cloud-estate/pull/225) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-4. 💪 Opened PR [#225](https://github.com/techprober/cloud-estate/pull/225) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-5. ❗️ Opened issue [#1](https://github.com/nogizaka46-zh/community/issues/1) in [nogizaka46-zh/community](https://github.com/nogizaka46-zh/community)
+1. 🗣 Commented on [#227](https://github.com/techprober/cloud-estate/issues/227) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+2. 🎉 Merged PR [#226](https://github.com/techprober/cloud-estate/pull/226) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 💪 Opened PR [#226](https://github.com/techprober/cloud-estate/pull/226) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+4. 🎉 Merged PR [#225](https://github.com/techprober/cloud-estate/pull/225) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+5. 💪 Opened PR [#225](https://github.com/techprober/cloud-estate/pull/225) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 
 <!--END_SECTION:activity-->
 
