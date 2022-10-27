@@ -78,7 +78,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![Amazon S3](https://img.shields.io/badge/-S3-000?&logo=AmazonS3)
+![ObjectStorage3](https://img.shields.io/badge/-ObjectStorage-000?&logo=AmazonS3)
 
 ##### Languages
 
