@@ -44,14 +44,17 @@
 
 ## Skills
 
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![ArchLinux](https://img.shields.io/badge/-ArchLinux-000?&logo=ArchLinux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 ![CentOS](https://img.shields.io/badge/-CentOS-000?&logo=CentOS)
 ![AmazonLinux](https://img.shields.io/badge/-AmazonLinux-000?&logo=AmazonEC2)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
+![OracleCloud](https://img.shields.io/badge/-OracleCloud-000?&logo=Oracle)
+![GCP](https://img.shields.io/badge/-GCP-000?&logo=GoogleCloud)
+![Proxmox](https://img.shields.io/badge/-Proxmox-000?&logo=Proxmox)
+![TrueNAS](https://img.shields.io/badge/-TrueNAS-000?&logo=TrueNAS)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Containerd](https://img.shields.io/badge/-Containerd-000?&logo=Containerd)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
