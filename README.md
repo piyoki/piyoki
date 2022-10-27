@@ -45,6 +45,10 @@
 ## Skills
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![ArchLinux](https://img.shields.io/badge/-ArchLinux-000?&logo=ArchLinux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
+![CentOS](https://img.shields.io/badge/-CentOS-000?&logo=CentOS)
+![AmazonLinux](https://img.shields.io/badge/-AmazonLinux-000?&logo=AmazonEC2)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
@@ -75,7 +79,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![Amazon S3](https://img.shields.io/badge/-S3-000?&logo=AmazonS3)
-![AWX](https://img.shields.io/badge/-AWX-000?&logo=AWX)
 
 ##### Languages
 
