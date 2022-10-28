@@ -36,7 +36,7 @@ spec:
 
 📫 How to reach me: [Link Page](https://link.hikariai.net)
 
-✅ 2022 Goals: Contribute more to open-source projects; get the `CKA` and `CKAD` by the end of the year
+✅ 2022 Goals: Contribute more to open-source projects
 
 ## Contacts
 
