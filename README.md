@@ -45,7 +45,7 @@ spec:
 [![Discord: techprober](https://img.shields.io/badge/Discord-TechProber-blueviolet?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/hyNwvjtBJ7)](https://discord.gg/hyNwvjtBJ7)
 [![Twitch: TheDevOpsNut](https://img.shields.io/badge/Twitch-TheDevOpsNut-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/TheDevOpsNut)](https://www.twitch.tv/TheDevOpsNut)
 [![Telegram: techprober](https://img.shields.io/badge/Telegram-TechProber-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/+7AG3aEQ5I00wY2Q5)](https://t.me/+7AG3aEQ5I00wY2Q5)
-[![website](https://img.shields.io/badge/Personal%20Website-hikariai.net-brightgreen?style=flat-square&logo=Hugo)](https://hikariai.net/)
+[![website](https://img.shields.io/badge/Personal%20Website-hikariai.net-purple?style=flat-square&logo=Hugo)](https://hikariai.net/)
 [![RSS](https://img.shields.io/badge/RSS-hikariai.net-yellow?style=flat-square&logo=rss)](https://www.hikariai.net/index.xml)
 
 ## Repos
