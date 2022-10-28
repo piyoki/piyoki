@@ -8,6 +8,7 @@
 ## About Me 👨🏻‍💻
 
 ```yaml
+---
 apiVersion: api.hikariai.net/v1alpha1
 kind: Bio
 metadata:
