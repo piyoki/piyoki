@@ -20,7 +20,7 @@ metadata:
     api.hikariai.net/career: Sr.DevOps Engineer @HSBC
     api.hikariai.net/roles: Community Blogger, Cloud Solution Architect, DevOps Specialist, Security Specialist
     api.hikariai.net/community: @openfaas, @cncf, @kubernetes, @cilium, @juicedata, and @techprober
-    api.hikariai.net/website👨‍💻: https://www.hikariai.net
+    api.hikariai.net/website: https://www.hikariai.net
     api.hikariai.net/goal: Contribute projects globally
     api.hikariai.net/fun-fact: Neovim Amateur desu~
 spec:
