@@ -7,21 +7,31 @@
 
 ## About Me 👨🏻‍💻
 
-☁️ I am an advocate of CloudNative and an ArchLinux User
-
-🌱 I am an OpenSource Newbie
-
-⌨️ Neovim Amateur desu~
-
-🌎 Contribute projects globally
-
-🌎 Native in Cantonese, Proficient in Mandarin, English, and Japanese
-
-🌟 Primarily focus on topics ranging from Serverless, GitOps, Native CICD, and DevSecOps
-
-💻 Currently working on a Homelab Private-Cloud project with VMware vSphere and Proxmox VE
-
-🎵 Fun fact: I spend 6-8 hours listening to music every day. I love R&B, Blue, J-Pop, and Jazz!
+```yaml
+apiVersion: api.hikariai.net/v1alpha1
+kind: Bio
+metadata:
+  name: about-me
+  labels:
+    app: about-me
+  annotations:
+    api.hikariai.net/full-name: Kevin YU
+    api.hikariai.net/career: SRE (Site Reliability Engineer) @HSBC
+    api.hikariai.net/roles: Community Blogger, Cloud Solution Architect, DevOps Specialist, Security Specialist
+    api.hikariai.net/community: @openfaas, @cncf, @kubernetes, @cilium, @juicedata, and @techprober
+    api.hikariai.net/website👨‍💻: https://www.hikariai.net
+    api.hikariai.net/goal: Contribute projects globally
+    api.hikariai.net/fun-fact: Neovim Amateur desu~
+spec:
+  languanges:
+  - Native in Cantonese, Mandarain
+  - Fluent in English
+  - Proficient in Japanese
+  skills:
+  - AWS, GCP, Oracle Cloud, Proxmox VE, VMware, AliCloud
+  - Linux, NAS, Containerization, Kubernetes, Networking, Security, DevSecOps, GitOps, Serverless, Automation
+  - Technical Writing, Public Speaking, Advocacy and Outreach, Host Events
+```
 
 📫 How to reach me: [Link Page](https://link.hikariai.net)
 
