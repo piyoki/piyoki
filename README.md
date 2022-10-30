@@ -196,11 +196,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#8](https://github.com/juicedata/we-are-hiring/issues/8) in [juicedata/we-are-hiring](https://github.com/juicedata/we-are-hiring)
-2. 🎉 Merged PR [#230](https://github.com/techprober/cloud-estate/pull/230) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 💪 Opened PR [#230](https://github.com/techprober/cloud-estate/pull/230) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-4. ❗️ Opened issue [#8](https://github.com/juicedata/we-are-hiring/issues/8) in [juicedata/we-are-hiring](https://github.com/juicedata/we-are-hiring)
-5. 🎉 Merged PR [#229](https://github.com/techprober/cloud-estate/pull/229) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. 🎉 Merged PR [#2](https://github.com/techprober/mosdns-lxc-deploy/pull/2) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
+2. 💪 Opened PR [#2](https://github.com/techprober/mosdns-lxc-deploy/pull/2) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
+3. 🗣 Commented on [#8](https://github.com/juicedata/we-are-hiring/issues/8) in [juicedata/we-are-hiring](https://github.com/juicedata/we-are-hiring)
+4. 🎉 Merged PR [#230](https://github.com/techprober/cloud-estate/pull/230) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+5. 💪 Opened PR [#230](https://github.com/techprober/cloud-estate/pull/230) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 
 <!--END_SECTION:activity-->
 
