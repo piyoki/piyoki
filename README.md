@@ -24,6 +24,11 @@ metadata:
     api.hikariai.net/goal: Contribute projects globally
     api.hikariai.net/fun-fact: Neovim Amateur desu~
 spec:
+  certifications:
+  - [x] CKA (Certified Kubernetes Administrator --> Certified in 2022)
+  - [x] CKA (Certified Kubernetes Application Developer --> Certified in 2022)
+  - [ ] CKS (Certified Kubernetes Security Specialist --> Roadmap in 2023)
+  - [ ] AWS SA Pro (AWS Solution Architect Professional --> Ongoing)
   languanges:
   - Native in Cantonese, Mandarain
   - Fluent in English
@@ -191,11 +196,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#230](https://github.com/techprober/cloud-estate/pull/230) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-2. 💪 Opened PR [#230](https://github.com/techprober/cloud-estate/pull/230) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. ❗️ Opened issue [#8](https://github.com/juicedata/we-are-hiring/issues/8) in [juicedata/we-are-hiring](https://github.com/juicedata/we-are-hiring)
-4. 🎉 Merged PR [#229](https://github.com/techprober/cloud-estate/pull/229) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-5. 💪 Opened PR [#229](https://github.com/techprober/cloud-estate/pull/229) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. ❗️ Opened issue [#8](https://github.com/juicedata/we-are-hiring/issues/8) in [juicedata/we-are-hiring](https://github.com/juicedata/we-are-hiring)
+2. 🎉 Merged PR [#229](https://github.com/techprober/cloud-estate/pull/229) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 💪 Opened PR [#229](https://github.com/techprober/cloud-estate/pull/229) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+4. 🎉 Merged PR [#228](https://github.com/techprober/cloud-estate/pull/228) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+5. 💪 Opened PR [#228](https://github.com/techprober/cloud-estate/pull/228) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 
 <!--END_SECTION:activity-->
 
