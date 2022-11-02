@@ -196,11 +196,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#12](https://github.com/techprober/galaxy-collections/pull/12) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
-2. 💪 Opened PR [#12](https://github.com/techprober/galaxy-collections/pull/12) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
-3. 🎉 Merged PR [#11](https://github.com/techprober/galaxy-collections/pull/11) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
-4. 💪 Opened PR [#11](https://github.com/techprober/galaxy-collections/pull/11) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
-5. 🎉 Merged PR [#13](https://github.com/yqlbu/umami/pull/13) in [yqlbu/umami](https://github.com/yqlbu/umami)
+1. 🎉 Merged PR [#4](https://github.com/techprober/mosdns-lxc-deploy/pull/4) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
+2. 💪 Opened PR [#4](https://github.com/techprober/mosdns-lxc-deploy/pull/4) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
+3. 🗣 Commented on [#2943](https://github.com/juicedata/juicefs/issues/2943) in [juicedata/juicefs](https://github.com/juicedata/juicefs)
+4. ❗️ Opened issue [#2943](https://github.com/juicedata/juicefs/issues/2943) in [juicedata/juicefs](https://github.com/juicedata/juicefs)
+5. ❗️ Closed issue [#11](https://github.com/yqlbu/TRT-yolov3/issues/11) in [yqlbu/TRT-yolov3](https://github.com/yqlbu/TRT-yolov3)
 
 <!--END_SECTION:activity-->
 
