@@ -196,11 +196,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#13](https://github.com/yqlbu/umami/pull/13) in [yqlbu/umami](https://github.com/yqlbu/umami)
-2. 🎉 Merged PR [#3](https://github.com/techprober/mosdns-lxc-deploy/pull/3) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
-3. 💪 Opened PR [#3](https://github.com/techprober/mosdns-lxc-deploy/pull/3) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
-4. 🎉 Merged PR [#234](https://github.com/techprober/cloud-estate/pull/234) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-5. 💪 Opened PR [#234](https://github.com/techprober/cloud-estate/pull/234) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. 🎉 Merged PR [#11](https://github.com/techprober/galaxy-collections/pull/11) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
+2. 💪 Opened PR [#11](https://github.com/techprober/galaxy-collections/pull/11) in [techprober/galaxy-collections](https://github.com/techprober/galaxy-collections)
+3. 🎉 Merged PR [#13](https://github.com/yqlbu/umami/pull/13) in [yqlbu/umami](https://github.com/yqlbu/umami)
+4. 🎉 Merged PR [#3](https://github.com/techprober/mosdns-lxc-deploy/pull/3) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
+5. 💪 Opened PR [#3](https://github.com/techprober/mosdns-lxc-deploy/pull/3) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
 
 <!--END_SECTION:activity-->
 
