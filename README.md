@@ -196,11 +196,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2943](https://github.com/juicedata/juicefs/issues/2943) in [juicedata/juicefs](https://github.com/juicedata/juicefs)
-2. 🎉 Merged PR [#238](https://github.com/techprober/cloud-estate/pull/238) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 💪 Opened PR [#238](https://github.com/techprober/cloud-estate/pull/238) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-4. 🎉 Merged PR [#237](https://github.com/techprober/cloud-estate/pull/237) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-5. 💪 Opened PR [#237](https://github.com/techprober/cloud-estate/pull/237) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. 🎉 Merged PR [#5](https://github.com/techprober/mosdns-lxc-deploy/pull/5) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
+2. 💪 Opened PR [#5](https://github.com/techprober/mosdns-lxc-deploy/pull/5) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
+3. 🗣 Commented on [#2943](https://github.com/juicedata/juicefs/issues/2943) in [juicedata/juicefs](https://github.com/juicedata/juicefs)
+4. 🎉 Merged PR [#238](https://github.com/techprober/cloud-estate/pull/238) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+5. 💪 Opened PR [#238](https://github.com/techprober/cloud-estate/pull/238) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 
 <!--END_SECTION:activity-->
 
