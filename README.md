@@ -35,7 +35,7 @@ spec:
   - Proficient in Japanese
   skills:
   - AWS, GCP, Oracle Cloud, Proxmox VE, VMware, AliCloud
-  - Linux, NAS, Containerization, Kubernetes, Networking, Security, DevSecOps, GitOps, Serverless, Automation
+  - Linux, NAS, Containerization, Kubernetes, Networking, IT Security, DevSecOps, GitOps, Serverless, Automation
   - Technical Writing, Public Speaking, Advocacy and Outreach, Host Events
 ```
 
