@@ -144,7 +144,7 @@ spec:
 
 ##### Networking and Firewall
 
-> L2/L3 Routing, VLAN, Pfsense, OPNSense, Sophos-XG-Firewall, Cloud Router, IPS, DDoS Protection, CDN, Proxy Tunnel, SD-WAN Solution
+> L2/L3/L4/L7 TCP/IP Networking Fundamentals, VLAN, Pfsense, OPNSense, Sophos-XG-Firewall, Cloud Router, IPS, DDoS Protection, CDN, Proxy Tunnel, SD-WAN Solution
 
 ##### Infrastructure as Code, Template as Code, and Configuration as Code
 
