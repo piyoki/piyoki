@@ -198,11 +198,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#251](https://github.com/techprober/cloud-estate/pull/251) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-2. 💪 Opened PR [#251](https://github.com/techprober/cloud-estate/pull/251) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 🎉 Merged PR [#250](https://github.com/techprober/cloud-estate/pull/250) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-4. 💪 Opened PR [#250](https://github.com/techprober/cloud-estate/pull/250) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-5. 🗣 Commented on [#2943](https://github.com/juicedata/juicefs/issues/2943) in [juicedata/juicefs](https://github.com/juicedata/juicefs)
+1. 🎉 Merged PR [#252](https://github.com/techprober/cloud-estate/pull/252) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+2. 💪 Opened PR [#252](https://github.com/techprober/cloud-estate/pull/252) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 🎉 Merged PR [#251](https://github.com/techprober/cloud-estate/pull/251) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+4. 💪 Opened PR [#251](https://github.com/techprober/cloud-estate/pull/251) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+5. 🎉 Merged PR [#250](https://github.com/techprober/cloud-estate/pull/250) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 
 <!--END_SECTION:activity-->
 
