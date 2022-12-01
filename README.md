@@ -27,8 +27,8 @@ spec:
   certifications:
   - [x] CKA (Certified Kubernetes Administrator --> Certified in 2022)
   - [ ] CKAD (Certified Kubernetes Application Developer --> Ongoing)
-  - [ ] CKS (Certified Kubernetes Security Specialist --> Roadmap in 2023)
-  - [ ] AWS SA Pro (AWS Solution Architect Professional --> Ongoing)
+  - [ ] CKS (Certified Kubernetes Security Specialist --> Ongoing)
+  - [ ] AWS SA Pro (AWS Solution Architect Professional --> Roadmap in 2023)
   languanges:
   - Native in Cantonese, Mandarain
   - Fluent in English
