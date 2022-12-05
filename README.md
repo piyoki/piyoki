@@ -198,11 +198,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#256](https://github.com/techprober/cloud-estate/pull/256) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-2. 💪 Opened PR [#256](https://github.com/techprober/cloud-estate/pull/256) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 🎉 Merged PR [#255](https://github.com/techprober/cloud-estate/pull/255) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-4. 💪 Opened PR [#255](https://github.com/techprober/cloud-estate/pull/255) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-5. 🎉 Merged PR [#254](https://github.com/techprober/cloud-estate/pull/254) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. 🗣 Commented on [#276](https://github.com/cloudalchemy/ansible-node-exporter/issues/276) in [cloudalchemy/ansible-node-exporter](https://github.com/cloudalchemy/ansible-node-exporter)
+2. 🎉 Merged PR [#256](https://github.com/techprober/cloud-estate/pull/256) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 💪 Opened PR [#256](https://github.com/techprober/cloud-estate/pull/256) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+4. 🎉 Merged PR [#255](https://github.com/techprober/cloud-estate/pull/255) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+5. 💪 Opened PR [#255](https://github.com/techprober/cloud-estate/pull/255) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 
 <!--END_SECTION:activity-->
 
