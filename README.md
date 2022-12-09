@@ -211,11 +211,11 @@ spec:
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 November 2022 - To: 07 December 2022
+From: 01 December 2022 - To: 08 December 2022
 
 Lua                         █████████░░░░░░░░░░░░░░░░   35.66 %
-HCL                         █████░░░░░░░░░░░░░░░░░░░░   20.41 %
-Other                       ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
+HCL                         █████░░░░░░░░░░░░░░░░░░░░   20.40 %
+Other                       ████▓░░░░░░░░░░░░░░░░░░░░   18.33 %
 ```
 
 <!--END_SECTION:waka-->
