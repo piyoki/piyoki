@@ -82,7 +82,6 @@ spec:
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 ![Tekton](https://img.shields.io/badge/-Tekton-000?&logo=Tekton)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-000?&logo=Argo)
-![Knative](https://img.shields.io/badge/-Knative-000?&logo=Knative&logoColor=blue)
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible&logoColor=red)
 ![Packer](https://img.shields.io/badge/-Packer-000?&logo=Packer)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
