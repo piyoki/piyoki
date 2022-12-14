@@ -25,4 +25,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # you can change this to your own RSS feed
-          feed_list: "https://www.hikariai.net/index.xml"
+          feed_list: "https://shorturl.at/qvyEW"
