@@ -66,7 +66,7 @@ spec:
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![ArchLinux](https://img.shields.io/badge/-ArchLinux-000?&logo=ArchLinux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
-![CentOS](https://img.shields.io/badge/-CentOS-000?&logo=CentOS)
+![CentOS](https://img.shields.io/badge/-CentOS-000?&logo=CentOS&logoColor=green)
 ![AmazonLinux](https://img.shields.io/badge/-AmazonLinux-000?&logo=AmazonEC2)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![OracleCloud](https://img.shields.io/badge/-OracleCloud-000?&logo=Oracle)
