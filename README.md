@@ -34,8 +34,9 @@ spec:
   - Fluent in English
   - Proficient in Japanese
   skills:
-  - AWS, GCP, Oracle Cloud, Proxmox VE, VMware, AliCloud
-  - Linux, Enterprise Storage Solution, Containerization, Kubernetes, Networking, IT Security, DevSecOps, GitOps, Serverless, Automation
+  - AWS, GCP, Oracle Cloud, Proxmox VE, VMware vCenter, CIVO
+  - Linux, Enterprise Storage Solution, Enterprise Integrated Compliance Firewall, IT Security, Advanced Networking
+  - Containerization, Kubernetes, CloudNative, DevSecOps, GitOps, Serverless
   - Technical Writing, Public Speaking, Advocacy and Outreach, Host Events
 ```
 
