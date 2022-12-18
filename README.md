@@ -25,10 +25,10 @@ metadata:
     api.hikariai.net/fun-fact: Neovim Amateur desu~
 spec:
   certifications:
-  - [x] CKA (Certified Kubernetes Administrator --> Certified in 2022)
-  - [x] CKAD (Certified Kubernetes Application Developer --> Certified in 2022)
-  - [ ] CKS (Certified Kubernetes Security Specialist --> Ongoing)
-  - [ ] AWS SA Pro (AWS Solution Architect Professional --> Roadmap in 2023)
+  - [x] CKA (Certified Kubernetes Administrator), certified in 2022
+  - [x] CKAD (Certified Kubernetes Application Developer), certified in 2022
+  - [ ] CKS (Certified Kubernetes Security Specialist), ongoing
+  - [ ] AWS SA Pro (AWS Solution Architect Professional), roadmap in 2023
   languanges:
   - Native in Cantonese, Mandarain
   - Fluent in English
