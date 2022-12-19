@@ -35,7 +35,7 @@ spec:
   - Proficient in Japanese
   skills:
   - AWS, GCP, Oracle Cloud, Proxmox VE, VMware vCenter, CIVO
-  - Linux, Enterprise Storage Solution, Enterprise Integrated Compliance Firewall, IT Security, Advanced Networking, Enterprise SD-WAN 
+  - Linux, Enterprise Storage Solution, Enterprise Integrated Compliance Firewall, IT Security, Advanced Networking, Enterprise SD-WAN Solution
   - Containerization, Kubernetes, CloudNative, DevSecOps, GitOps, Serverless
   - Technical Writing, Public Speaking, Advocacy and Outreach, Host Events
 ```
