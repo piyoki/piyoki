@@ -212,10 +212,10 @@ spec:
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 December 2022 - To: 17 December 2022
+From: 11 December 2022 - To: 18 December 2022
 
-YAML                       ██████████░░░░░░░░░░░░░░░   39.43 %
-Other                      ████████▒░░░░░░░░░░░░░░░░   33.66 %
+YAML                       ██████████░░░░░░░░░░░░░░░   39.55 %
+Other                      ███████░░░░░░░░░░░░░░░░░░   27.48 %
 ```
 
 <!--END_SECTION:waka-->
