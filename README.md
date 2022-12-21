@@ -30,7 +30,7 @@ spec:
   - [ ] CKS (Certified Kubernetes Security Specialist), ongoing
   - [ ] AWS SA Pro (AWS Solution Architect Professional), roadmap in 2023
   languanges:
-  - Native in Cantonese, Mandarain
+  - Native in Cantonese, Mandarin
   - Fluent in English
   - Proficient in Japanese
   skills:
