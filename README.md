@@ -200,11 +200,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#265](https://github.com/techprober/cloud-estate/pull/265) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-2. 💪 Opened PR [#265](https://github.com/techprober/cloud-estate/pull/265) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 🎉 Merged PR [#264](https://github.com/techprober/cloud-estate/pull/264) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-4. 💪 Opened PR [#264](https://github.com/techprober/cloud-estate/pull/264) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-5. ❗️ Opened issue [#1](https://github.com/jhong97/nvim-configs/issues/1) in [jhong97/nvim-configs](https://github.com/jhong97/nvim-configs)
+1. 🎉 Merged PR [#266](https://github.com/techprober/cloud-estate/pull/266) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+2. 💪 Opened PR [#266](https://github.com/techprober/cloud-estate/pull/266) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 🎉 Merged PR [#265](https://github.com/techprober/cloud-estate/pull/265) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+4. 💪 Opened PR [#265](https://github.com/techprober/cloud-estate/pull/265) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+5. 🎉 Merged PR [#264](https://github.com/techprober/cloud-estate/pull/264) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 
 <!--END_SECTION:activity-->
 
