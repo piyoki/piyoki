@@ -215,9 +215,11 @@ spec:
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 December 2022 - To: 26 December 2022
+From: 20 December 2022 - To: 27 December 2022
 
-Other                       ████████░░░░░░░░░░░░░░░░░   32.31 %
+Bash                        ██████▓░░░░░░░░░░░░░░░░░░   26.47 %
+Lua                         ██████▒░░░░░░░░░░░░░░░░░░   25.32 %
+Other                       ██████░░░░░░░░░░░░░░░░░░░   23.91 %
 ```
 
 <!--END_SECTION:waka-->
