@@ -202,11 +202,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#269](https://github.com/techprober/cloud-estate/pull/269) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-2. 💪 Opened PR [#269](https://github.com/techprober/cloud-estate/pull/269) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 🎉 Merged PR [#268](https://github.com/techprober/cloud-estate/pull/268) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-4. 💪 Opened PR [#268](https://github.com/techprober/cloud-estate/pull/268) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-5. 🎉 Merged PR [#267](https://github.com/techprober/cloud-estate/pull/267) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. 🎉 Merged PR [#48](https://github.com/yqlbu/hikariai-web/pull/48) in [yqlbu/hikariai-web](https://github.com/yqlbu/hikariai-web)
+2. 💪 Opened PR [#48](https://github.com/yqlbu/hikariai-web/pull/48) in [yqlbu/hikariai-web](https://github.com/yqlbu/hikariai-web)
+3. 🎉 Merged PR [#269](https://github.com/techprober/cloud-estate/pull/269) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+4. 💪 Opened PR [#269](https://github.com/techprober/cloud-estate/pull/269) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+5. 🎉 Merged PR [#268](https://github.com/techprober/cloud-estate/pull/268) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 
 <!--END_SECTION:activity-->
 
