@@ -189,11 +189,11 @@ spec:
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CKA, CKAD Prep](https://www.hikariai.net/blog/27-cka-ckad-prep/)
 - [Mosdns - The next generation DNS Resolver](https://www.hikariai.net/blog/26-mosdns-the-next-generation-dns-resolver/)
 - [GitOps 101: What’s it all about?](https://www.hikariai.net/blog/25-gitops-101-whats-it-all-about/)
 - [Use Packer like a Pro](https://www.hikariai.net/blog/24-use-packer-like-a-pro/)
 - [Virtualize unRAID Server in VMWare ESXi 7.0](https://www.hikariai.net/blog/23-virtualize-unraid-server-in-vmware-esxi-7.0/)
-- [Kaniko: A Cloud-Native solution to build container images in Kubernetes Cluster](https://www.hikariai.net/blog/22-kaniko-a-cloud-native-solution-to-build-container-images-in-kubernetes-cluster/)
 <!-- BLOG-POST-LIST:END -->
 
 <u>[More posts](https://hikariai.net)</u>
