@@ -176,7 +176,7 @@ spec:
 
 ##### Cloud-Native Solutions
 
-> gRPC, Helm, Keel (Automation tool for Kubernetes deployment updates), Argo CD, Flux CD, ArgoWorkflow, Tekton CI (Kubernetes Native CI), Kafka (Stream Processing), Harbor (Private Container Repository), Longhorn (Cloud Native Distributed Storage), CloudNative Buildpack, Kaniko (Container Image Builder), EFK Stack, FluentBit, Fluentd (Log Management), Knative, KubeFlow, KubeEdge, Nvidia Operator, Flagger (Service Deployment Operator), Kubeseal (Secret Operator), KubeLinter (Configuration Sanity Checker), KubeVela (OAM Implementation), Kogito (Serverless Workflow), Zipkin (Traces and Latency), Apache JMeter (Test as a Service), NeoLoad (Load Testing), Keptn (Cloud Native Application Life-cycle Orchestration), Velero (Backups), GatesKeeper (Admision Controller), KubeMQ (Enterprise-Grade Message Broker), Apache Pulsar (Alternative to Apache Kafka), Capsule (Multi-Tenant Kubernetes Cluster), VCluser (Virtual Cluster together with PR), DevSpace (Developer Tool for Kubernetes), Keda (Kubernetes Event-driven Autoscaling), Dapr (Microservice Runtime System), Karmada (Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration), Faasd (Lightweight & portable faas engine), Sysbox (Next generation Container Runtime), Flagger (Progressive Delivery), OpenTelemetry (Tracing Tool), Jenkins X (Native CICD Pipeline Engine), Cilium (eBPF-based Networking, Observability, Security), Tetragon (eBPF-based transparent security observability), kpack(Native Container Build Service)
+> gRPC, Helm, Keel (Automation tool for Kubernetes deployment updates), Argo CD, Flux CD, ArgoWorkflow, Tekton CI (Kubernetes Native CI), Kafka (Stream Processing), Harbor (Private Container Repository), Longhorn (Cloud Native Distributed Storage), CloudNative Buildpack, Kaniko (Container Image Builder), EFK Stack, FluentBit, Fluentd (Log Management), Knative, KubeFlow, KubeEdge, Nvidia Operator, Flagger (Service Deployment Operator), Kubeseal (Secret Operator), KubeLinter (Configuration Sanity Checker), KubeVela (OAM Implementation), Kogito (Serverless Workflow), Zipkin (Traces and Latency), Apache JMeter (Test as a Service), NeoLoad (Load Testing), Keptn (Cloud Native Application Life-cycle Orchestration), Velero (Backups), GatesKeeper (Admision Controller), KubeMQ (Enterprise-Grade Message Broker), Apache Pulsar (Alternative to Apache Kafka), Capsule (Multi-Tenant Kubernetes Cluster), VCluser (Virtual Cluster together with PR), DevSpace (Developer Tool for Kubernetes), Keda (Kubernetes Event-driven Autoscaling), Dapr (Microservice Runtime System), Karmada (Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration), Faasd (Lightweight & portable faas engine), Sysbox (Next generation Container Runtime), Flagger (Progressive Delivery), OpenTelemetry (Tracing Tool), Jenkins X (Native CICD Pipeline Engine), Cilium (eBPF-based Networking, Observability, Security), Tetragon (eBPF-based transparent security observability), kpack(Native Container Build Service), Trivy (comprehensive and versatile security scanner), Kyverno (Kubernetes Native Policy Management)
 
 ##### Artificial Intelligence
 
@@ -202,11 +202,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#274](https://github.com/techprober/cloud-estate/pull/274) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-2. 🎉 Merged PR [#273](https://github.com/techprober/cloud-estate/pull/273) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 💪 Opened PR [#273](https://github.com/techprober/cloud-estate/pull/273) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-4. 🎉 Merged PR [#272](https://github.com/techprober/cloud-estate/pull/272) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-5. 💪 Opened PR [#272](https://github.com/techprober/cloud-estate/pull/272) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. 🎉 Merged PR [#272](https://github.com/techprober/cloud-estate/pull/272) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+2. 💪 Opened PR [#272](https://github.com/techprober/cloud-estate/pull/272) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 🎉 Merged PR [#271](https://github.com/techprober/cloud-estate/pull/271) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+4. 💪 Opened PR [#271](https://github.com/techprober/cloud-estate/pull/271) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+5. 🎉 Merged PR [#270](https://github.com/techprober/cloud-estate/pull/270) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 
 <!--END_SECTION:activity-->
 
