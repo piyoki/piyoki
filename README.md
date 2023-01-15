@@ -215,9 +215,10 @@ spec:
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 January 2023 - To: 13 January 2023
+From: 07 January 2023 - To: 14 January 2023
 
-Other                      ███████████▓░░░░░░░░░░░░░   46.50 %
+JSON                         ████████████▒░░░░░░░░░░░░   49.23 %
+Other                        ████▒░░░░░░░░░░░░░░░░░░░░   17.76 %
 ```
 
 <!--END_SECTION:waka-->
