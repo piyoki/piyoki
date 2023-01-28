@@ -202,11 +202,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/techprober/v2ray-rules-dat/pull/1) in [techprober/v2ray-rules-dat](https://github.com/techprober/v2ray-rules-dat)
-2. ❌ Closed PR [#255](https://github.com/Loyalsoldier/v2ray-rules-dat/pull/255) in [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)
-3. 💪 Opened PR [#255](https://github.com/Loyalsoldier/v2ray-rules-dat/pull/255) in [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)
-4. 🗣 Commented on [#302](https://github.com/softprops/action-gh-release/issues/302) in [softprops/action-gh-release](https://github.com/softprops/action-gh-release)
-5. 🎉 Merged PR [#283](https://github.com/techprober/cloud-estate/pull/283) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. 🎉 Merged PR [#1](https://github.com/techprober/v2ray-rules-dat/pull/1) in [techprober/v2ray-rules-dat](https://github.com/techprober/v2ray-rules-dat)
+2. 🗣 Commented on [#1](https://github.com/techprober/v2ray-rules-dat/issues/1) in [techprober/v2ray-rules-dat](https://github.com/techprober/v2ray-rules-dat)
+3. 🗣 Commented on [#1](https://github.com/techprober/v2ray-rules-dat/issues/1) in [techprober/v2ray-rules-dat](https://github.com/techprober/v2ray-rules-dat)
+4. 💪 Opened PR [#1](https://github.com/techprober/v2ray-rules-dat/pull/1) in [techprober/v2ray-rules-dat](https://github.com/techprober/v2ray-rules-dat)
+5. ❌ Closed PR [#255](https://github.com/Loyalsoldier/v2ray-rules-dat/pull/255) in [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)
 
 <!--END_SECTION:activity-->
 
