@@ -202,11 +202,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#283](https://github.com/techprober/cloud-estate/pull/283) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-2. 💪 Opened PR [#283](https://github.com/techprober/cloud-estate/pull/283) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 🎉 Merged PR [#1](https://github.com/techprober/v2dat/pull/1) in [techprober/v2dat](https://github.com/techprober/v2dat)
-4. 💪 Opened PR [#1](https://github.com/techprober/v2dat/pull/1) in [techprober/v2dat](https://github.com/techprober/v2dat)
-5. 🎉 Merged PR [#282](https://github.com/techprober/cloud-estate/pull/282) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. 🗣 Commented on [#302](https://github.com/softprops/action-gh-release/issues/302) in [softprops/action-gh-release](https://github.com/softprops/action-gh-release)
+2. 🎉 Merged PR [#283](https://github.com/techprober/cloud-estate/pull/283) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 💪 Opened PR [#283](https://github.com/techprober/cloud-estate/pull/283) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+4. 🎉 Merged PR [#1](https://github.com/techprober/v2dat/pull/1) in [techprober/v2dat](https://github.com/techprober/v2dat)
+5. 💪 Opened PR [#1](https://github.com/techprober/v2dat/pull/1) in [techprober/v2dat](https://github.com/techprober/v2dat)
 
 <!--END_SECTION:activity-->
 
