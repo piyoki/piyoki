@@ -17,7 +17,6 @@ metadata:
     app: about-me
   annotations:
     api.hikariai.net/full-name: Kevin YU
-    api.hikariai.net/career: Sr.DevOps Engineer @HSBC
     api.hikariai.net/roles: Community Blogger, Cloud Solution Architect, DevOps Specialist, Security Specialist, Networking Professional
     api.hikariai.net/community: @openfaas, @cncf, @kubernetes, @cilium, @juicedata, and @techprober
     api.hikariai.net/website: https://www.hikariai.net
