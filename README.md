@@ -26,7 +26,7 @@ spec:
   certifications:
   - [x] CKA (Certified Kubernetes Administrator), certified in 2022
   - [x] CKAD (Certified Kubernetes Application Developer), certified in 2022
-  - [x] CKS (Certified Kubernetes Security Specialist), certified in 2022
+  - [x] CKS (Certified Kubernetes Security Specialist), certified in 2023
   - [ ] AWS SA Pro (AWS Solution Architect Professional), roadmap in 2023
   - [ ] CCNA (Cisco Certified Network Associate), roadmap in 2023
   - [ ] CCNP (Cisco Certified Network Professional), roadmap in 2023
