@@ -201,11 +201,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#21](https://github.com/v2rayA/dae/issues/21) in [v2rayA/dae](https://github.com/v2rayA/dae)
-2. ❗️ Closed issue [#7](https://github.com/techprober/k0s-ansible-provisioner/issues/7) in [techprober/k0s-ansible-provisioner](https://github.com/techprober/k0s-ansible-provisioner)
-3. 🎉 Merged PR [#4](https://github.com/techprober/k0s-ansible-provisioner/pull/4) in [techprober/k0s-ansible-provisioner](https://github.com/techprober/k0s-ansible-provisioner)
-4. 🗣 Commented on [#21](https://github.com/v2rayA/dae/issues/21) in [v2rayA/dae](https://github.com/v2rayA/dae)
-5. 🎉 Merged PR [#296](https://github.com/techprober/cloud-estate/pull/296) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. ❗️ Closed issue [#20](https://github.com/v2rayA/dae/issues/20) in [v2rayA/dae](https://github.com/v2rayA/dae)
+2. 💪 Opened PR [#23](https://github.com/v2rayA/dae/pull/23) in [v2rayA/dae](https://github.com/v2rayA/dae)
+3. 🗣 Commented on [#21](https://github.com/v2rayA/dae/issues/21) in [v2rayA/dae](https://github.com/v2rayA/dae)
+4. ❗️ Closed issue [#7](https://github.com/techprober/k0s-ansible-provisioner/issues/7) in [techprober/k0s-ansible-provisioner](https://github.com/techprober/k0s-ansible-provisioner)
+5. 🎉 Merged PR [#4](https://github.com/techprober/k0s-ansible-provisioner/pull/4) in [techprober/k0s-ansible-provisioner](https://github.com/techprober/k0s-ansible-provisioner)
 
 <!--END_SECTION:activity-->
 
