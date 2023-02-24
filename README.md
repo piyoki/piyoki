@@ -201,11 +201,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#301](https://github.com/techprober/cloud-estate/pull/301) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-2. 💪 Opened PR [#301](https://github.com/techprober/cloud-estate/pull/301) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 🎉 Merged PR [#300](https://github.com/techprober/cloud-estate/pull/300) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-4. 💪 Opened PR [#300](https://github.com/techprober/cloud-estate/pull/300) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-5. 💪 Opened PR [#72](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist/pull/72) in [walidshaari/Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
+1. 🎉 Merged PR [#23](https://github.com/yqlbu/umami/pull/23) in [yqlbu/umami](https://github.com/yqlbu/umami)
+2. 🎉 Merged PR [#301](https://github.com/techprober/cloud-estate/pull/301) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 💪 Opened PR [#301](https://github.com/techprober/cloud-estate/pull/301) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+4. 🎉 Merged PR [#300](https://github.com/techprober/cloud-estate/pull/300) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+5. 💪 Opened PR [#300](https://github.com/techprober/cloud-estate/pull/300) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 
 <!--END_SECTION:activity-->
 
