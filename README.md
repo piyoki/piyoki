@@ -214,11 +214,10 @@ spec:
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 February 2023 - To: 03 March 2023
+From: 25 February 2023 - To: 04 March 2023
 
-Markdown                    █████▓░░░░░░░░░░░░░░░░░░░   23.23 %
-YAML                        █████▓░░░░░░░░░░░░░░░░░░░   22.53 %
-Other                       █████▒░░░░░░░░░░░░░░░░░░░   21.13 %
+YAML                        ██████████████▓░░░░░░░░░░   58.14 %
+Other                       ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
 ```
 
 <!--END_SECTION:waka-->
