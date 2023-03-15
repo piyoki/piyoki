@@ -68,6 +68,7 @@ spec:
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![ArchLinux](https://img.shields.io/badge/-ArchLinux-000?&logo=ArchLinux)
+![Fedora](https://img.shields.io/badge/-Fedora-000?&logo=Fedora)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 ![CentOS](https://img.shields.io/badge/-CentOS-000?&logo=CentOS&logoColor=green)
 ![AmazonLinux](https://img.shields.io/badge/-AmazonLinux-000?&logo=AmazonEC2)
