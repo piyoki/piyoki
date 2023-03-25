@@ -203,11 +203,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#12](https://github.com/yqlbu/dae/pull/12) in [yqlbu/dae](https://github.com/yqlbu/dae)
-2. ❗️ Opened issue [#42](https://github.com/daeuniverse/dae/issues/42) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-3. ❗️ Opened issue [#41](https://github.com/daeuniverse/dae/issues/41) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-4. 💪 Opened PR [#39](https://github.com/daeuniverse/dae/pull/39) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-5. 💪 Opened PR [#7](https://github.com/daeuniverse/daed/pull/7) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+1. 🎉 Merged PR [#11](https://github.com/techprober/k0s-ansible-provisioner/pull/11) in [techprober/k0s-ansible-provisioner](https://github.com/techprober/k0s-ansible-provisioner)
+2. 💪 Opened PR [#11](https://github.com/techprober/k0s-ansible-provisioner/pull/11) in [techprober/k0s-ansible-provisioner](https://github.com/techprober/k0s-ansible-provisioner)
+3. 🎉 Merged PR [#12](https://github.com/yqlbu/dae/pull/12) in [yqlbu/dae](https://github.com/yqlbu/dae)
+4. ❗️ Opened issue [#42](https://github.com/daeuniverse/dae/issues/42) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+5. ❗️ Opened issue [#41](https://github.com/daeuniverse/dae/issues/41) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
 
 <!--END_SECTION:activity-->
 
