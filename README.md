@@ -203,11 +203,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#11](https://github.com/techprober/k0s-ansible-provisioner/pull/11) in [techprober/k0s-ansible-provisioner](https://github.com/techprober/k0s-ansible-provisioner)
-2. 💪 Opened PR [#11](https://github.com/techprober/k0s-ansible-provisioner/pull/11) in [techprober/k0s-ansible-provisioner](https://github.com/techprober/k0s-ansible-provisioner)
-3. 🎉 Merged PR [#12](https://github.com/yqlbu/dae/pull/12) in [yqlbu/dae](https://github.com/yqlbu/dae)
-4. ❗️ Opened issue [#42](https://github.com/daeuniverse/dae/issues/42) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-5. ❗️ Opened issue [#41](https://github.com/daeuniverse/dae/issues/41) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+1. 💪 Opened PR [#44](https://github.com/daeuniverse/dae/pull/44) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+2. 🎉 Merged PR [#11](https://github.com/techprober/k0s-ansible-provisioner/pull/11) in [techprober/k0s-ansible-provisioner](https://github.com/techprober/k0s-ansible-provisioner)
+3. 💪 Opened PR [#11](https://github.com/techprober/k0s-ansible-provisioner/pull/11) in [techprober/k0s-ansible-provisioner](https://github.com/techprober/k0s-ansible-provisioner)
+4. 🎉 Merged PR [#12](https://github.com/yqlbu/dae/pull/12) in [yqlbu/dae](https://github.com/yqlbu/dae)
+5. ❗️ Opened issue [#42](https://github.com/daeuniverse/dae/issues/42) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
 
 <!--END_SECTION:activity-->
 
