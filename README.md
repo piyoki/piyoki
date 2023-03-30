@@ -203,11 +203,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#46](https://github.com/daeuniverse/dae/issues/46) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-2. 💪 Opened PR [#46](https://github.com/daeuniverse/dae/pull/46) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-3. 💪 Opened PR [#44](https://github.com/daeuniverse/dae/pull/44) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-4. 🎉 Merged PR [#11](https://github.com/techprober/k0s-ansible-provisioner/pull/11) in [techprober/k0s-ansible-provisioner](https://github.com/techprober/k0s-ansible-provisioner)
-5. 💪 Opened PR [#11](https://github.com/techprober/k0s-ansible-provisioner/pull/11) in [techprober/k0s-ansible-provisioner](https://github.com/techprober/k0s-ansible-provisioner)
+1. 🎉 Merged PR [#323](https://github.com/techprober/cloud-estate/pull/323) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+2. 💪 Opened PR [#323](https://github.com/techprober/cloud-estate/pull/323) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 🎉 Merged PR [#322](https://github.com/techprober/cloud-estate/pull/322) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+4. 💪 Opened PR [#322](https://github.com/techprober/cloud-estate/pull/322) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+5. 🗣 Commented on [#46](https://github.com/daeuniverse/dae/issues/46) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
 
 <!--END_SECTION:activity-->
 
