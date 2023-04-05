@@ -167,7 +167,7 @@ spec:
 
 ##### Monitoring and Logging
 
-> Promotheus, Kiali, Grafana, Weaveworks, Dynatrace, Loki
+> Promotheus, Kiali, Grafana, Weaveworks, Dynatrace, Loki, ELK Stack (ElasticSearch)
 
 ##### Cloud Hosting
 
