@@ -209,11 +209,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#19](https://github.com/yqlbu/dae/pull/19) in [yqlbu/dae](https://github.com/yqlbu/dae)
-2. 🗣 Commented on [#51](https://github.com/daeuniverse/dae/issues/51) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-3. ❌ Closed PR [#51](https://github.com/daeuniverse/dae/pull/51) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-4. 💪 Opened PR [#51](https://github.com/daeuniverse/dae/pull/51) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-5. 🗣 Commented on [#72](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist/issues/72) in [walidshaari/Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
+1. 🎉 Merged PR [#1](https://github.com/daeuniverse/dae-docs/pull/1) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
+2. 💪 Opened PR [#1](https://github.com/daeuniverse/dae-docs/pull/1) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
+3. 🎉 Merged PR [#19](https://github.com/yqlbu/dae/pull/19) in [yqlbu/dae](https://github.com/yqlbu/dae)
+4. 🗣 Commented on [#51](https://github.com/daeuniverse/dae/issues/51) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+5. ❌ Closed PR [#51](https://github.com/daeuniverse/dae/pull/51) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
 
 <!--END_SECTION:activity-->
 
