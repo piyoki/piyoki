@@ -128,11 +128,11 @@ spec:
 
 ##### Web Development
 
-> Flask, Go-Gin, NodeJS, ExpressJS, ReactJS, AngularJS, RxJS, Yarn, Webpack
+> Flask, Go-Gin, NodeJS, ExpressJS, ReactJS, AngularJS, RxJS, Yarn, Webpack, FastAPI
 
 ##### Database
 
-> ETCD, MongoDB, MySQL, MariaDB, PostgreSQL, Firestore, InfluxDB, Redis
+> ETCD, MongoDB, MySQL, MariaDB, PostgreSQL, Firestore, InfluxDB, Redis, DynamoDB, AWS Aurora
 
 ##### Storage & Distributed File System
 
