@@ -106,6 +106,7 @@ spec:
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![AWS DynamoDB](https://img.shields.io/badge/-AmazonDynamoDB-000?&logo=AmazonDynamoDB&logoColor=de8000)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![ObjectStorage3](https://img.shields.io/badge/-ObjectStorage-000?&logo=AmazonS3)
 
@@ -125,6 +126,10 @@ spec:
 ![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua&logoColor=pink)
 ![PromQL](https://img.shields.io/badge/-PromQL-000?&logo=Prometheus)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
+
+##### AWS
+
+> S3, DynamoDB, RDS, VPC, VPCE, API Gateway, EKS, ECS, EC2, Route 53, Lambda, AuroraDB, CloudFront, TransitGateway, CloudWatch, QuickSight
 
 ##### Web Development
 
