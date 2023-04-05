@@ -91,6 +91,7 @@ spec:
 ![Packer](https://img.shields.io/badge/-Packer-000?&logo=Packer)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-000?&logo=ElasticSearch)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx&logoColor=009900)
 ![Kong](https://img.shields.io/badge/-Kong-000?&logo=Kong)
 ![Traefik](https://img.shields.io/badge/-Traefik-000?&logo=TraefikProxy)
