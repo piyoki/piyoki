@@ -209,11 +209,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#28](https://github.com/yqlbu/umami/pull/28) in [yqlbu/umami](https://github.com/yqlbu/umami)
-2. 🎉 Merged PR [#325](https://github.com/techprober/cloud-estate/pull/325) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 💪 Opened PR [#325](https://github.com/techprober/cloud-estate/pull/325) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-4. 🎉 Merged PR [#324](https://github.com/techprober/cloud-estate/pull/324) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-5. 💪 Opened PR [#324](https://github.com/techprober/cloud-estate/pull/324) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. 💪 Opened PR [#8](https://github.com/daeuniverse/daed/pull/8) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+2. 🎉 Merged PR [#326](https://github.com/techprober/cloud-estate/pull/326) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 💪 Opened PR [#326](https://github.com/techprober/cloud-estate/pull/326) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+4. 🎉 Merged PR [#29](https://github.com/yqlbu/umami/pull/29) in [yqlbu/umami](https://github.com/yqlbu/umami)
+5. 🎉 Merged PR [#28](https://github.com/yqlbu/umami/pull/28) in [yqlbu/umami](https://github.com/yqlbu/umami)
 
 <!--END_SECTION:activity-->
 
