@@ -84,6 +84,7 @@ spec:
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform&logoColor=blueviolet)
 ![Terraform](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
 ![CircleCI](https://img.shields.io/badge/-Circle%20CI-000?&logo=CircleCI)
+![GitHubActions](https://img.shields.io/badge/-GitHubActions-000?&logo=GitHubActions)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 ![Tekton](https://img.shields.io/badge/-Tekton-000?&logo=Tekton)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-000?&logo=Argo)
@@ -147,7 +148,7 @@ spec:
 
 > GitHub Checks (Check Suite and Check Run), ChatOps based on Pull Request
 
-> Git, Jenkins, CircleCI, Tekton CI, Argo Workflow, OpenShift, Weaveworks, Jenkins X, Argo Events, Argo Workflow, Argo Image Updater
+> Git, GitHub Actions, Jenkins, CircleCI, Tekton CI, Argo Workflow, OpenShift, Weaveworks, Jenkins X, Argo Events, Argo Workflow, Argo Image Updater
 
 > ArgoCD, FluxCD
 
