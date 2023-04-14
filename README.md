@@ -210,10 +210,10 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#328](https://github.com/techprober/cloud-estate/pull/328) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-2. 💪 Opened PR [#328](https://github.com/techprober/cloud-estate/pull/328) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 💪 Opened PR [#2](https://github.com/daeuniverse/dae-docs/pull/2) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
-4. 🎉 Merged PR [#54](https://github.com/daeuniverse/dae/pull/54) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+1. 🎉 Merged PR [#2](https://github.com/daeuniverse/dae-docs/pull/2) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
+2. 💪 Opened PR [#55](https://github.com/daeuniverse/dae/pull/55) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+3. 🎉 Merged PR [#328](https://github.com/techprober/cloud-estate/pull/328) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+4. 💪 Opened PR [#328](https://github.com/techprober/cloud-estate/pull/328) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 5. 🎉 Merged PR [#13](https://github.com/techprober/mosdns-lxc-deploy/pull/13) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
 
 <!--END_SECTION:activity-->
