@@ -210,11 +210,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#49](https://github.com/yqlbu/hikariai-web/pull/49) in [yqlbu/hikariai-web](https://github.com/yqlbu/hikariai-web)
-2. 💪 Opened PR [#49](https://github.com/yqlbu/hikariai-web/pull/49) in [yqlbu/hikariai-web](https://github.com/yqlbu/hikariai-web)
-3. 🎉 Merged PR [#32](https://github.com/yqlbu/umami/pull/32) in [yqlbu/umami](https://github.com/yqlbu/umami)
-4. 🎉 Merged PR [#9](https://github.com/daeuniverse/dae-docs/pull/9) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
-5. 💪 Opened PR [#9](https://github.com/daeuniverse/dae-docs/pull/9) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
+1. 🎉 Merged PR [#10](https://github.com/daeuniverse/dae-docs/pull/10) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
+2. 💪 Opened PR [#10](https://github.com/daeuniverse/dae-docs/pull/10) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
+3. 🎉 Merged PR [#49](https://github.com/yqlbu/hikariai-web/pull/49) in [yqlbu/hikariai-web](https://github.com/yqlbu/hikariai-web)
+4. 💪 Opened PR [#49](https://github.com/yqlbu/hikariai-web/pull/49) in [yqlbu/hikariai-web](https://github.com/yqlbu/hikariai-web)
+5. 🎉 Merged PR [#32](https://github.com/yqlbu/umami/pull/32) in [yqlbu/umami](https://github.com/yqlbu/umami)
 
 <!--END_SECTION:activity-->
 
