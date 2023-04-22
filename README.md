@@ -210,11 +210,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#11](https://github.com/daeuniverse/dae-docs/pull/11) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
-2. ❌ Closed PR [#33](https://github.com/yqlbu/umami/pull/33) in [yqlbu/umami](https://github.com/yqlbu/umami)
-3. 💪 Opened PR [#11](https://github.com/daeuniverse/dae-docs/pull/11) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
-4. 🎉 Merged PR [#10](https://github.com/daeuniverse/dae-docs/pull/10) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
-5. 💪 Opened PR [#10](https://github.com/daeuniverse/dae-docs/pull/10) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
+1. 🎉 Merged PR [#34](https://github.com/yqlbu/umami/pull/34) in [yqlbu/umami](https://github.com/yqlbu/umami)
+2. 🎉 Merged PR [#11](https://github.com/daeuniverse/dae-docs/pull/11) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
+3. ❌ Closed PR [#33](https://github.com/yqlbu/umami/pull/33) in [yqlbu/umami](https://github.com/yqlbu/umami)
+4. 💪 Opened PR [#11](https://github.com/daeuniverse/dae-docs/pull/11) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
+5. 🎉 Merged PR [#10](https://github.com/daeuniverse/dae-docs/pull/10) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
 
 <!--END_SECTION:activity-->
 
