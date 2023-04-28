@@ -224,9 +224,9 @@ spec:
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 April 2023 - To: 25 April 2023
+From: 20 April 2023 - To: 27 April 2023
 
-Other                        █████████████████▓░░░░░░░   71.11 %
+Other                        ████████████████░░░░░░░░░   63.90 %
 ```
 
 <!--END_SECTION:waka-->
