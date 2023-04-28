@@ -197,7 +197,6 @@ spec:
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [CKA, CKAD Prep](https://www.hikariai.net/blog/27-cka-ckad-prep/)
 - [Mosdns - The next generation DNS Resolver](https://www.hikariai.net/blog/26-mosdns-the-next-generation-dns-resolver/)
 - [GitOps 101: What’s it all about?](https://www.hikariai.net/blog/25-gitops-101-whats-it-all-about/)
