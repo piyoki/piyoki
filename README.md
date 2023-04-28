@@ -17,11 +17,11 @@ metadata:
     app: about-me
   annotations:
     api.hikariai.net/full-name: Kevin YU
+    api.hikariai.net/fun-facts: ["I use Arch BTW", "Neovim Amateur"]
     api.hikariai.net/roles: Community Blogger, Cloud Solution Architect, DevOps Specialist, Security Specialist, Networking Professional
     api.hikariai.net/community: @openfaas, @cncf, @kubernetes, @cilium, @juicedata, and @techprober
     api.hikariai.net/website: https://www.hikariai.net
     api.hikariai.net/goal: Contribute projects globally
-    api.hikariai.net/fun-fact: Neovim Amateur desu~
 spec:
   certifications:
   - [x] CKA (Certified Kubernetes Administrator), certified in 2022
