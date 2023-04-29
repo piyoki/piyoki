@@ -211,11 +211,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#61](https://github.com/daeuniverse/dae/issues/61) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-2. 🗣 Commented on [#61](https://github.com/daeuniverse/dae/issues/61) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-3. 🎉 Merged PR [#64](https://github.com/daeuniverse/dae/pull/64) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-4. 🗣 Commented on [#64](https://github.com/daeuniverse/dae/issues/64) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-5. 💪 Opened PR [#64](https://github.com/daeuniverse/dae/pull/64) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+1. 🗣 Commented on [#65](https://github.com/daeuniverse/dae/issues/65) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+2. ❗️ Closed issue [#61](https://github.com/daeuniverse/dae/issues/61) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+3. 🗣 Commented on [#61](https://github.com/daeuniverse/dae/issues/61) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+4. 🎉 Merged PR [#64](https://github.com/daeuniverse/dae/pull/64) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+5. 🗣 Commented on [#64](https://github.com/daeuniverse/dae/issues/64) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
 
 <!--END_SECTION:activity-->
 
