@@ -211,11 +211,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4](https://github.com/rocats/repeater/pull/4) in [rocats/repeater](https://github.com/rocats/repeater)
-2. 💪 Opened PR [#4](https://github.com/rocats/repeater/pull/4) in [rocats/repeater](https://github.com/rocats/repeater)
-3. 🗣 Commented on [#2069](https://github.com/simonw/datasette/issues/2069) in [simonw/datasette](https://github.com/simonw/datasette)
-4. ❗️ Opened issue [#2069](https://github.com/simonw/datasette/issues/2069) in [simonw/datasette](https://github.com/simonw/datasette)
-5. 🎉 Merged PR [#337](https://github.com/techprober/cloud-estate/pull/337) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. 🎉 Merged PR [#1](https://github.com/rocats/repeater-v2/pull/1) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
+2. 💪 Opened PR [#1](https://github.com/rocats/repeater-v2/pull/1) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
+3. 🎉 Merged PR [#4](https://github.com/rocats/repeater/pull/4) in [rocats/repeater](https://github.com/rocats/repeater)
+4. 💪 Opened PR [#4](https://github.com/rocats/repeater/pull/4) in [rocats/repeater](https://github.com/rocats/repeater)
+5. 🗣 Commented on [#2069](https://github.com/simonw/datasette/issues/2069) in [simonw/datasette](https://github.com/simonw/datasette)
 
 <!--END_SECTION:activity-->
 
