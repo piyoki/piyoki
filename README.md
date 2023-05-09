@@ -211,11 +211,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#338](https://github.com/techprober/cloud-estate/pull/338) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-2. 💪 Opened PR [#338](https://github.com/techprober/cloud-estate/pull/338) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 🎉 Merged PR [#1](https://github.com/rocats/repeater-v2/pull/1) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
-4. 💪 Opened PR [#1](https://github.com/rocats/repeater-v2/pull/1) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
-5. 🎉 Merged PR [#4](https://github.com/rocats/repeater/pull/4) in [rocats/repeater](https://github.com/rocats/repeater)
+1. 🎉 Merged PR [#339](https://github.com/techprober/cloud-estate/pull/339) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+2. 💪 Opened PR [#339](https://github.com/techprober/cloud-estate/pull/339) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 🎉 Merged PR [#338](https://github.com/techprober/cloud-estate/pull/338) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+4. 💪 Opened PR [#338](https://github.com/techprober/cloud-estate/pull/338) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+5. 🎉 Merged PR [#1](https://github.com/rocats/repeater-v2/pull/1) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
 
 <!--END_SECTION:activity-->
 
