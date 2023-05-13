@@ -211,11 +211,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/daeuniverse/dae-light-ui/pull/3) in [daeuniverse/dae-light-ui](https://github.com/daeuniverse/dae-light-ui)
-2. 💪 Opened PR [#3](https://github.com/daeuniverse/dae-light-ui/pull/3) in [daeuniverse/dae-light-ui](https://github.com/daeuniverse/dae-light-ui)
-3. 🎉 Merged PR [#2](https://github.com/daeuniverse/dae-light-ui/pull/2) in [daeuniverse/dae-light-ui](https://github.com/daeuniverse/dae-light-ui)
-4. 💪 Opened PR [#2](https://github.com/daeuniverse/dae-light-ui/pull/2) in [daeuniverse/dae-light-ui](https://github.com/daeuniverse/dae-light-ui)
-5. 🎉 Merged PR [#1](https://github.com/daeuniverse/dae-light-ui/pull/1) in [daeuniverse/dae-light-ui](https://github.com/daeuniverse/dae-light-ui)
+1. 🎉 Merged PR [#4](https://github.com/daeuniverse/dae-light-ui/pull/4) in [daeuniverse/dae-light-ui](https://github.com/daeuniverse/dae-light-ui)
+2. 💪 Opened PR [#4](https://github.com/daeuniverse/dae-light-ui/pull/4) in [daeuniverse/dae-light-ui](https://github.com/daeuniverse/dae-light-ui)
+3. 🎉 Merged PR [#3](https://github.com/daeuniverse/dae-light-ui/pull/3) in [daeuniverse/dae-light-ui](https://github.com/daeuniverse/dae-light-ui)
+4. 💪 Opened PR [#3](https://github.com/daeuniverse/dae-light-ui/pull/3) in [daeuniverse/dae-light-ui](https://github.com/daeuniverse/dae-light-ui)
+5. 🎉 Merged PR [#2](https://github.com/daeuniverse/dae-light-ui/pull/2) in [daeuniverse/dae-light-ui](https://github.com/daeuniverse/dae-light-ui)
 
 <!--END_SECTION:activity-->
 
