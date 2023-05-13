@@ -211,11 +211,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/daeuniverse/dae-light-ui/pull/1) in [daeuniverse/dae-light-ui](https://github.com/daeuniverse/dae-light-ui)
-2. 💪 Opened PR [#1](https://github.com/daeuniverse/dae-light-ui/pull/1) in [daeuniverse/dae-light-ui](https://github.com/daeuniverse/dae-light-ui)
-3. 🎉 Merged PR [#340](https://github.com/techprober/cloud-estate/pull/340) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-4. 💪 Opened PR [#340](https://github.com/techprober/cloud-estate/pull/340) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-5. 🎉 Merged PR [#14](https://github.com/daeuniverse/dae-docs/pull/14) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
+1. 🎉 Merged PR [#2](https://github.com/daeuniverse/dae-light-ui/pull/2) in [daeuniverse/dae-light-ui](https://github.com/daeuniverse/dae-light-ui)
+2. 💪 Opened PR [#2](https://github.com/daeuniverse/dae-light-ui/pull/2) in [daeuniverse/dae-light-ui](https://github.com/daeuniverse/dae-light-ui)
+3. 🎉 Merged PR [#1](https://github.com/daeuniverse/dae-light-ui/pull/1) in [daeuniverse/dae-light-ui](https://github.com/daeuniverse/dae-light-ui)
+4. 💪 Opened PR [#1](https://github.com/daeuniverse/dae-light-ui/pull/1) in [daeuniverse/dae-light-ui](https://github.com/daeuniverse/dae-light-ui)
+5. 🎉 Merged PR [#340](https://github.com/techprober/cloud-estate/pull/340) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 
 <!--END_SECTION:activity-->
 
