@@ -211,11 +211,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#86](https://github.com/daeuniverse/dae/pull/86) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-2. 💪 Opened PR [#85](https://github.com/daeuniverse/dae/pull/85) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-3. 🗣 Commented on [#3159](https://github.com/ansible/galaxy/issues/3159) in [ansible/galaxy](https://github.com/ansible/galaxy)
-4. ❗️ Opened issue [#3159](https://github.com/ansible/galaxy/issues/3159) in [ansible/galaxy](https://github.com/ansible/galaxy)
-5. ❗️ Opened issue [#82](https://github.com/daeuniverse/dae/issues/82) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+1. 🗣 Commented on [#83](https://github.com/daeuniverse/dae/issues/83) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+2. 🎉 Merged PR [#86](https://github.com/daeuniverse/dae/pull/86) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+3. 🎉 Merged PR [#85](https://github.com/daeuniverse/dae/pull/85) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+4. 💪 Opened PR [#86](https://github.com/daeuniverse/dae/pull/86) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+5. 💪 Opened PR [#85](https://github.com/daeuniverse/dae/pull/85) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
 
 <!--END_SECTION:activity-->
 
