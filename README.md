@@ -211,11 +211,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#83](https://github.com/daeuniverse/dae/issues/83) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-2. 🎉 Merged PR [#86](https://github.com/daeuniverse/dae/pull/86) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-3. 🎉 Merged PR [#85](https://github.com/daeuniverse/dae/pull/85) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-4. 💪 Opened PR [#86](https://github.com/daeuniverse/dae/pull/86) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-5. 💪 Opened PR [#85](https://github.com/daeuniverse/dae/pull/85) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+1. 🎉 Merged PR [#2](https://github.com/rocats/repeater-v2/pull/2) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
+2. 💪 Opened PR [#2](https://github.com/rocats/repeater-v2/pull/2) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
+3. ❌ Closed PR [#5](https://github.com/rocats/repeater/pull/5) in [rocats/repeater](https://github.com/rocats/repeater)
+4. 💪 Opened PR [#5](https://github.com/rocats/repeater/pull/5) in [rocats/repeater](https://github.com/rocats/repeater)
+5. 🎉 Merged PR [#341](https://github.com/techprober/cloud-estate/pull/341) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 
 <!--END_SECTION:activity-->
 
