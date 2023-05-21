@@ -210,11 +210,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#350](https://github.com/techprober/cloud-estate/pull/350) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-2. 💪 Opened PR [#350](https://github.com/techprober/cloud-estate/pull/350) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 🗣 Commented on [#90](https://github.com/kdheepak/lazygit.nvim/issues/90) in [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim)
-4. 🎉 Merged PR [#349](https://github.com/techprober/cloud-estate/pull/349) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-5. 💪 Opened PR [#349](https://github.com/techprober/cloud-estate/pull/349) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. 🎉 Merged PR [#351](https://github.com/techprober/cloud-estate/pull/351) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+2. 💪 Opened PR [#351](https://github.com/techprober/cloud-estate/pull/351) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 🎉 Merged PR [#350](https://github.com/techprober/cloud-estate/pull/350) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+4. 💪 Opened PR [#350](https://github.com/techprober/cloud-estate/pull/350) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+5. 🗣 Commented on [#90](https://github.com/kdheepak/lazygit.nvim/issues/90) in [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim)
 
 <!--END_SECTION:activity-->
 
