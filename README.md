@@ -210,11 +210,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#101](https://github.com/daeuniverse/dae/pull/101) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-2. 💪 Opened PR [#15](https://github.com/daeuniverse/dae-docs/pull/15) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
-3. ❗️ Opened issue [#97](https://github.com/daeuniverse/dae/issues/97) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-4. 🎉 Merged PR [#358](https://github.com/techprober/cloud-estate/pull/358) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-5. 💪 Opened PR [#358](https://github.com/techprober/cloud-estate/pull/358) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. ❌ Closed PR [#18](https://github.com/daeuniverse/dae-docs/pull/18) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
+2. 💪 Opened PR [#18](https://github.com/daeuniverse/dae-docs/pull/18) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
+3. ❌ Closed PR [#17](https://github.com/daeuniverse/dae-docs/pull/17) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
+4. 💪 Opened PR [#17](https://github.com/daeuniverse/dae-docs/pull/17) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
+5. ❌ Closed PR [#16](https://github.com/daeuniverse/dae-docs/pull/16) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
 
 <!--END_SECTION:activity-->
 
