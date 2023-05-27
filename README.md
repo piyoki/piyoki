@@ -210,11 +210,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#18](https://github.com/daeuniverse/dae-docs/pull/18) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
-2. 💪 Opened PR [#18](https://github.com/daeuniverse/dae-docs/pull/18) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
-3. ❌ Closed PR [#17](https://github.com/daeuniverse/dae-docs/pull/17) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
-4. 💪 Opened PR [#17](https://github.com/daeuniverse/dae-docs/pull/17) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
-5. ❌ Closed PR [#16](https://github.com/daeuniverse/dae-docs/pull/16) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
+1. 💪 Opened PR [#24](https://github.com/daeuniverse/dae-docs/pull/24) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
+2. ❌ Closed PR [#23](https://github.com/daeuniverse/dae-docs/pull/23) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
+3. 💪 Opened PR [#23](https://github.com/daeuniverse/dae-docs/pull/23) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
+4. ❌ Closed PR [#22](https://github.com/daeuniverse/dae-docs/pull/22) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
+5. 💪 Opened PR [#22](https://github.com/daeuniverse/dae-docs/pull/22) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
 
 <!--END_SECTION:activity-->
 
