@@ -210,11 +210,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#25](https://github.com/daeuniverse/dae-docs/pull/25) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
-2. ❌ Closed PR [#24](https://github.com/daeuniverse/dae-docs/pull/24) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
-3. 💪 Opened PR [#103](https://github.com/daeuniverse/dae/pull/103) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-4. 🎉 Merged PR [#15](https://github.com/daeuniverse/dae-docs/pull/15) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
-5. 💪 Opened PR [#24](https://github.com/daeuniverse/dae-docs/pull/24) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
+1. 🎉 Merged PR [#8](https://github.com/rocats/repeater-v2/pull/8) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
+2. 💪 Opened PR [#8](https://github.com/rocats/repeater-v2/pull/8) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
+3. ❗️ Closed issue [#66](https://github.com/daeuniverse/dae/issues/66) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+4. ❗️ Opened issue [#104](https://github.com/daeuniverse/dae/issues/104) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+5. 💪 Opened PR [#25](https://github.com/daeuniverse/dae-docs/pull/25) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
 
 <!--END_SECTION:activity-->
 
