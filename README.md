@@ -210,11 +210,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#103](https://github.com/daeuniverse/dae/issues/103) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-2. 🎉 Merged PR [#8](https://github.com/rocats/repeater-v2/pull/8) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
-3. 💪 Opened PR [#8](https://github.com/rocats/repeater-v2/pull/8) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
-4. ❗️ Closed issue [#66](https://github.com/daeuniverse/dae/issues/66) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-5. ❗️ Opened issue [#104](https://github.com/daeuniverse/dae/issues/104) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+1. 🎉 Merged PR [#360](https://github.com/techprober/cloud-estate/pull/360) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+2. 💪 Opened PR [#360](https://github.com/techprober/cloud-estate/pull/360) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 🎉 Merged PR [#359](https://github.com/techprober/cloud-estate/pull/359) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+4. 💪 Opened PR [#359](https://github.com/techprober/cloud-estate/pull/359) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+5. 🗣 Commented on [#103](https://github.com/daeuniverse/dae/issues/103) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
 
 <!--END_SECTION:activity-->
 
