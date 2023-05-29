@@ -210,11 +210,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/daeuniverse/dae-light-ui/pull/5) in [daeuniverse/dae-light-ui](https://github.com/daeuniverse/dae-light-ui)
-2. 🎉 Merged PR [#360](https://github.com/techprober/cloud-estate/pull/360) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 💪 Opened PR [#360](https://github.com/techprober/cloud-estate/pull/360) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-4. 🎉 Merged PR [#359](https://github.com/techprober/cloud-estate/pull/359) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-5. 💪 Opened PR [#359](https://github.com/techprober/cloud-estate/pull/359) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. 🎉 Merged PR [#9](https://github.com/rocats/repeater-v2/pull/9) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
+2. 💪 Opened PR [#9](https://github.com/rocats/repeater-v2/pull/9) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
+3. 🗣 Commented on [#105](https://github.com/daeuniverse/dae/issues/105) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+4. ❗️ Opened issue [#105](https://github.com/daeuniverse/dae/issues/105) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+5. 🎉 Merged PR [#5](https://github.com/daeuniverse/dae-light-ui/pull/5) in [daeuniverse/dae-light-ui](https://github.com/daeuniverse/dae-light-ui)
 
 <!--END_SECTION:activity-->
 
