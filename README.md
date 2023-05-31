@@ -210,11 +210,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#22](https://github.com/yqlbu/juicefs/pull/22) in [yqlbu/juicefs](https://github.com/yqlbu/juicefs)
-2. 🎉 Merged PR [#9](https://github.com/rocats/repeater-v2/pull/9) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
-3. 💪 Opened PR [#9](https://github.com/rocats/repeater-v2/pull/9) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
-4. 🗣 Commented on [#105](https://github.com/daeuniverse/dae/issues/105) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-5. ❗️ Opened issue [#105](https://github.com/daeuniverse/dae/issues/105) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+1. 🎉 Merged PR [#5](https://github.com/techprober/v2ray-rules-dat/pull/5) in [techprober/v2ray-rules-dat](https://github.com/techprober/v2ray-rules-dat)
+2. 💪 Opened PR [#5](https://github.com/techprober/v2ray-rules-dat/pull/5) in [techprober/v2ray-rules-dat](https://github.com/techprober/v2ray-rules-dat)
+3. ❌ Closed PR [#299](https://github.com/Loyalsoldier/v2ray-rules-dat/pull/299) in [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)
+4. 💪 Opened PR [#299](https://github.com/Loyalsoldier/v2ray-rules-dat/pull/299) in [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)
+5. 🎉 Merged PR [#4](https://github.com/techprober/v2ray-rules-dat/pull/4) in [techprober/v2ray-rules-dat](https://github.com/techprober/v2ray-rules-dat)
 
 <!--END_SECTION:activity-->
 
