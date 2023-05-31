@@ -210,11 +210,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#9](https://github.com/rocats/repeater-v2/pull/9) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
-2. 💪 Opened PR [#9](https://github.com/rocats/repeater-v2/pull/9) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
-3. 🗣 Commented on [#105](https://github.com/daeuniverse/dae/issues/105) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-4. ❗️ Opened issue [#105](https://github.com/daeuniverse/dae/issues/105) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-5. 🎉 Merged PR [#5](https://github.com/daeuniverse/dae-light-ui/pull/5) in [daeuniverse/dae-light-ui](https://github.com/daeuniverse/dae-light-ui)
+1. 🎉 Merged PR [#22](https://github.com/yqlbu/juicefs/pull/22) in [yqlbu/juicefs](https://github.com/yqlbu/juicefs)
+2. 🎉 Merged PR [#9](https://github.com/rocats/repeater-v2/pull/9) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
+3. 💪 Opened PR [#9](https://github.com/rocats/repeater-v2/pull/9) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
+4. 🗣 Commented on [#105](https://github.com/daeuniverse/dae/issues/105) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+5. ❗️ Opened issue [#105](https://github.com/daeuniverse/dae/issues/105) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
 
 <!--END_SECTION:activity-->
 
