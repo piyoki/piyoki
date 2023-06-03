@@ -122,6 +122,7 @@ spec:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Shell](https://img.shields.io/badge/-Shell-000?&logo=GNOMETerminal)
+![Nix](https://img.shields.io/badge/-Nix-000?&logo=NixOS)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=yellow)
 ![Vim Script](https://img.shields.io/badge/-Vim%20Script-000?&logo=vim&logoColor=green)
