@@ -17,7 +17,7 @@ metadata:
     app: about-me
   annotations:
     api.hikariai.net/full-name: Kevin YU
-    api.hikariai.net/fun-facts: ["Linux is a must", "I use Arch BTW", "Neovim Amateur"]
+    api.hikariai.net/fun-facts: ["Linux is a must", "I use Arch and Nix BTW", "Neovim Amateur"]
     api.hikariai.net/roles: Community Blogger, Cloud Solution Architect, DevOps Specialist, Security Specialist, Networking Professional
     api.hikariai.net/community: @openfaas, @cncf, @kubernetes, @cilium, @juicedata, and @techprober
     api.hikariai.net/website: https://www.hikariai.net
@@ -68,7 +68,7 @@ spec:
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![ArchLinux](https://img.shields.io/badge/-ArchLinux-000?&logo=ArchLinux)
-![NixOS](https://img.shields.io/badge/-ArchLinux-000?&logo=NixOS)
+![NixOS](https://img.shields.io/badge/-NixOS-000?&logo=NixOS)
 ![Fedora](https://img.shields.io/badge/-Fedora-000?&logo=Fedora)
 ![RHEL](https://img.shields.io/badge/-RHEL-000?&logo=RedHat&logoColor=red)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
