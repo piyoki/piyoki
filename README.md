@@ -212,11 +212,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#32](https://github.com/daeuniverse/dae-docs/pull/32) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
-2. 💪 Opened PR [#125](https://github.com/daeuniverse/dae/pull/125) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-3. 💪 Opened PR [#32](https://github.com/daeuniverse/dae-docs/pull/32) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
-4. 🎉 Merged PR [#31](https://github.com/daeuniverse/dae-docs/pull/31) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
-5. 💪 Opened PR [#122](https://github.com/daeuniverse/dae/pull/122) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+1. 🎉 Merged PR [#125](https://github.com/daeuniverse/dae/pull/125) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+2. 🎉 Merged PR [#32](https://github.com/daeuniverse/dae-docs/pull/32) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
+3. 💪 Opened PR [#125](https://github.com/daeuniverse/dae/pull/125) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+4. 💪 Opened PR [#32](https://github.com/daeuniverse/dae-docs/pull/32) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
+5. 🎉 Merged PR [#31](https://github.com/daeuniverse/dae-docs/pull/31) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
 
 <!--END_SECTION:activity-->
 
