@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/www.hikariai.net-up-brightegreen?style=for-the-badge)](https://hikariai.net)
 [![](https://img.shields.io/badge/link.hikariai.net-up-brightegreen?style=for-the-badge)](https://link.hikariai.net)
 
-## PGP
+## PGP 🔒
 
 [`B08F E264 4F9F C450 AF42 5FF5 B94F 394B 7288 4017`](https://github.com/yqlbu.gpg)
 
