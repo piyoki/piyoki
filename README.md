@@ -216,11 +216,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/daeuniverse/dae-bot/pull/2) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
-2. 🗣 Commented on [#2](https://github.com/daeuniverse/dae-bot/issues/2) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
-3. 💪 Opened PR [#2](https://github.com/daeuniverse/dae-bot/pull/2) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
-4. 🎉 Merged PR [#1](https://github.com/daeuniverse/dae-bot/pull/1) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
-5. 🎉 Merged PR [#125](https://github.com/daeuniverse/dae/pull/125) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+1. 💪 Opened PR [#33](https://github.com/daeuniverse/dae-docs/pull/33) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
+2. 🎉 Merged PR [#2](https://github.com/daeuniverse/dae-bot/pull/2) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+3. 🗣 Commented on [#2](https://github.com/daeuniverse/dae-bot/issues/2) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+4. 💪 Opened PR [#2](https://github.com/daeuniverse/dae-bot/pull/2) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+5. 🎉 Merged PR [#1](https://github.com/daeuniverse/dae-bot/pull/1) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
 
 <!--END_SECTION:activity-->
 
