@@ -216,11 +216,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#19](https://github.com/daeuniverse/daed/issues/19) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
-2. 🎉 Merged PR [#8](https://github.com/techprober/v2ray-rules-dat/pull/8) in [techprober/v2ray-rules-dat](https://github.com/techprober/v2ray-rules-dat)
-3. 💪 Opened PR [#8](https://github.com/techprober/v2ray-rules-dat/pull/8) in [techprober/v2ray-rules-dat](https://github.com/techprober/v2ray-rules-dat)
-4. 🎉 Merged PR [#7](https://github.com/techprober/v2ray-rules-dat/pull/7) in [techprober/v2ray-rules-dat](https://github.com/techprober/v2ray-rules-dat)
-5. 💪 Opened PR [#7](https://github.com/techprober/v2ray-rules-dat/pull/7) in [techprober/v2ray-rules-dat](https://github.com/techprober/v2ray-rules-dat)
+1. 🎉 Merged PR [#3](https://github.com/daeuniverse/dae-bot/pull/3) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+2. 💪 Opened PR [#3](https://github.com/daeuniverse/dae-bot/pull/3) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+3. 🗣 Commented on [#19](https://github.com/daeuniverse/daed/issues/19) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+4. 🎉 Merged PR [#8](https://github.com/techprober/v2ray-rules-dat/pull/8) in [techprober/v2ray-rules-dat](https://github.com/techprober/v2ray-rules-dat)
+5. 💪 Opened PR [#8](https://github.com/techprober/v2ray-rules-dat/pull/8) in [techprober/v2ray-rules-dat](https://github.com/techprober/v2ray-rules-dat)
 
 <!--END_SECTION:activity-->
 
