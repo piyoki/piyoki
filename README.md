@@ -20,30 +20,30 @@ metadata:
   labels:
     app: about-me
   annotations:
-    api.hikariai.net/full-name: Kevin YU
-    api.hikariai.net/fun-facts: ["Linux is a must", "I use Arch and Nix BTW", "Vim Professional"]
-    api.hikariai.net/roles: ["Community Blogger", "Cloud Solution Architect", "DevOps Specialist", "Release Specialist", "Security Specialist", "Networking Professional"]
-    api.hikariai.net/current-role: Sr. Site Reliability Engineer (SRE)
-    api.hikariai.net/community: @openfaas, @cncf, @kubernetes, @cilium, @juicedata, and @techprober
-    api.hikariai.net/website: https://www.hikariai.net
-    api.hikariai.net/goal: Contribute projects globally
+    api.hikariai.net/full-name: "Kevin YU"
+    api.hikariai.net/fun-facts: [ "Linux is a must", "I use Arch and Nix BTW", "Vim Professional" ]
+    api.hikariai.net/roles: [ "Community Blogger", "Cloud Solution Architect", "DevOps Specialist", "Release Specialist", "Security Specialist", "Networking Professional" ]
+    api.hikariai.net/current-role: "Sr. Site Reliability Engineer (SRE)"
+    api.hikariai.net/community: [ "@openfaas", "@cncf", "@kubernetes", "@daeuniverse", "@cilium", "@juicedata", "@techprober" ]
+    api.hikariai.net/website: "https://www.hikariai.net"
+    api.hikariai.net/goal: "Contribute projects globally"
 spec:
   certifications:
-  - [x] CKA (Certified Kubernetes Administrator), certified in 2022
-  - [x] CKAD (Certified Kubernetes Application Developer), certified in 2022
-  - [x] CKS (Certified Kubernetes Security Specialist), certified in 2023
-  - [ ] AWS SA Pro (AWS Solution Architect Professional), roadmap in 2023
-  - [ ] CCNA (Cisco Certified Network Associate), roadmap in 2024
-  - [ ] CCNP (Cisco Certified Network Professional), roadmap in 2024
+    - [x] CKA (Certified Kubernetes Administrator), certified in 2022
+    - [x] CKAD (Certified Kubernetes Application Developer), certified in 2022
+    - [x] CKS (Certified Kubernetes Security Specialist), certified in 2023
+    - [ ] AWS SA Pro (AWS Solution Architect Professional), roadmap in 2023
+    - [ ] CCNA (Cisco Certified Network Associate), roadmap in 2024
+    - [ ] CCNP (Cisco Certified Network Professional), roadmap in 2024
   languanges:
-  - Native in Cantonese, Mandarin
-  - Fluent in English
-  - Proficient in Japanese
+    - Native in Cantonese, Mandarin
+    - Fluent in English
+    - Proficient in Japanese
   skills:
-  - AWS, GCP, Oracle Cloud, Proxmox VE, VMware vCenter, CIVO
-  - Linux, Enterprise Storage Solution, Enterprise Integrated Compliance Firewall, IT Security, Advanced Networking, Enterprise SD-WAN Solution
-  - Containerization, Kubernetes, CloudNative, DevSecOps, GitOps, Serverless
-  - Technical Writing, Public Speaking, Advocacy and Outreach, Host Events
+    core: [ Linux, Enterprise Cloud Solution, Enterprise Storage Solution, Enterprise Integrated Compliance Firewall, IT Security, Advanced Networking, Enterprise SD-WAN Solution ]
+    cloud: [ AWS, GCP, Oracle Cloud, Proxmox VE, VMware vCenter, CIVO ]
+    devops: [ Containerization, Kubernetes, CloudNative, DevSecOps, GitOps, Serverless ]
+    business: [ Technical Writing, Public Speaking, Advocacy and Outreach, Host Events ]
 ```
 
 📫 How to reach me: [Link Page](https://link.hikariai.net)
