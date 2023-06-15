@@ -13,7 +13,7 @@
 
 ```yaml
 ---
-apiVersion: api.hikariai.net/v1alpha1
+apiVersion: api.hikariai.net/v1beta1
 kind: Bio
 metadata:
   name: about-me
