@@ -22,7 +22,8 @@ metadata:
   annotations:
     api.hikariai.net/full-name: Kevin YU
     api.hikariai.net/fun-facts: ["Linux is a must", "I use Arch and Nix BTW", "Vim Professional"]
-    api.hikariai.net/roles: Community Blogger, Cloud Solution Architect, DevOps Specialist, Security Specialist, Networking Professional
+    api.hikariai.net/roles: ["Community Blogger", "Cloud Solution Architect", "DevOps Specialist", "Release Specialist", "Security Specialist", "Networking Professional"]
+    api.hikariai.net/current-role: Sr. Site Reliability Engineer (SRE)
     api.hikariai.net/community: @openfaas, @cncf, @kubernetes, @cilium, @juicedata, and @techprober
     api.hikariai.net/website: https://www.hikariai.net
     api.hikariai.net/goal: Contribute projects globally
@@ -95,6 +96,7 @@ spec:
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-000?&logo=Argo)
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible&logoColor=red)
 ![Packer](https://img.shields.io/badge/-Packer-000?&logo=Packer)
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000?&logo=OpenTelemetry&logoColor=blue)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-000?&logo=ElasticSearch)
