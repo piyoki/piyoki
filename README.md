@@ -218,11 +218,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#2](https://github.com/daeuniverse/daed-1/pull/2) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
-2. 🗣 Commented on [#3](https://github.com/daeuniverse/daed-1/issues/3) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
-3. 🎉 Merged PR [#5](https://github.com/daeuniverse/daed-1/pull/5) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
+1. 🗣 Commented on [#3](https://github.com/daeuniverse/daed-1/issues/3) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
+2. 🔒 Closed issue [#4](https://github.com/daeuniverse/daed-1/issues/4) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
+3. ❌ Closed PR [#2](https://github.com/daeuniverse/daed-1/pull/2) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
 4. 🗣 Commented on [#3](https://github.com/daeuniverse/daed-1/issues/3) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
-5. 🗣 Commented on [#4](https://github.com/daeuniverse/daed-1/issues/4) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
+5. 🎉 Merged PR [#5](https://github.com/daeuniverse/daed-1/pull/5) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
 
 <!--END_SECTION:activity-->
 
