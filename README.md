@@ -218,11 +218,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#156](https://github.com/daeuniverse/dae/issues/156) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-2. 🔒 Closed issue [#127](https://github.com/daeuniverse/dae/issues/127) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-3. 🗣 Commented on [#1854](https://github.com/XTLS/Xray-core/issues/1854) in [XTLS/Xray-core](https://github.com/XTLS/Xray-core)
-4. ❗ Opened issue [#31](https://github.com/daeuniverse/dae-bot/issues/31) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
-5. 🎉 Merged PR [#30](https://github.com/daeuniverse/dae-bot/pull/30) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+1. 💪 Opened PR [#157](https://github.com/daeuniverse/dae/pull/157) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+2. 🗣 Commented on [#156](https://github.com/daeuniverse/dae/issues/156) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+3. 🎉 Merged PR [#123](https://github.com/daeuniverse/daed/pull/123) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+4. ❗ Opened issue [#32](https://github.com/daeuniverse/dae-bot/issues/32) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+5. 🎉 Merged PR [#122](https://github.com/daeuniverse/daed/pull/122) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
 
 <!--END_SECTION:activity-->
 
