@@ -97,6 +97,7 @@ spec:
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible&logoColor=red)
 ![Packer](https://img.shields.io/badge/-Packer-000?&logo=Packer)
 ![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000?&logo=OpenTelemetry&logoColor=blue)
+![Jaeger](https://img.shields.io/badge/-Jaeger-000?&logo=Jaeger)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-000?&logo=ElasticSearch)
@@ -113,6 +114,7 @@ spec:
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=darkred)
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Cassandra](https://img.shields.io/badge/-Cassandra-000?&logo=Cassandra)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![AWS DynamoDB](https://img.shields.io/badge/-AmazonDynamoDB-000?&logo=AmazonDynamoDB&logoColor=de8000)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
@@ -146,7 +148,7 @@ spec:
 
 ##### Database
 
-> ETCD, MongoDB, MySQL, MariaDB, PostgreSQL, Firestore, InfluxDB, Redis, DynamoDB, AWS Aurora
+> ETCD, MongoDB, MySQL, MariaDB, PostgreSQL, Firestore, InfluxDB, Redis, DynamoDB, AWS Aurora, Cassandra
 
 ##### Storage & Distributed File System
 
