@@ -220,11 +220,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#40](https://github.com/daeuniverse/dae-bot/issues/40) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
-2. 🎉 Merged PR [#39](https://github.com/daeuniverse/dae-bot/pull/39) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
-3. 💪 Opened PR [#39](https://github.com/daeuniverse/dae-bot/pull/39) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
-4. 🎉 Merged PR [#362](https://github.com/techprober/cloud-estate/pull/362) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-5. 💪 Opened PR [#362](https://github.com/techprober/cloud-estate/pull/362) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. 🎉 Merged PR [#41](https://github.com/daeuniverse/dae-bot/pull/41) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+2. 💪 Opened PR [#41](https://github.com/daeuniverse/dae-bot/pull/41) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+3. ❗ Opened issue [#40](https://github.com/daeuniverse/dae-bot/issues/40) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+4. 🎉 Merged PR [#39](https://github.com/daeuniverse/dae-bot/pull/39) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+5. 💪 Opened PR [#39](https://github.com/daeuniverse/dae-bot/pull/39) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
 
 <!--END_SECTION:activity-->
 
