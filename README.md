@@ -220,11 +220,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#9](https://github.com/daeuniverse/changelogs-generator-action/pull/9) in [daeuniverse/changelogs-generator-action](https://github.com/daeuniverse/changelogs-generator-action)
-2. 🎉 Merged PR [#175](https://github.com/daeuniverse/dae/pull/175) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-3. ❗ Opened issue [#8](https://github.com/daeuniverse/changelogs-generator-action/issues/8) in [daeuniverse/changelogs-generator-action](https://github.com/daeuniverse/changelogs-generator-action)
-4. ❗ Opened issue [#4](https://github.com/daeuniverse/dae-1/issues/4) in [daeuniverse/dae-1](https://github.com/daeuniverse/dae-1)
-5. 🗣 Commented on [#174](https://github.com/daeuniverse/dae/issues/174) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+1. 🔒 Closed issue [#8](https://github.com/daeuniverse/changelogs-generator-action/issues/8) in [daeuniverse/changelogs-generator-action](https://github.com/daeuniverse/changelogs-generator-action)
+2. 🗣 Commented on [#8](https://github.com/daeuniverse/changelogs-generator-action/issues/8) in [daeuniverse/changelogs-generator-action](https://github.com/daeuniverse/changelogs-generator-action)
+3. 🚀 Published release [v0.1.1](https://github.com/v0.1.1) in [daeuniverse/changelogs-generator-action](https://github.com/daeuniverse/changelogs-generator-action)
+4. 🎉 Merged PR [#10](https://github.com/daeuniverse/changelogs-generator-action/pull/10) in [daeuniverse/changelogs-generator-action](https://github.com/daeuniverse/changelogs-generator-action)
+5. 💪 Opened PR [#10](https://github.com/daeuniverse/changelogs-generator-action/pull/10) in [daeuniverse/changelogs-generator-action](https://github.com/daeuniverse/changelogs-generator-action)
 
 <!--END_SECTION:activity-->
 
