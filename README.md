@@ -220,11 +220,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/daeuniverse/ci-seed-jobs/pull/1) in [daeuniverse/ci-seed-jobs](https://github.com/daeuniverse/ci-seed-jobs)
-2. 💪 Opened PR [#1](https://github.com/daeuniverse/ci-seed-jobs/pull/1) in [daeuniverse/ci-seed-jobs](https://github.com/daeuniverse/ci-seed-jobs)
-3. 🗣 Commented on [#132](https://github.com/daeuniverse/daed/issues/132) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
-4. ❗ Opened issue [#34](https://github.com/daeuniverse/dae-docs/issues/34) in [daeuniverse/dae-docs](https://github.com/daeuniverse/dae-docs)
-5. 🔒 Closed issue [#8](https://github.com/daeuniverse/changelogs-generator-action/issues/8) in [daeuniverse/changelogs-generator-action](https://github.com/daeuniverse/changelogs-generator-action)
+1. 🎉 Merged PR [#63](https://github.com/daeuniverse/dae-bot/pull/63) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+2. 💪 Opened PR [#63](https://github.com/daeuniverse/dae-bot/pull/63) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+3. 🎉 Merged PR [#1](https://github.com/daeuniverse/ci-seed-jobs/pull/1) in [daeuniverse/ci-seed-jobs](https://github.com/daeuniverse/ci-seed-jobs)
+4. 💪 Opened PR [#1](https://github.com/daeuniverse/ci-seed-jobs/pull/1) in [daeuniverse/ci-seed-jobs](https://github.com/daeuniverse/ci-seed-jobs)
+5. 🗣 Commented on [#132](https://github.com/daeuniverse/daed/issues/132) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
 
 <!--END_SECTION:activity-->
 
