@@ -220,11 +220,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#166](https://github.com/daeuniverse/dae/issues/166) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-2. 🎉 Merged PR [#63](https://github.com/daeuniverse/dae-bot/pull/63) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
-3. 💪 Opened PR [#63](https://github.com/daeuniverse/dae-bot/pull/63) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
-4. 🎉 Merged PR [#1](https://github.com/daeuniverse/ci-seed-jobs/pull/1) in [daeuniverse/ci-seed-jobs](https://github.com/daeuniverse/ci-seed-jobs)
-5. 💪 Opened PR [#1](https://github.com/daeuniverse/ci-seed-jobs/pull/1) in [daeuniverse/ci-seed-jobs](https://github.com/daeuniverse/ci-seed-jobs)
+1. 💪 Opened PR [#179](https://github.com/daeuniverse/dae/pull/179) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+2. 🗣 Commented on [#176](https://github.com/daeuniverse/dae/issues/176) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+3. 💪 Opened PR [#178](https://github.com/daeuniverse/dae/pull/178) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+4. 🎉 Merged PR [#59](https://github.com/yqlbu/dae/pull/59) in [yqlbu/dae](https://github.com/yqlbu/dae)
+5. 🗣 Commented on [#166](https://github.com/daeuniverse/dae/issues/166) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
 
 <!--END_SECTION:activity-->
 
