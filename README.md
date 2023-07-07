@@ -220,11 +220,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#179](https://github.com/daeuniverse/dae/pull/179) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-2. 🗣 Commented on [#176](https://github.com/daeuniverse/dae/issues/176) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-3. 💪 Opened PR [#178](https://github.com/daeuniverse/dae/pull/178) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-4. 🎉 Merged PR [#59](https://github.com/yqlbu/dae/pull/59) in [yqlbu/dae](https://github.com/yqlbu/dae)
-5. 🗣 Commented on [#166](https://github.com/daeuniverse/dae/issues/166) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+1. ❌ Closed PR [#178](https://github.com/daeuniverse/dae/pull/178) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+2. 💪 Opened PR [#179](https://github.com/daeuniverse/dae/pull/179) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+3. 🗣 Commented on [#176](https://github.com/daeuniverse/dae/issues/176) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+4. 💪 Opened PR [#178](https://github.com/daeuniverse/dae/pull/178) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+5. 🎉 Merged PR [#59](https://github.com/yqlbu/dae/pull/59) in [yqlbu/dae](https://github.com/yqlbu/dae)
 
 <!--END_SECTION:activity-->
 
