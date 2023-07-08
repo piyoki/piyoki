@@ -91,7 +91,7 @@ spec:
 ![Terraform](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
 ![CircleCI](https://img.shields.io/badge/-Circle%20CI-000?&logo=CircleCI)
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-000?&logo=GitHubActions)
-![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 ![Cloudbees](https://img.shields.io/badge/-Cloudbees-000?&logo=Cloudbees)
 ![Tekton](https://img.shields.io/badge/-Tekton-000?&logo=Tekton)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-000?&logo=Argo)
