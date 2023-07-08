@@ -104,7 +104,7 @@ spec:
 ![Jaeger](https://custom-icon-badges.herokuapp.com/badge/-Jaeger-000?&logo=Jaeger)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-000?&logo=ElasticSearch)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-000?&logo=ElasticSearch&logoColor=lightpink)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx&logoColor=009900)
 ![HAProxy](https://custom-icon-badges.herokuapp.com/badge/-HAProxy-000?&logo=haproxy)
 ![Kong](https://img.shields.io/badge/-Kong-000?&logo=Kong&logoColor=lightgreen)
