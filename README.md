@@ -129,6 +129,7 @@ spec:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![ObjectStorage3](https://img.shields.io/badge/-ObjectStorage-000?&logo=AmazonS3)
 ![Minio](https://custom-icon-badges.herokuapp.com/badge/-Minio-000?&logo=minio)
+![Falco](https://custom-icon-badges.herokuapp.com/badge/-Falco-000?&logo=falco)
 
 ##### Languages
 
