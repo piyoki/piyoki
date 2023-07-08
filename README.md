@@ -125,6 +125,7 @@ spec:
 ![Knative](https://img.shields.io/badge/-Knative-000?&logo=Knative&logoColor=blue)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![Probot](https://custom-icon-badges.herokuapp.com/badge/-Probot-000?&logo=Probot)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=darkred)
