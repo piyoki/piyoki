@@ -97,6 +97,7 @@ spec:
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 ![Cloudbees](https://img.shields.io/badge/-Cloudbees-000?&logo=Cloudbees)
 ![Tekton](https://img.shields.io/badge/-Tekton-000?&logo=Tekton)
+![JenkinsX](https://custom-icon-badges.herokuapp.com/badge/-JenkinsX-000?&logo=JenkinsX)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-000?&logo=Argo)
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible&logoColor=red)
 ![Packer](https://img.shields.io/badge/-Packer-000?&logo=Packer)
