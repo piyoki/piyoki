@@ -147,7 +147,7 @@ spec:
 
 ##### AWS
 
-> S3, DynamoDB, RDS, VPC, VPCE, Service Endpoint, Private Link, VPC Peering, API Gateway, EKS, ECS, EC2, Route 53, LambdaFunction, AuroraDB, CloudFront, TransitGateway, CloudWatch, QuickSight, RedShift, SNS, SQS, ElastiCache
+> S3, DynamoDB, RDS, VPC, VPCE, Service Endpoint, Private Link, VPC Peering, API Gateway, EKS, ECS, EC2, Route 53, LambdaFunction, AuroraDB, CloudFront, TransitGateway, CloudWatch, QuickSight, RedShift, SNS, SQS, ElasticCache
 
 ##### Web Development
 
