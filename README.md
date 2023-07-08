@@ -99,6 +99,7 @@ spec:
 ![Tekton](https://img.shields.io/badge/-Tekton-000?&logo=Tekton)
 ![JenkinsX](https://custom-icon-badges.herokuapp.com/badge/-JenkinsX-000?&logo=JenkinsX)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-000?&logo=Argo)
+![FluxCD](https://img.shields.io/badge/-FluxCD-000?&logo=fluxcd)
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible&logoColor=red)
 ![Packer](https://img.shields.io/badge/-Packer-000?&logo=Packer)
 ![OpenTelemetry](https://custom-icon-badges.herokuapp.com/badge/-OpenTelemetry-000?&logo=OpenTelemetry&logoColor=blue)
