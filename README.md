@@ -117,7 +117,7 @@ spec:
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=darkred)
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Cassandra](https://img.shields.io/badge/-Cassandra-000?&logo=Cassandra)
+![Cassandra](https://custom-icon-badges.herokuapp.com/badge/-Cassandra-000?&logo=apache-cassandra)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![AWS DynamoDB](https://img.shields.io/badge/-AmazonDynamoDB-000?&logo=AmazonDynamoDB&logoColor=de8000)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
