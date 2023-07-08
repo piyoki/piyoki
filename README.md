@@ -75,6 +75,7 @@ spec:
 ![ArchLinux](https://img.shields.io/badge/-ArchLinux-000?&logo=ArchLinux)
 ![NixOS](https://img.shields.io/badge/-NixOS-000?&logo=NixOS)
 ![Fedora](https://img.shields.io/badge/-Fedora-000?&logo=Fedora)
+![RockyLinux](https://img.shields.io/badge/-RockyLinux-000?&logo=rockylinux)
 ![RHEL](https://img.shields.io/badge/-RHEL-000?&logo=RedHat&logoColor=red)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 ![CentOS](https://img.shields.io/badge/-CentOS-000?&logo=CentOS&logoColor=green)
