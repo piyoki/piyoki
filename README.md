@@ -230,7 +230,7 @@ spec:
 2. 🗣 Commented on [#176](https://github.com/daeuniverse/dae/issues/176) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
 3. 🗣 Commented on [#176](https://github.com/daeuniverse/dae/issues/176) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
 4. 🗣 Commented on [#176](https://github.com/daeuniverse/dae/issues/176) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-5. ❌ Closed PR [#178](https://github.com/daeuniverse/dae/pull/178) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+5. 🗣 Commented on [#176](https://github.com/daeuniverse/dae/issues/176) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
 
 <!--END_SECTION:activity-->
 
