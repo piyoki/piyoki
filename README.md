@@ -107,7 +107,7 @@ spec:
 ![Traefik](https://img.shields.io/badge/-Traefik-000?&logo=TraefikProxy)
 ![Cilium](https://img.shields.io/badge/-Cilium-000?&logo=Cilium)
 ![Lambda](https://img.shields.io/badge/-Lambda-000?&logo=AWSLambda)
-![CloudFunction](https://img.shields.io/badge/-CloudRun-000?&logo=google-cloud-functions)
+![CloudFunction](https://img.shields.io/badge/-CloudFunctions-000?&logo=google-cloud-functions)
 ![CloudRun](https://img.shields.io/badge/-CloudRun-000?&logo=google-cloud-run)
 ![Knative](https://img.shields.io/badge/-Knative-000?&logo=Knative&logoColor=blue)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
