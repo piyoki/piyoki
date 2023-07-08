@@ -88,7 +88,7 @@ spec:
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Containerd](https://img.shields.io/badge/-Containerd-000?&logo=Containerd)
 ![Buildpacks](https://custom-icon-badges.herokuapp.com/badge/-Buildpacks-000?&logo=buildpacks)
-![Buildah](https://custom-icon-badges.herokuapp.com//badge/-Buildah-000?&logo=buildah)
+![Buildah](https://custom-icon-badges.herokuapp.com/badge/-Buildah-000?&logo=buildah)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform&logoColor=blueviolet)
 ![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
