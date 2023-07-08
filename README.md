@@ -184,7 +184,7 @@ spec:
 
 ##### Tracing, Monitoring, and Logging
 
-> OpeneTelemetry, Prometheus, Kiali, Grafana, Weaveworks, Dynatrace, Loki, ELK Stack (ElasticSearch), Fluentd, Fluentbit
+> OpeneTelemetry, Prometheus, Kiali, Grafana, Weaveworks, Loki, ELK Stack (ElasticSearch), Fluentd, Fluentbit
 
 ##### Cloud Hosting
 
