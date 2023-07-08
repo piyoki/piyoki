@@ -132,7 +132,7 @@ spec:
 ![ObjectStorage3](https://img.shields.io/badge/-ObjectStorage-000?&logo=AmazonS3)
 ![Minio](https://custom-icon-badges.herokuapp.com/badge/-Minio-000?&logo=minio)
 ![Falco](https://custom-icon-badges.herokuapp.com/badge/-Falco-000?&logo=falco)
-![Trivy](https://custom-icon-badges.herokuapp.com/badge/-Trivy-000?&logo=trivy)
+![Trivy](https://custom-icon-badges.herokuapp.com/badge/-Trivy-000?&logo=aqua-trivy)
 
 ##### Languages
 
