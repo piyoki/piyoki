@@ -133,6 +133,7 @@ spec:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![ObjectStorage3](https://img.shields.io/badge/-ObjectStorage-000?&logo=AmazonS3)
 ![Minio](https://custom-icon-badges.herokuapp.com/badge/-Minio-000?&logo=minio)
+![OpenPolicyAgent](https://custom-icon-badges.herokuapp.com/badge/-OpenPolicyAgent-000?&logo=open-policy-agent)
 ![Falco](https://custom-icon-badges.herokuapp.com/badge/-Falco-000?&logo=falco)
 ![Trivy](https://custom-icon-badges.herokuapp.com/badge/-Trivy-000?&logo=aqua-trivy)
 ![Tracee](https://custom-icon-badges.herokuapp.com/badge/-Tracee-000?&logo=aqua-tracee)
