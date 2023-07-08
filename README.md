@@ -112,6 +112,8 @@ spec:
 ![Kong](https://img.shields.io/badge/-Kong-000?&logo=Kong&logoColor=lightgreen)
 ![Traefik](https://img.shields.io/badge/-Traefik-000?&logo=TraefikProxy)
 ![Cilium](https://img.shields.io/badge/-Cilium-000?&logo=Cilium)
+![Linkerd](https://custom-icon-badges.herokuapp.com/badge/-Linkerd-000?&logo=Linkerd)
+![Istio](https://custom-icon-badges.herokuapp.com/badge/-Istio-000?&logo=Istio)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=RabbitMQ)
 ![Apache Kafka](https://img.shields.io/badge/-ApacheKafka-000?&logo=apachekafka)
 ![Lambda](https://img.shields.io/badge/-Lambda-000?&logo=AWSLambda)
