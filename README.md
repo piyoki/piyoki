@@ -81,7 +81,7 @@ spec:
 ![CentOS](https://img.shields.io/badge/-CentOS-000?&logo=CentOS&logoColor=green)
 ![AmazonLinux](https://img.shields.io/badge/-AmazonLinux-000?&logo=AmazonEC2)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![OracleCloud](https://img.shields.io/badge/-OracleCloud-000?&logo=Oracle)
+![OracleCloud](https://img.shields.io/badge/-OracleCloud-000?&logo=Oracle&logoColor=orange)
 ![GCP](https://img.shields.io/badge/-GCP-000?&logo=GoogleCloud)
 ![Proxmox](https://img.shields.io/badge/-Proxmox-000?&logo=Proxmox)
 ![TrueNAS](https://img.shields.io/badge/-TrueNAS-000?&logo=TrueNAS)
