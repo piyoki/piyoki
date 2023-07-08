@@ -133,6 +133,7 @@ spec:
 ![Minio](https://custom-icon-badges.herokuapp.com/badge/-Minio-000?&logo=minio)
 ![Falco](https://custom-icon-badges.herokuapp.com/badge/-Falco-000?&logo=falco)
 ![Trivy](https://custom-icon-badges.herokuapp.com/badge/-Trivy-000?&logo=aqua-trivy)
+![Tracee](https://custom-icon-badges.herokuapp.com/badge/-Tracee-000?&logo=aqua-tracee)
 
 ##### Languages
 
