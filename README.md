@@ -154,15 +154,17 @@ spec:
 
 > Juicefs, iSCSI, NFS, Samba, Volume Storage, Bucket Storage, File Storage, CloudNative CSI (Container Storage Interface)
 
-##### DevOps, CI/CD and GitOps
+##### DevOps, CI/CD, and GitOps
 
 > GitHub Checks (Check Suite and Check Run), ChatOps based on Pull Request
 
-> Git, GitHub Actions, Jenkins, CircleCI, Tekton CI, Argo Workflow, OpenShift, Weaveworks, Jenkins X, Argo Events, Argo Workflow, Argo Image Updater
+> Git, GitHub Actions, Jenkins, CircleCI, Tekton CI, Argo Workflow, OpenShift, Weaveworks, Jenkins X, Argo Events, Argo Workflow, Image Updater
 
-> ArgoCD, FluxCD
+> ArgoCD, FluxCD, Flagger
 
 > Ansible Tower, Ansible AWX
+
+> Progressive Delivery, Blue/Green Deployment, Canary Deployment
 
 ##### Networking and Firewall
 
@@ -174,11 +176,15 @@ spec:
 
 ##### Serverless & Cloud Function (FaaS, or Function as a Service)
 
-> Fn, Oracle Functions, Google Cloud Functions, AWS Lamda, Vercel Serverless Function, AWS Fargate (Serverless way to launch containers), OpenFaaS
+> Fn, Oracle Functions, Google Cloud Functions, AWS Lambda, Vercel Serverless Function, AWS Fargate (Serverless way to launch containers), OpenFaaS
 
-##### Monitoring and Logging
+##### Message Queue
 
-> Promotheus, Kiali, Grafana, Weaveworks, Dynatrace, Loki, ELK Stack (ElasticSearch)
+> RabitMQ, MQTT, Apache Kafka, AWS SQS, Redis Async
+
+##### Tracing, Monitoring, and Logging
+
+> OpeneTelemetry, Prometheus, Kiali, Grafana, Weaveworks, Dynatrace, Loki, ELK Stack (ElasticSearch), Fluentd, Fluentbit
 
 ##### Cloud Hosting
 
@@ -202,7 +208,7 @@ spec:
 
 ##### Edge (IoT) Computing
 
-> Message Quene and Procasting (RabitMQ, MQTT, Apache Kafka), PWM Control, Motor Control, Lidar Control, Relay Control
+> PWM Control, Motor Control, Lidar Control, Relay Control
 
 ## 📕 Latest Blog Posts
 
