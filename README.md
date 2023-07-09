@@ -77,6 +77,7 @@ spec:
 ![Fedora](https://img.shields.io/badge/-Fedora-000?&logo=Fedora)
 ![RockyLinux](https://img.shields.io/badge/-RockyLinux-000?&logo=rockylinux)
 ![RHEL](https://img.shields.io/badge/-RHEL-000?&logo=RedHat&logoColor=red)
+![Debian](https://img.shields.io/badge/-Debian-000?&logo=Debian)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 ![CentOS](https://img.shields.io/badge/-CentOS-000?&logo=CentOS&logoColor=green)
 ![AmazonLinux](https://img.shields.io/badge/-AmazonLinux-000?&logo=AmazonEC2)
