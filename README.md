@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#60](https://github.com/daeuniverse/dae-wing/issues/60) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
-2. ❗ Opened issue [#60](https://github.com/daeuniverse/dae-wing/issues/60) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
-3. ❗ Opened issue [#200](https://github.com/daeuniverse/dae/issues/200) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-4. ❗ Opened issue [#199](https://github.com/daeuniverse/dae/issues/199) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-5. 🔒 Closed issue [#156](https://github.com/daeuniverse/dae/issues/156) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+1. 🗣 Commented on [#145](https://github.com/daeuniverse/daed/issues/145) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+2. 🗣 Commented on [#60](https://github.com/daeuniverse/dae-wing/issues/60) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
+3. ❗ Opened issue [#60](https://github.com/daeuniverse/dae-wing/issues/60) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
+4. ❗ Opened issue [#200](https://github.com/daeuniverse/dae/issues/200) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+5. ❗ Opened issue [#199](https://github.com/daeuniverse/dae/issues/199) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
 
 <!--END_SECTION:activity-->
 
