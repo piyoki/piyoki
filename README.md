@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#18](https://github.com/daeuniverse/changelogs-generator-action/pull/18) in [daeuniverse/changelogs-generator-action](https://github.com/daeuniverse/changelogs-generator-action)
-2. ❗ Opened issue [#2](https://github.com/daeuniverse/ci-seed-jobs/issues/2) in [daeuniverse/ci-seed-jobs](https://github.com/daeuniverse/ci-seed-jobs)
-3. 💪 Opened PR [#146](https://github.com/daeuniverse/daed/pull/146) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
-4. 💪 Opened PR [#201](https://github.com/daeuniverse/dae/pull/201) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-5. 🚀 Published release [v0.1.2](https://github.com/v0.1.2) in [daeuniverse/changelogs-generator-action](https://github.com/daeuniverse/changelogs-generator-action)
+1. 🗣 Commented on [#63](https://github.com/daeuniverse/dae-wing/issues/63) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
+2. 💪 Opened PR [#63](https://github.com/daeuniverse/dae-wing/pull/63) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
+3. 💪 Opened PR [#62](https://github.com/daeuniverse/dae-wing/pull/62) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
+4. 💪 Opened PR [#148](https://github.com/daeuniverse/daed/pull/148) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+5. 💪 Opened PR [#202](https://github.com/daeuniverse/dae/pull/202) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
 
 <!--END_SECTION:activity-->
 
