@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#63](https://github.com/daeuniverse/dae-wing/pull/63) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
-2. 🔒 Closed issue [#60](https://github.com/daeuniverse/dae-wing/issues/60) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
-3. 🗣 Commented on [#63](https://github.com/daeuniverse/dae-wing/issues/63) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
+1. 🎉 Merged PR [#62](https://github.com/daeuniverse/dae-wing/pull/62) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
+2. 🎉 Merged PR [#63](https://github.com/daeuniverse/dae-wing/pull/63) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
+3. 🔒 Closed issue [#60](https://github.com/daeuniverse/dae-wing/issues/60) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
 4. 🗣 Commented on [#63](https://github.com/daeuniverse/dae-wing/issues/63) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
-5. 💪 Opened PR [#63](https://github.com/daeuniverse/dae-wing/pull/63) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
+5. 🗣 Commented on [#63](https://github.com/daeuniverse/dae-wing/issues/63) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
 
 <!--END_SECTION:activity-->
 
