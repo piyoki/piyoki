@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#4](https://github.com/daeuniverse/ci-seed-jobs/pull/4) in [daeuniverse/ci-seed-jobs](https://github.com/daeuniverse/ci-seed-jobs)
-2. 🎉 Merged PR [#364](https://github.com/techprober/cloud-estate/pull/364) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 💪 Opened PR [#364](https://github.com/techprober/cloud-estate/pull/364) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-4. 🎉 Merged PR [#68](https://github.com/daeuniverse/dae-bot/pull/68) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
-5. 💪 Opened PR [#68](https://github.com/daeuniverse/dae-bot/pull/68) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+1. 🎉 Merged PR [#69](https://github.com/daeuniverse/dae-bot/pull/69) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+2. 💪 Opened PR [#69](https://github.com/daeuniverse/dae-bot/pull/69) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+3. 🎉 Merged PR [#67](https://github.com/daeuniverse/dae-wing/pull/67) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
+4. 💪 Opened PR [#4](https://github.com/daeuniverse/ci-seed-jobs/pull/4) in [daeuniverse/ci-seed-jobs](https://github.com/daeuniverse/ci-seed-jobs)
+5. 🎉 Merged PR [#364](https://github.com/techprober/cloud-estate/pull/364) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 
 <!--END_SECTION:activity-->
 
