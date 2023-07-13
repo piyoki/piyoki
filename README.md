@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#41](https://github.com/yqlbu/umami/pull/41) in [yqlbu/umami](https://github.com/yqlbu/umami)
-2. 🎉 Merged PR [#40](https://github.com/yqlbu/umami/pull/40) in [yqlbu/umami](https://github.com/yqlbu/umami)
-3. 🎉 Merged PR [#201](https://github.com/daeuniverse/dae/pull/201) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-4. 🎉 Merged PR [#202](https://github.com/daeuniverse/dae/pull/202) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-5. 🎉 Merged PR [#208](https://github.com/daeuniverse/dae/pull/208) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+1. 💪 Opened PR [#158](https://github.com/daeuniverse/daed/pull/158) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+2. 🎉 Merged PR [#66](https://github.com/yqlbu/dae/pull/66) in [yqlbu/dae](https://github.com/yqlbu/dae)
+3. 💪 Opened PR [#209](https://github.com/daeuniverse/dae/pull/209) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+4. 🎉 Merged PR [#41](https://github.com/yqlbu/umami/pull/41) in [yqlbu/umami](https://github.com/yqlbu/umami)
+5. 🎉 Merged PR [#40](https://github.com/yqlbu/umami/pull/40) in [yqlbu/umami](https://github.com/yqlbu/umami)
 
 <!--END_SECTION:activity-->
 
