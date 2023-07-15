@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#17](https://github.com/daeuniverse/daed-1/pull/17) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
-2. 💪 Opened PR [#17](https://github.com/daeuniverse/daed-1/pull/17) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
-3. 🗣 Commented on [#161](https://github.com/daeuniverse/daed/issues/161#issuecomment-1636701391) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
-4. 💪 Opened PR [#71](https://github.com/daeuniverse/dae-bot/pull/71) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
-5. 🗣 Commented on [#218](https://github.com/daeuniverse/dae/pull/218#issuecomment-1636689317) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+1. ❌ Closed PR [#168](https://github.com/daeuniverse/daed/pull/168) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+2. 🗣 Commented on [#168](https://github.com/daeuniverse/daed/pull/168#issuecomment-1636722679) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+3. 🗣 Commented on [#218](https://github.com/daeuniverse/dae/pull/218#issuecomment-1636718049) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+4. 🗣 Commented on [#145](https://github.com/daeuniverse/daed/pull/145#issuecomment-1636716251) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+5. 💪 Opened PR [#168](https://github.com/daeuniverse/daed/pull/168) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
 
 <!--END_SECTION:activity-->
 
