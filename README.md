@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#227](https://github.com/daeuniverse/dae/issues/227) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-2. 💪 Opened PR [#175](https://github.com/daeuniverse/daed/pull/175) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
-3. 💪 Opened PR [#226](https://github.com/daeuniverse/dae/pull/226) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-4. 🔒 Closed issue [#3](https://github.com/daeuniverse/daed-1/issues/3) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
-5. 🎉 Merged PR [#14](https://github.com/techprober/mosdns-lxc-deploy/pull/14) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
+1. 🎉 Merged PR [#228](https://github.com/daeuniverse/dae/pull/228) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+2. 🔒 Closed issue [#227](https://github.com/daeuniverse/dae/issues/227) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+3. 🗣 Commented on [#227](https://github.com/daeuniverse/dae/issues/227#issuecomment-1638328953) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+4. 🗣 Commented on [#227](https://github.com/daeuniverse/dae/issues/227#issuecomment-1638322949) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+5. ❗ Opened issue [#227](https://github.com/daeuniverse/dae/issues/227) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
 
 <!--END_SECTION:activity-->
 
