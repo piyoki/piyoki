@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#14](https://github.com/techprober/mosdns-lxc-deploy/pull/14) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
-2. 🎉 Merged PR [#366](https://github.com/techprober/cloud-estate/pull/366) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 💪 Opened PR [#366](https://github.com/techprober/cloud-estate/pull/366) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-4. 🎉 Merged PR [#72](https://github.com/daeuniverse/dae-bot/pull/72) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
-5. ❗ Opened issue [#73](https://github.com/daeuniverse/dae-bot/issues/73) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+1. 🔒 Closed issue [#3](https://github.com/daeuniverse/daed-1/issues/3) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
+2. 🎉 Merged PR [#14](https://github.com/techprober/mosdns-lxc-deploy/pull/14) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
+3. 🎉 Merged PR [#366](https://github.com/techprober/cloud-estate/pull/366) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+4. 💪 Opened PR [#366](https://github.com/techprober/cloud-estate/pull/366) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+5. 🎉 Merged PR [#72](https://github.com/daeuniverse/dae-bot/pull/72) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
 
 <!--END_SECTION:activity-->
 
