@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#40](https://github.com/daeuniverse/dae-bot/issues/40) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
-2. 🗣 Commented on [#40](https://github.com/daeuniverse/dae-bot/issues/40#issuecomment-1643829813) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
-3. ❗ Opened issue [#76](https://github.com/daeuniverse/dae-bot/issues/76) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
-4. 🎉 Merged PR [#367](https://github.com/techprober/cloud-estate/pull/367) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-5. 💪 Opened PR [#367](https://github.com/techprober/cloud-estate/pull/367) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. 💪 Opened PR [#180](https://github.com/daeuniverse/daed/pull/180) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+2. 🔒 Closed issue [#40](https://github.com/daeuniverse/dae-bot/issues/40) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+3. 🗣 Commented on [#40](https://github.com/daeuniverse/dae-bot/issues/40#issuecomment-1643829813) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+4. ❗ Opened issue [#76](https://github.com/daeuniverse/dae-bot/issues/76) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+5. 🎉 Merged PR [#367](https://github.com/techprober/cloud-estate/pull/367) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 
 <!--END_SECTION:activity-->
 
