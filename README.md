@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#182](https://github.com/daeuniverse/daed/pull/182) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
-2. 💪 Opened PR [#234](https://github.com/daeuniverse/dae/pull/234) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-3. 🗣 Commented on [#180](https://github.com/daeuniverse/daed/pull/180#issuecomment-1646706261) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
-4. 🎉 Merged PR [#9](https://github.com/daeuniverse/dae-installer/pull/9) in [daeuniverse/dae-installer](https://github.com/daeuniverse/dae-installer)
-5. 💪 Opened PR [#9](https://github.com/daeuniverse/dae-installer/pull/9) in [daeuniverse/dae-installer](https://github.com/daeuniverse/dae-installer)
+1. 💪 Opened PR [#183](https://github.com/daeuniverse/daed/pull/183) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+2. 💪 Opened PR [#182](https://github.com/daeuniverse/daed/pull/182) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+3. 💪 Opened PR [#234](https://github.com/daeuniverse/dae/pull/234) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+4. 🗣 Commented on [#180](https://github.com/daeuniverse/daed/pull/180#issuecomment-1646706261) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+5. 🎉 Merged PR [#9](https://github.com/daeuniverse/dae-installer/pull/9) in [daeuniverse/dae-installer](https://github.com/daeuniverse/dae-installer)
 
 <!--END_SECTION:activity-->
 
