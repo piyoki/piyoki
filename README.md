@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/daeuniverse/flake.nix/pull/3) in [daeuniverse/flake.nix](https://github.com/daeuniverse/flake.nix)
-2. 🎉 Merged PR [#2](https://github.com/daeuniverse/flake.nix/pull/2) in [daeuniverse/flake.nix](https://github.com/daeuniverse/flake.nix)
-3. 🎉 Merged PR [#84](https://github.com/daeuniverse/dae-bot/pull/84) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
-4. 💪 Opened PR [#84](https://github.com/daeuniverse/dae-bot/pull/84) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
-5. 🎉 Merged PR [#83](https://github.com/daeuniverse/dae-bot/pull/83) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+1. 💪 Opened PR [#190](https://github.com/daeuniverse/daed/pull/190) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+2. 🎉 Merged PR [#189](https://github.com/daeuniverse/daed/pull/189) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+3. 🎉 Merged PR [#83](https://github.com/daeuniverse/dae-wing/pull/83) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
+4. 🎉 Merged PR [#247](https://github.com/daeuniverse/dae/pull/247) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+5. 🗣 Commented on [#247](https://github.com/daeuniverse/dae/pull/247#issuecomment-1655577213) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
 
 <!--END_SECTION:activity-->
 
