@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/juicity/juicity/pull/2) in [juicity/juicity](https://github.com/juicity/juicity)
-2. 💪 Opened PR [#1](https://github.com/juicity/juicity/pull/1) in [juicity/juicity](https://github.com/juicity/juicity)
-3. 🎉 Merged PR [#190](https://github.com/daeuniverse/daed/pull/190) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
-4. 💪 Opened PR [#190](https://github.com/daeuniverse/daed/pull/190) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
-5. 🎉 Merged PR [#189](https://github.com/daeuniverse/daed/pull/189) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+1. 🎉 Merged PR [#6](https://github.com/juicity/juicity/pull/6) in [juicity/juicity](https://github.com/juicity/juicity)
+2. 💪 Opened PR [#6](https://github.com/juicity/juicity/pull/6) in [juicity/juicity](https://github.com/juicity/juicity)
+3. 🎉 Merged PR [#5](https://github.com/juicity/juicity/pull/5) in [juicity/juicity](https://github.com/juicity/juicity)
+4. 💪 Opened PR [#5](https://github.com/juicity/juicity/pull/5) in [juicity/juicity](https://github.com/juicity/juicity)
+5. 🎉 Merged PR [#4](https://github.com/juicity/juicity/pull/4) in [juicity/juicity](https://github.com/juicity/juicity)
 
 <!--END_SECTION:activity-->
 
