@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#43](https://github.com/juicity/juicity/pull/43) in [juicity/juicity](https://github.com/juicity/juicity)
-2. 🗣 Commented on [#39](https://github.com/juicity/juicity/pull/39#issuecomment-1658424363) in [juicity/juicity](https://github.com/juicity/juicity)
-3. 🎉 Merged PR [#31](https://github.com/juicity/juicity/pull/31) in [juicity/juicity](https://github.com/juicity/juicity)
-4. ❌ Reopened PR [#40](https://github.com/juicity/juicity/pull/40) in [juicity/juicity](https://github.com/juicity/juicity)
-5. ❌ Closed PR [#40](https://github.com/juicity/juicity/pull/40) in [juicity/juicity](https://github.com/juicity/juicity)
+1. 🗣 Commented on [#39](https://github.com/juicity/juicity/pull/39#issuecomment-1658528582) in [juicity/juicity](https://github.com/juicity/juicity)
+2. 🗣 Commented on [#39](https://github.com/juicity/juicity/pull/39#issuecomment-1658528383) in [juicity/juicity](https://github.com/juicity/juicity)
+3. 🎉 Merged PR [#43](https://github.com/juicity/juicity/pull/43) in [juicity/juicity](https://github.com/juicity/juicity)
+4. 💪 Opened PR [#43](https://github.com/juicity/juicity/pull/43) in [juicity/juicity](https://github.com/juicity/juicity)
+5. 🗣 Commented on [#39](https://github.com/juicity/juicity/pull/39#issuecomment-1658424363) in [juicity/juicity](https://github.com/juicity/juicity)
 
 <!--END_SECTION:activity-->
 
