@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#48](https://github.com/juicity/juicity/pull/48) in [juicity/juicity](https://github.com/juicity/juicity)
-2. 🔒 Closed issue [#47](https://github.com/juicity/juicity/issues/47) in [juicity/juicity](https://github.com/juicity/juicity)
-3. 🗣 Commented on [#47](https://github.com/juicity/juicity/issues/47#issuecomment-1658700859) in [juicity/juicity](https://github.com/juicity/juicity)
-4. 🗣 Commented on [#47](https://github.com/juicity/juicity/issues/47#issuecomment-1658700246) in [juicity/juicity](https://github.com/juicity/juicity)
-5. 🎉 Merged PR [#39](https://github.com/juicity/juicity/pull/39) in [juicity/juicity](https://github.com/juicity/juicity)
+1. 🎉 Merged PR [#368](https://github.com/techprober/cloud-estate/pull/368) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+2. 💪 Opened PR [#368](https://github.com/techprober/cloud-estate/pull/368) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 🎉 Merged PR [#48](https://github.com/juicity/juicity/pull/48) in [juicity/juicity](https://github.com/juicity/juicity)
+4. 🔒 Closed issue [#47](https://github.com/juicity/juicity/issues/47) in [juicity/juicity](https://github.com/juicity/juicity)
+5. 🗣 Commented on [#47](https://github.com/juicity/juicity/issues/47#issuecomment-1658700859) in [juicity/juicity](https://github.com/juicity/juicity)
 
 <!--END_SECTION:activity-->
 
