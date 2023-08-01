@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4](https://github.com/daeuniverse/flake.nix/pull/4#issuecomment-1660498647) in [daeuniverse/flake.nix](https://github.com/daeuniverse/flake.nix)
-2. 🎉 Merged PR [#51](https://github.com/juicity/juicity/pull/51) in [juicity/juicity](https://github.com/juicity/juicity)
-3. 💪 Opened PR [#52](https://github.com/juicity/juicity/pull/52) in [juicity/juicity](https://github.com/juicity/juicity)
-4. 💪 Opened PR [#51](https://github.com/juicity/juicity/pull/51) in [juicity/juicity](https://github.com/juicity/juicity)
-5. 🗣 Commented on [#21](https://github.com/daeuniverse/changelogs-generator-action/pull/21#issuecomment-1659959377) in [daeuniverse/changelogs-generator-action](https://github.com/daeuniverse/changelogs-generator-action)
+1. 💪 Opened PR [#53](https://github.com/juicity/juicity/pull/53) in [juicity/juicity](https://github.com/juicity/juicity)
+2. 🗣 Commented on [#4](https://github.com/daeuniverse/flake.nix/pull/4#issuecomment-1660498647) in [daeuniverse/flake.nix](https://github.com/daeuniverse/flake.nix)
+3. 🎉 Merged PR [#51](https://github.com/juicity/juicity/pull/51) in [juicity/juicity](https://github.com/juicity/juicity)
+4. 💪 Opened PR [#52](https://github.com/juicity/juicity/pull/52) in [juicity/juicity](https://github.com/juicity/juicity)
+5. 💪 Opened PR [#51](https://github.com/juicity/juicity/pull/51) in [juicity/juicity](https://github.com/juicity/juicity)
 
 <!--END_SECTION:activity-->
 
