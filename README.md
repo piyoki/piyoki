@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#28](https://github.com/juicity/juicity/issues/28) in [juicity/juicity](https://github.com/juicity/juicity)
-2. 🎉 Merged PR [#53](https://github.com/juicity/juicity/pull/53) in [juicity/juicity](https://github.com/juicity/juicity)
-3. 🗣 Commented on [#213](https://github.com/daeuniverse/dae/pull/213#issuecomment-1661301566) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-4. 🗣 Commented on [#53](https://github.com/juicity/juicity/pull/53#issuecomment-1661298675) in [juicity/juicity](https://github.com/juicity/juicity)
-5. 💪 Opened PR [#53](https://github.com/juicity/juicity/pull/53) in [juicity/juicity](https://github.com/juicity/juicity)
+1. 💪 Opened PR [#56](https://github.com/juicity/juicity/pull/56) in [juicity/juicity](https://github.com/juicity/juicity)
+2. 🔒 Closed issue [#28](https://github.com/juicity/juicity/issues/28) in [juicity/juicity](https://github.com/juicity/juicity)
+3. 🎉 Merged PR [#53](https://github.com/juicity/juicity/pull/53) in [juicity/juicity](https://github.com/juicity/juicity)
+4. 🗣 Commented on [#213](https://github.com/daeuniverse/dae/pull/213#issuecomment-1661301566) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+5. 🗣 Commented on [#53](https://github.com/juicity/juicity/pull/53#issuecomment-1661298675) in [juicity/juicity](https://github.com/juicity/juicity)
 
 <!--END_SECTION:activity-->
 
