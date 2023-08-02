@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#68](https://github.com/yqlbu/dae/pull/68) in [yqlbu/dae](https://github.com/yqlbu/dae)
-2. 🎉 Merged PR [#22](https://github.com/daeuniverse/changelogs-generator-action/pull/22) in [daeuniverse/changelogs-generator-action](https://github.com/daeuniverse/changelogs-generator-action)
-3. 💪 Opened PR [#22](https://github.com/daeuniverse/changelogs-generator-action/pull/22) in [daeuniverse/changelogs-generator-action](https://github.com/daeuniverse/changelogs-generator-action)
-4. 🗣 Commented on [#56](https://github.com/juicity/juicity/pull/56#issuecomment-1661544942) in [juicity/juicity](https://github.com/juicity/juicity)
-5. 💪 Opened PR [#56](https://github.com/juicity/juicity/pull/56) in [juicity/juicity](https://github.com/juicity/juicity)
+1. 🎉 Merged PR [#87](https://github.com/daeuniverse/dae-wing/pull/87) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
+2. 🎉 Merged PR [#253](https://github.com/daeuniverse/dae/pull/253) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+3. 💪 Opened PR [#253](https://github.com/daeuniverse/dae/pull/253) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+4. 🎉 Merged PR [#68](https://github.com/yqlbu/dae/pull/68) in [yqlbu/dae](https://github.com/yqlbu/dae)
+5. 🎉 Merged PR [#22](https://github.com/daeuniverse/changelogs-generator-action/pull/22) in [daeuniverse/changelogs-generator-action](https://github.com/daeuniverse/changelogs-generator-action)
 
 <!--END_SECTION:activity-->
 
