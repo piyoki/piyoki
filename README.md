@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#87](https://github.com/daeuniverse/dae-wing/pull/87) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
-2. 🎉 Merged PR [#253](https://github.com/daeuniverse/dae/pull/253) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-3. 💪 Opened PR [#253](https://github.com/daeuniverse/dae/pull/253) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-4. 🎉 Merged PR [#68](https://github.com/yqlbu/dae/pull/68) in [yqlbu/dae](https://github.com/yqlbu/dae)
-5. 🎉 Merged PR [#22](https://github.com/daeuniverse/changelogs-generator-action/pull/22) in [daeuniverse/changelogs-generator-action](https://github.com/daeuniverse/changelogs-generator-action)
+1. 🎉 Merged PR [#52](https://github.com/juicity/juicity/pull/52) in [juicity/juicity](https://github.com/juicity/juicity)
+2. 🎉 Merged PR [#87](https://github.com/daeuniverse/dae-wing/pull/87) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
+3. 🎉 Merged PR [#253](https://github.com/daeuniverse/dae/pull/253) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+4. 💪 Opened PR [#253](https://github.com/daeuniverse/dae/pull/253) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+5. 🎉 Merged PR [#68](https://github.com/yqlbu/dae/pull/68) in [yqlbu/dae](https://github.com/yqlbu/dae)
 
 <!--END_SECTION:activity-->
 
