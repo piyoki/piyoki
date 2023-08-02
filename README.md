@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#56](https://github.com/juicity/juicity/pull/56#issuecomment-1661544942) in [juicity/juicity](https://github.com/juicity/juicity)
-2. 💪 Opened PR [#56](https://github.com/juicity/juicity/pull/56) in [juicity/juicity](https://github.com/juicity/juicity)
-3. 🔒 Closed issue [#28](https://github.com/juicity/juicity/issues/28) in [juicity/juicity](https://github.com/juicity/juicity)
-4. 🎉 Merged PR [#53](https://github.com/juicity/juicity/pull/53) in [juicity/juicity](https://github.com/juicity/juicity)
-5. 🗣 Commented on [#213](https://github.com/daeuniverse/dae/pull/213#issuecomment-1661301566) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+1. 🎉 Merged PR [#68](https://github.com/yqlbu/dae/pull/68) in [yqlbu/dae](https://github.com/yqlbu/dae)
+2. 🎉 Merged PR [#22](https://github.com/daeuniverse/changelogs-generator-action/pull/22) in [daeuniverse/changelogs-generator-action](https://github.com/daeuniverse/changelogs-generator-action)
+3. 💪 Opened PR [#22](https://github.com/daeuniverse/changelogs-generator-action/pull/22) in [daeuniverse/changelogs-generator-action](https://github.com/daeuniverse/changelogs-generator-action)
+4. 🗣 Commented on [#56](https://github.com/juicity/juicity/pull/56#issuecomment-1661544942) in [juicity/juicity](https://github.com/juicity/juicity)
+5. 💪 Opened PR [#56](https://github.com/juicity/juicity/pull/56) in [juicity/juicity](https://github.com/juicity/juicity)
 
 <!--END_SECTION:activity-->
 
