@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#59](https://github.com/juicity/juicity/issues/59) in [juicity/juicity](https://github.com/juicity/juicity)
-2. 💪 Opened PR [#57](https://github.com/juicity/juicity/pull/57) in [juicity/juicity](https://github.com/juicity/juicity)
-3. 🎉 Merged PR [#52](https://github.com/juicity/juicity/pull/52) in [juicity/juicity](https://github.com/juicity/juicity)
-4. 🎉 Merged PR [#87](https://github.com/daeuniverse/dae-wing/pull/87) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
-5. 🎉 Merged PR [#253](https://github.com/daeuniverse/dae/pull/253) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+1. 🎉 Merged PR [#1](https://github.com/yqlbu/fan-control/pull/1) in [yqlbu/fan-control](https://github.com/yqlbu/fan-control)
+2. 🗣 Commented on [#1](https://github.com/yqlbu/fan-control/pull/1#issuecomment-1663934813) in [yqlbu/fan-control](https://github.com/yqlbu/fan-control)
+3. ❗ Opened issue [#59](https://github.com/juicity/juicity/issues/59) in [juicity/juicity](https://github.com/juicity/juicity)
+4. 💪 Opened PR [#57](https://github.com/juicity/juicity/pull/57) in [juicity/juicity](https://github.com/juicity/juicity)
+5. 🎉 Merged PR [#52](https://github.com/juicity/juicity/pull/52) in [juicity/juicity](https://github.com/juicity/juicity)
 
 <!--END_SECTION:activity-->
 
