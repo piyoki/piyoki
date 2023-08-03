@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/yqlbu/fan-control/pull/1) in [yqlbu/fan-control](https://github.com/yqlbu/fan-control)
-2. 🗣 Commented on [#1](https://github.com/yqlbu/fan-control/pull/1#issuecomment-1663934813) in [yqlbu/fan-control](https://github.com/yqlbu/fan-control)
-3. ❗ Opened issue [#59](https://github.com/juicity/juicity/issues/59) in [juicity/juicity](https://github.com/juicity/juicity)
-4. 💪 Opened PR [#57](https://github.com/juicity/juicity/pull/57) in [juicity/juicity](https://github.com/juicity/juicity)
-5. 🎉 Merged PR [#52](https://github.com/juicity/juicity/pull/52) in [juicity/juicity](https://github.com/juicity/juicity)
+1. 🎉 Merged PR [#255](https://github.com/daeuniverse/dae/pull/255) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+2. ❌ Reopened PR [#255](https://github.com/daeuniverse/dae/pull/255) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+3. ❌ Closed PR [#255](https://github.com/daeuniverse/dae/pull/255) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+4. 🗣 Commented on [#254](https://github.com/daeuniverse/dae/issues/254#issuecomment-1664100445) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+5. 🔒 Closed issue [#254](https://github.com/daeuniverse/dae/issues/254) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
 
 <!--END_SECTION:activity-->
 
