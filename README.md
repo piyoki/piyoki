@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#64](https://github.com/juicity/juicity/pull/64#issuecomment-1665863482) in [juicity/juicity](https://github.com/juicity/juicity)
-2. 🎉 Merged PR [#206](https://github.com/daeuniverse/daed/pull/206) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
-3. 💪 Opened PR [#206](https://github.com/daeuniverse/daed/pull/206) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
-4. 🎉 Merged PR [#88](https://github.com/daeuniverse/dae-bot/pull/88) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
-5. 💪 Opened PR [#88](https://github.com/daeuniverse/dae-bot/pull/88) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+1. 🎉 Merged PR [#89](https://github.com/daeuniverse/dae-bot/pull/89) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+2. 💪 Opened PR [#89](https://github.com/daeuniverse/dae-bot/pull/89) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+3. 🗣 Commented on [#64](https://github.com/juicity/juicity/pull/64#issuecomment-1665863482) in [juicity/juicity](https://github.com/juicity/juicity)
+4. 🎉 Merged PR [#206](https://github.com/daeuniverse/daed/pull/206) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+5. 💪 Opened PR [#206](https://github.com/daeuniverse/daed/pull/206) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
 
 <!--END_SECTION:activity-->
 
