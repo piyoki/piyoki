@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#92](https://github.com/daeuniverse/dae-bot/issues/92) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
-2. 🗣 Commented on [#92](https://github.com/daeuniverse/dae-bot/issues/92#issuecomment-1666846559) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
-3. ❌ Closed PR [#817](https://github.com/immortalwrt/packages/pull/817) in [immortalwrt/packages](https://github.com/immortalwrt/packages)
-4. 🗣 Commented on [#817](https://github.com/immortalwrt/packages/pull/817#issuecomment-1666845413) in [immortalwrt/packages](https://github.com/immortalwrt/packages)
-5. ❌ Closed PR [#816](https://github.com/immortalwrt/packages/pull/816) in [immortalwrt/packages](https://github.com/immortalwrt/packages)
+1. 🎉 Merged PR [#50](https://github.com/yqlbu/hikariai-web/pull/50) in [yqlbu/hikariai-web](https://github.com/yqlbu/hikariai-web)
+2. 💪 Opened PR [#50](https://github.com/yqlbu/hikariai-web/pull/50) in [yqlbu/hikariai-web](https://github.com/yqlbu/hikariai-web)
+3. 🔒 Closed issue [#92](https://github.com/daeuniverse/dae-bot/issues/92) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+4. 🗣 Commented on [#92](https://github.com/daeuniverse/dae-bot/issues/92#issuecomment-1666846559) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+5. ❌ Closed PR [#817](https://github.com/immortalwrt/packages/pull/817) in [immortalwrt/packages](https://github.com/immortalwrt/packages)
 
 <!--END_SECTION:activity-->
 
