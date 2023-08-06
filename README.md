@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#94](https://github.com/daeuniverse/dae-wing/issues/94#issuecomment-1666804712) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
-2. 🎉 Merged PR [#215](https://github.com/daeuniverse/daed/pull/215) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
-3. 🔒 Closed issue [#214](https://github.com/daeuniverse/daed/issues/214) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
-4. 🗣 Commented on [#214](https://github.com/daeuniverse/daed/issues/214#issuecomment-1666532986) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
-5. 🗣 Commented on [#214](https://github.com/daeuniverse/daed/issues/214#issuecomment-1666532792) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+1. 💪 Opened PR [#817](https://github.com/immortalwrt/packages/pull/817) in [immortalwrt/packages](https://github.com/immortalwrt/packages)
+2. 💪 Opened PR [#816](https://github.com/immortalwrt/packages/pull/816) in [immortalwrt/packages](https://github.com/immortalwrt/packages)
+3. 🗣 Commented on [#94](https://github.com/daeuniverse/dae-wing/issues/94#issuecomment-1666804712) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
+4. 🎉 Merged PR [#215](https://github.com/daeuniverse/daed/pull/215) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+5. 🔒 Closed issue [#214](https://github.com/daeuniverse/daed/issues/214) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
 
 <!--END_SECTION:activity-->
 
