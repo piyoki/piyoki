@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#74](https://github.com/juicity/juicity/pull/74#issuecomment-1667024535) in [juicity/juicity](https://github.com/juicity/juicity)
-2. 🎉 Merged PR [#73](https://github.com/juicity/juicity/pull/73) in [juicity/juicity](https://github.com/juicity/juicity)
-3. 🎉 Merged PR [#50](https://github.com/yqlbu/hikariai-web/pull/50) in [yqlbu/hikariai-web](https://github.com/yqlbu/hikariai-web)
-4. 💪 Opened PR [#50](https://github.com/yqlbu/hikariai-web/pull/50) in [yqlbu/hikariai-web](https://github.com/yqlbu/hikariai-web)
-5. 🔒 Closed issue [#92](https://github.com/daeuniverse/dae-bot/issues/92) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+1. 💪 Opened PR [#75](https://github.com/juicity/juicity/pull/75) in [juicity/juicity](https://github.com/juicity/juicity)
+2. 🗣 Commented on [#74](https://github.com/juicity/juicity/pull/74#issuecomment-1667024535) in [juicity/juicity](https://github.com/juicity/juicity)
+3. 🎉 Merged PR [#73](https://github.com/juicity/juicity/pull/73) in [juicity/juicity](https://github.com/juicity/juicity)
+4. 🎉 Merged PR [#50](https://github.com/yqlbu/hikariai-web/pull/50) in [yqlbu/hikariai-web](https://github.com/yqlbu/hikariai-web)
+5. 💪 Opened PR [#50](https://github.com/yqlbu/hikariai-web/pull/50) in [yqlbu/hikariai-web](https://github.com/yqlbu/hikariai-web)
 
 <!--END_SECTION:activity-->
 
