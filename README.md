@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#75](https://github.com/juicity/juicity/pull/75) in [juicity/juicity](https://github.com/juicity/juicity)
-2. 🗣 Commented on [#74](https://github.com/juicity/juicity/pull/74#issuecomment-1667643357) in [juicity/juicity](https://github.com/juicity/juicity)
-3. 🗣 Commented on [#74](https://github.com/juicity/juicity/pull/74#issuecomment-1667555914) in [juicity/juicity](https://github.com/juicity/juicity)
-4. 💪 Opened PR [#75](https://github.com/juicity/juicity/pull/75) in [juicity/juicity](https://github.com/juicity/juicity)
-5. 🗣 Commented on [#74](https://github.com/juicity/juicity/pull/74#issuecomment-1667024535) in [juicity/juicity](https://github.com/juicity/juicity)
+1. 🎉 Merged PR [#11](https://github.com/rocats/repeater-v2/pull/11) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
+2. 💪 Opened PR [#11](https://github.com/rocats/repeater-v2/pull/11) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
+3. 🎉 Merged PR [#10](https://github.com/rocats/repeater-v2/pull/10) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
+4. 💪 Opened PR [#10](https://github.com/rocats/repeater-v2/pull/10) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
+5. 🎉 Merged PR [#75](https://github.com/juicity/juicity/pull/75) in [juicity/juicity](https://github.com/juicity/juicity)
 
 <!--END_SECTION:activity-->
 
