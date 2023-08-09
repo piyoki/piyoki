@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#12](https://github.com/rocats/repeater-v2/pull/12) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
-2. 💪 Opened PR [#12](https://github.com/rocats/repeater-v2/pull/12) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
-3. 🎉 Merged PR [#11](https://github.com/rocats/repeater-v2/pull/11) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
-4. 💪 Opened PR [#11](https://github.com/rocats/repeater-v2/pull/11) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
-5. 🎉 Merged PR [#10](https://github.com/rocats/repeater-v2/pull/10) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
+1. 💪 Opened PR [#267](https://github.com/daeuniverse/dae/pull/267) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+2. 🎉 Merged PR [#12](https://github.com/rocats/repeater-v2/pull/12) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
+3. 💪 Opened PR [#12](https://github.com/rocats/repeater-v2/pull/12) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
+4. 🎉 Merged PR [#11](https://github.com/rocats/repeater-v2/pull/11) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
+5. 💪 Opened PR [#11](https://github.com/rocats/repeater-v2/pull/11) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
 
 <!--END_SECTION:activity-->
 
