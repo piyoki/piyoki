@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#97](https://github.com/daeuniverse/dae-wing/pull/97) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
-2. 🔒 Closed issue [#200](https://github.com/daeuniverse/dae/issues/200) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-3. 🎉 Merged PR [#267](https://github.com/daeuniverse/dae/pull/267) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-4. 🎉 Merged PR [#77](https://github.com/juicity/juicity/pull/77) in [juicity/juicity](https://github.com/juicity/juicity)
-5. ❗ Opened issue [#745](https://github.com/mack-a/v2ray-agent/issues/745) in [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent)
+1. 🎉 Merged PR [#93](https://github.com/daeuniverse/dae-bot/pull/93) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+2. 💪 Opened PR [#93](https://github.com/daeuniverse/dae-bot/pull/93) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+3. 🎉 Merged PR [#98](https://github.com/daeuniverse/dae-wing/pull/98) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
+4. 💪 Opened PR [#98](https://github.com/daeuniverse/dae-wing/pull/98) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
+5. 💪 Opened PR [#223](https://github.com/daeuniverse/daed/pull/223) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
 
 <!--END_SECTION:activity-->
 
