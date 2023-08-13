@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#83](https://github.com/juicity/juicity/pull/83#issuecomment-1675911864) in [juicity/juicity](https://github.com/juicity/juicity)
-2. 🎉 Merged PR [#53](https://github.com/yqlbu/hikariai-web/pull/53) in [yqlbu/hikariai-web](https://github.com/yqlbu/hikariai-web)
-3. 💪 Opened PR [#53](https://github.com/yqlbu/hikariai-web/pull/53) in [yqlbu/hikariai-web](https://github.com/yqlbu/hikariai-web)
-4. 🎉 Merged PR [#52](https://github.com/yqlbu/hikariai-web/pull/52) in [yqlbu/hikariai-web](https://github.com/yqlbu/hikariai-web)
-5. 💪 Opened PR [#52](https://github.com/yqlbu/hikariai-web/pull/52) in [yqlbu/hikariai-web](https://github.com/yqlbu/hikariai-web)
+1. 🎉 Merged PR [#369](https://github.com/techprober/cloud-estate/pull/369) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+2. 💪 Opened PR [#369](https://github.com/techprober/cloud-estate/pull/369) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 🗣 Commented on [#83](https://github.com/juicity/juicity/pull/83#issuecomment-1675911864) in [juicity/juicity](https://github.com/juicity/juicity)
+4. 🎉 Merged PR [#53](https://github.com/yqlbu/hikariai-web/pull/53) in [yqlbu/hikariai-web](https://github.com/yqlbu/hikariai-web)
+5. 💪 Opened PR [#53](https://github.com/yqlbu/hikariai-web/pull/53) in [yqlbu/hikariai-web](https://github.com/yqlbu/hikariai-web)
 
 <!--END_SECTION:activity-->
 
