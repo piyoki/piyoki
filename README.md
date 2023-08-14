@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#66](https://github.com/juicity/juicity/issues/66#issuecomment-1676716642) in [juicity/juicity](https://github.com/juicity/juicity)
-2. 🎉 Merged PR [#238](https://github.com/daeuniverse/daed/pull/238) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
-3. 🎉 Merged PR [#20](https://github.com/yqlbu/daed/pull/20) in [yqlbu/daed](https://github.com/yqlbu/daed)
-4. 🗣 Commented on [#237](https://github.com/daeuniverse/daed/issues/237#issuecomment-1676383655) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
-5. 🔒 Closed issue [#237](https://github.com/daeuniverse/daed/issues/237) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+1. 🗣 Commented on [#109](https://github.com/daeuniverse/dae-wing/pull/109#issuecomment-1677153640) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
+2. 💪 Opened PR [#111](https://github.com/daeuniverse/dae-wing/pull/111) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
+3. 🎉 Merged PR [#110](https://github.com/daeuniverse/dae-wing/pull/110) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
+4. 🗣 Commented on [#282](https://github.com/daeuniverse/dae/pull/282#issuecomment-1677134277) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+5. 🎉 Merged PR [#282](https://github.com/daeuniverse/dae/pull/282) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
 
 <!--END_SECTION:activity-->
 
