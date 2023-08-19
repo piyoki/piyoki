@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4](https://github.com/daeuniverse/flake.nix/pull/4#issuecomment-1684135553) in [daeuniverse/flake.nix](https://github.com/daeuniverse/flake.nix)
-2. 🗣 Commented on [#4](https://github.com/daeuniverse/flake.nix/pull/4#issuecomment-1683938412) in [daeuniverse/flake.nix](https://github.com/daeuniverse/flake.nix)
-3. 🎉 Merged PR [#376](https://github.com/techprober/cloud-estate/pull/376) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-4. 💪 Opened PR [#376](https://github.com/techprober/cloud-estate/pull/376) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-5. 🎉 Merged PR [#375](https://github.com/techprober/cloud-estate/pull/375) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. 🗣 Commented on [#92](https://github.com/juicity/juicity/pull/92#issuecomment-1684632317) in [juicity/juicity](https://github.com/juicity/juicity)
+2. 🎉 Merged PR [#4](https://github.com/daeuniverse/flake.nix/pull/4) in [daeuniverse/flake.nix](https://github.com/daeuniverse/flake.nix)
+3. 🗣 Commented on [#4](https://github.com/daeuniverse/flake.nix/pull/4#issuecomment-1684135553) in [daeuniverse/flake.nix](https://github.com/daeuniverse/flake.nix)
+4. 🗣 Commented on [#4](https://github.com/daeuniverse/flake.nix/pull/4#issuecomment-1683938412) in [daeuniverse/flake.nix](https://github.com/daeuniverse/flake.nix)
+5. 🎉 Merged PR [#376](https://github.com/techprober/cloud-estate/pull/376) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 
 <!--END_SECTION:activity-->
 
