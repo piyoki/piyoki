@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#72](https://github.com/juicity/juicity/issues/72) in [juicity/juicity](https://github.com/juicity/juicity)
-2. 🎉 Merged PR [#92](https://github.com/juicity/juicity/pull/92) in [juicity/juicity](https://github.com/juicity/juicity)
-3. 🗣 Commented on [#95](https://github.com/juicity/juicity/issues/95#issuecomment-1684856596) in [juicity/juicity](https://github.com/juicity/juicity)
-4. 🗣 Commented on [#95](https://github.com/juicity/juicity/issues/95#issuecomment-1684851024) in [juicity/juicity](https://github.com/juicity/juicity)
-5. 🗣 Commented on [#92](https://github.com/juicity/juicity/pull/92#issuecomment-1684632317) in [juicity/juicity](https://github.com/juicity/juicity)
+1. 🎉 Merged PR [#98](https://github.com/juicity/juicity/pull/98) in [juicity/juicity](https://github.com/juicity/juicity)
+2. 🔒 Closed issue [#97](https://github.com/juicity/juicity/issues/97) in [juicity/juicity](https://github.com/juicity/juicity)
+3. 🗣 Commented on [#97](https://github.com/juicity/juicity/issues/97#issuecomment-1684935103) in [juicity/juicity](https://github.com/juicity/juicity)
+4. 🗣 Commented on [#97](https://github.com/juicity/juicity/issues/97#issuecomment-1684935044) in [juicity/juicity](https://github.com/juicity/juicity)
+5. 🔒 Closed issue [#72](https://github.com/juicity/juicity/issues/72) in [juicity/juicity](https://github.com/juicity/juicity)
 
 <!--END_SECTION:activity-->
 
