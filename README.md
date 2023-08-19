@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#95](https://github.com/juicity/juicity/issues/95#issuecomment-1684856596) in [juicity/juicity](https://github.com/juicity/juicity)
-2. 🗣 Commented on [#95](https://github.com/juicity/juicity/issues/95#issuecomment-1684851024) in [juicity/juicity](https://github.com/juicity/juicity)
-3. 🗣 Commented on [#92](https://github.com/juicity/juicity/pull/92#issuecomment-1684632317) in [juicity/juicity](https://github.com/juicity/juicity)
-4. 🎉 Merged PR [#4](https://github.com/daeuniverse/flake.nix/pull/4) in [daeuniverse/flake.nix](https://github.com/daeuniverse/flake.nix)
-5. 🗣 Commented on [#4](https://github.com/daeuniverse/flake.nix/pull/4#issuecomment-1684135553) in [daeuniverse/flake.nix](https://github.com/daeuniverse/flake.nix)
+1. 🔒 Closed issue [#72](https://github.com/juicity/juicity/issues/72) in [juicity/juicity](https://github.com/juicity/juicity)
+2. 🎉 Merged PR [#92](https://github.com/juicity/juicity/pull/92) in [juicity/juicity](https://github.com/juicity/juicity)
+3. 🗣 Commented on [#95](https://github.com/juicity/juicity/issues/95#issuecomment-1684856596) in [juicity/juicity](https://github.com/juicity/juicity)
+4. 🗣 Commented on [#95](https://github.com/juicity/juicity/issues/95#issuecomment-1684851024) in [juicity/juicity](https://github.com/juicity/juicity)
+5. 🗣 Commented on [#92](https://github.com/juicity/juicity/pull/92#issuecomment-1684632317) in [juicity/juicity](https://github.com/juicity/juicity)
 
 <!--END_SECTION:activity-->
 
