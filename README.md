@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/daeuniverse/functions/pull/6) in [daeuniverse/functions](https://github.com/daeuniverse/functions)
-2. 💪 Opened PR [#6](https://github.com/daeuniverse/functions/pull/6) in [daeuniverse/functions](https://github.com/daeuniverse/functions)
-3. 🎉 Merged PR [#5](https://github.com/daeuniverse/functions/pull/5) in [daeuniverse/functions](https://github.com/daeuniverse/functions)
-4. 💪 Opened PR [#5](https://github.com/daeuniverse/functions/pull/5) in [daeuniverse/functions](https://github.com/daeuniverse/functions)
-5. 🗣 Commented on [#99](https://github.com/juicity/juicity/issues/99#issuecomment-1685220163) in [juicity/juicity](https://github.com/juicity/juicity)
+1. 🎉 Merged PR [#113](https://github.com/daeuniverse/dae-wing/pull/113) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
+2. ❌ Closed PR [#109](https://github.com/daeuniverse/dae-wing/pull/109) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
+3. 🎉 Merged PR [#100](https://github.com/juicity/juicity/pull/100) in [juicity/juicity](https://github.com/juicity/juicity)
+4. 🎉 Merged PR [#6](https://github.com/daeuniverse/functions/pull/6) in [daeuniverse/functions](https://github.com/daeuniverse/functions)
+5. 💪 Opened PR [#6](https://github.com/daeuniverse/functions/pull/6) in [daeuniverse/functions](https://github.com/daeuniverse/functions)
 
 <!--END_SECTION:activity-->
 
