@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#113](https://github.com/daeuniverse/dae-wing/pull/113) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
-2. ❌ Closed PR [#109](https://github.com/daeuniverse/dae-wing/pull/109) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
-3. 🎉 Merged PR [#100](https://github.com/juicity/juicity/pull/100) in [juicity/juicity](https://github.com/juicity/juicity)
-4. 🎉 Merged PR [#6](https://github.com/daeuniverse/functions/pull/6) in [daeuniverse/functions](https://github.com/daeuniverse/functions)
-5. 💪 Opened PR [#6](https://github.com/daeuniverse/functions/pull/6) in [daeuniverse/functions](https://github.com/daeuniverse/functions)
+1. 🗣 Commented on [#246](https://github.com/daeuniverse/daed/pull/246#issuecomment-1687803041) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+2. 🗣 Commented on [#246](https://github.com/daeuniverse/daed/pull/246#issuecomment-1687801069) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+3. 🗣 Commented on [#246](https://github.com/daeuniverse/daed/pull/246#issuecomment-1687799842) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+4. 🗣 Commented on [#2](https://github.com/juicity/ansible-juicity-install/pull/2#issuecomment-1687788382) in [juicity/ansible-juicity-install](https://github.com/juicity/ansible-juicity-install)
+5. 🗣 Commented on [#2](https://github.com/juicity/ansible-juicity-install/pull/2#issuecomment-1687785197) in [juicity/ansible-juicity-install](https://github.com/juicity/ansible-juicity-install)
 
 <!--END_SECTION:activity-->
 
