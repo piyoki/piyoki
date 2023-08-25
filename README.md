@@ -3,7 +3,7 @@
 [![Headline Image](https://github.com/yqlbu/yqlbu/blob/master/assets/github-headline.png?raw=true)](https://github.com/yqlbu)
 
 [![](https://img.shields.io/badge/www.hikariai.net-up-brightegreen?style=for-the-badge)](https://www.hikariai.net)
-[![](https://img.shields.io/badge/link.hikariai.net-up-brightegreen?style=for-the-badge)](https://link.hikariai.net)
+[![](https://img.shields.io/badge/link.hikariai.net-down-red?style=for-the-badge)](https://link.hikariai.net)
 
 ## 🔒 PGP 
 
