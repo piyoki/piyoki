@@ -211,7 +211,7 @@ spec:
 
 ##### Cloud Hosting
 
-> vSphere, vCenter, Proxmox VE, AWS, Google Cloud, Huawei Cloud, Oracle Cloud, AliCloud, Bandwagon VPS Hosting, Tencent Cloud, Linnode, Vultr, Civo, Hetzner
+> vSphere, vCenter, Proxmox VE, AWS, Azure, Google Cloud, Huawei Cloud, Oracle Cloud, AliCloud, Bandwagon VPS Hosting, Tencent Cloud, Linnode, Vultr, Civo, Hetzner
 
 ##### Container Runtime, Orchestration, and Provision
 
