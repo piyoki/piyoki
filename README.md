@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#4](https://github.com/juicity/ansible-juicity-install/pull/4) in [juicity/ansible-juicity-install](https://github.com/juicity/ansible-juicity-install)
-2. 🗣 Commented on [#103](https://github.com/juicity/juicity/pull/103#issuecomment-1694129205) in [juicity/juicity](https://github.com/juicity/juicity)
-3. 🎉 Merged PR [#2](https://github.com/daeuniverse/galaxy-collections/pull/2) in [daeuniverse/galaxy-collections](https://github.com/daeuniverse/galaxy-collections)
-4. 💪 Opened PR [#2](https://github.com/daeuniverse/galaxy-collections/pull/2) in [daeuniverse/galaxy-collections](https://github.com/daeuniverse/galaxy-collections)
-5. 🎉 Merged PR [#1](https://github.com/daeuniverse/galaxy-collections/pull/1) in [daeuniverse/galaxy-collections](https://github.com/daeuniverse/galaxy-collections)
+1. 🎉 Merged PR [#3](https://github.com/daeuniverse/galaxy-collections/pull/3) in [daeuniverse/galaxy-collections](https://github.com/daeuniverse/galaxy-collections)
+2. 💪 Opened PR [#3](https://github.com/daeuniverse/galaxy-collections/pull/3) in [daeuniverse/galaxy-collections](https://github.com/daeuniverse/galaxy-collections)
+3. 💪 Opened PR [#4](https://github.com/juicity/ansible-juicity-install/pull/4) in [juicity/ansible-juicity-install](https://github.com/juicity/ansible-juicity-install)
+4. 🗣 Commented on [#103](https://github.com/juicity/juicity/pull/103#issuecomment-1694129205) in [juicity/juicity](https://github.com/juicity/juicity)
+5. 🎉 Merged PR [#2](https://github.com/daeuniverse/galaxy-collections/pull/2) in [daeuniverse/galaxy-collections](https://github.com/daeuniverse/galaxy-collections)
 
 <!--END_SECTION:activity-->
 
