@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#300](https://github.com/daeuniverse/dae/pull/300) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-2. 🗣 Commented on [#471](https://github.com/ebpf-io/ebpf.io-website/pull/471#issuecomment-1693509279) in [ebpf-io/ebpf.io-website](https://github.com/ebpf-io/ebpf.io-website)
-3. 🗣 Commented on [#471](https://github.com/ebpf-io/ebpf.io-website/pull/471#issuecomment-1693501851) in [ebpf-io/ebpf.io-website](https://github.com/ebpf-io/ebpf.io-website)
-4. 🗣 Commented on [#471](https://github.com/ebpf-io/ebpf.io-website/pull/471#issuecomment-1693495862) in [ebpf-io/ebpf.io-website](https://github.com/ebpf-io/ebpf.io-website)
-5. 💪 Opened PR [#300](https://github.com/daeuniverse/dae/pull/300) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+1. 🎉 Merged PR [#2](https://github.com/daeuniverse/galaxy-collections/pull/2) in [daeuniverse/galaxy-collections](https://github.com/daeuniverse/galaxy-collections)
+2. 💪 Opened PR [#2](https://github.com/daeuniverse/galaxy-collections/pull/2) in [daeuniverse/galaxy-collections](https://github.com/daeuniverse/galaxy-collections)
+3. 🎉 Merged PR [#1](https://github.com/daeuniverse/galaxy-collections/pull/1) in [daeuniverse/galaxy-collections](https://github.com/daeuniverse/galaxy-collections)
+4. 💪 Opened PR [#1](https://github.com/daeuniverse/galaxy-collections/pull/1) in [daeuniverse/galaxy-collections](https://github.com/daeuniverse/galaxy-collections)
+5. 🎉 Merged PR [#300](https://github.com/daeuniverse/dae/pull/300) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
 
 <!--END_SECTION:activity-->
 
