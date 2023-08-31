@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#301](https://github.com/daeuniverse/dae/pull/301#issuecomment-1699037510) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-2. 🔒 Closed issue [#65](https://github.com/juicity/juicity/issues/65) in [juicity/juicity](https://github.com/juicity/juicity)
-3. 🗣 Commented on [#65](https://github.com/juicity/juicity/issues/65#issuecomment-1698318983) in [juicity/juicity](https://github.com/juicity/juicity)
-4. 🗣 Commented on [#65](https://github.com/juicity/juicity/issues/65#issuecomment-1696802056) in [juicity/juicity](https://github.com/juicity/juicity)
-5. 🗣 Commented on [#301](https://github.com/daeuniverse/dae/pull/301#issuecomment-1696617918) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+1. 🗣 Commented on [#305](https://github.com/daeuniverse/dae/pull/305#issuecomment-1699993944) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+2. 🗣 Commented on [#301](https://github.com/daeuniverse/dae/pull/301#issuecomment-1699037510) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+3. 🔒 Closed issue [#65](https://github.com/juicity/juicity/issues/65) in [juicity/juicity](https://github.com/juicity/juicity)
+4. 🗣 Commented on [#65](https://github.com/juicity/juicity/issues/65#issuecomment-1698318983) in [juicity/juicity](https://github.com/juicity/juicity)
+5. 🗣 Commented on [#65](https://github.com/juicity/juicity/issues/65#issuecomment-1696802056) in [juicity/juicity](https://github.com/juicity/juicity)
 
 <!--END_SECTION:activity-->
 
