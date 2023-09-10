@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#113](https://github.com/juicity/juicity/issues/113#issuecomment-1712793255) in [juicity/juicity](https://github.com/juicity/juicity)
-2. 🗣 Commented on [#95](https://github.com/juicity/juicity/issues/95#issuecomment-1712793065) in [juicity/juicity](https://github.com/juicity/juicity)
-3. 🗣 Commented on [#118](https://github.com/juicity/juicity/issues/118#issuecomment-1712792553) in [juicity/juicity](https://github.com/juicity/juicity)
-4. 🎉 Merged PR [#6](https://github.com/daeuniverse/galaxy-collections/pull/6) in [daeuniverse/galaxy-collections](https://github.com/daeuniverse/galaxy-collections)
-5. 💪 Opened PR [#6](https://github.com/daeuniverse/galaxy-collections/pull/6) in [daeuniverse/galaxy-collections](https://github.com/daeuniverse/galaxy-collections)
+1. 🗣 Commented on [#119](https://github.com/juicity/juicity/issues/119#issuecomment-1712837260) in [juicity/juicity](https://github.com/juicity/juicity)
+2. 🗣 Commented on [#119](https://github.com/juicity/juicity/issues/119#issuecomment-1712837149) in [juicity/juicity](https://github.com/juicity/juicity)
+3. 🗣 Commented on [#119](https://github.com/juicity/juicity/issues/119#issuecomment-1712836536) in [juicity/juicity](https://github.com/juicity/juicity)
+4. 🗣 Commented on [#326](https://github.com/daeuniverse/dae/issues/326#issuecomment-1712836086) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+5. 🗣 Commented on [#325](https://github.com/daeuniverse/dae/issues/325#issuecomment-1712828051) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
 
 <!--END_SECTION:activity-->
 
