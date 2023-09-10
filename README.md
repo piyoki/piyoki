@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#381](https://github.com/techprober/cloud-estate/pull/381) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-2. 💪 Opened PR [#381](https://github.com/techprober/cloud-estate/pull/381) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 🎉 Merged PR [#380](https://github.com/techprober/cloud-estate/pull/380) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-4. 💪 Opened PR [#380](https://github.com/techprober/cloud-estate/pull/380) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-5. 🎉 Merged PR [#379](https://github.com/techprober/cloud-estate/pull/379) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. 🎉 Merged PR [#6](https://github.com/daeuniverse/galaxy-collections/pull/6) in [daeuniverse/galaxy-collections](https://github.com/daeuniverse/galaxy-collections)
+2. 💪 Opened PR [#6](https://github.com/daeuniverse/galaxy-collections/pull/6) in [daeuniverse/galaxy-collections](https://github.com/daeuniverse/galaxy-collections)
+3. 🎉 Merged PR [#381](https://github.com/techprober/cloud-estate/pull/381) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+4. 💪 Opened PR [#381](https://github.com/techprober/cloud-estate/pull/381) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+5. 🎉 Merged PR [#380](https://github.com/techprober/cloud-estate/pull/380) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 
 <!--END_SECTION:activity-->
 
