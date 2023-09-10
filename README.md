@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#327](https://github.com/daeuniverse/dae/pull/327) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-2. 💪 Opened PR [#82](https://github.com/yqlbu/dae/pull/82) in [yqlbu/dae](https://github.com/yqlbu/dae)
-3. 💪 Opened PR [#81](https://github.com/yqlbu/dae/pull/81) in [yqlbu/dae](https://github.com/yqlbu/dae)
-4. 🗣 Commented on [#326](https://github.com/daeuniverse/dae/issues/326#issuecomment-1712845194) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-5. 🗣 Commented on [#326](https://github.com/daeuniverse/dae/issues/326#issuecomment-1712845078) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+1. 💪 Opened PR [#328](https://github.com/daeuniverse/dae/pull/328) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+2. ❌ Closed PR [#327](https://github.com/daeuniverse/dae/pull/327) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+3. 💪 Opened PR [#327](https://github.com/daeuniverse/dae/pull/327) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+4. 💪 Opened PR [#82](https://github.com/yqlbu/dae/pull/82) in [yqlbu/dae](https://github.com/yqlbu/dae)
+5. 💪 Opened PR [#81](https://github.com/yqlbu/dae/pull/81) in [yqlbu/dae](https://github.com/yqlbu/dae)
 
 <!--END_SECTION:activity-->
 
