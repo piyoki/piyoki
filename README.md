@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#122](https://github.com/juicity/juicity/issues/122#issuecomment-1714939548) in [juicity/juicity](https://github.com/juicity/juicity)
-2. 💪 Opened PR [#328](https://github.com/daeuniverse/dae/pull/328) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-3. ❌ Closed PR [#327](https://github.com/daeuniverse/dae/pull/327) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-4. 💪 Opened PR [#327](https://github.com/daeuniverse/dae/pull/327) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-5. 💪 Opened PR [#82](https://github.com/yqlbu/dae/pull/82) in [yqlbu/dae](https://github.com/yqlbu/dae)
+1. 💪 Opened PR [#123](https://github.com/juicity/juicity/pull/123) in [juicity/juicity](https://github.com/juicity/juicity)
+2. 🗣 Commented on [#122](https://github.com/juicity/juicity/issues/122#issuecomment-1714939548) in [juicity/juicity](https://github.com/juicity/juicity)
+3. 💪 Opened PR [#328](https://github.com/daeuniverse/dae/pull/328) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+4. ❌ Closed PR [#327](https://github.com/daeuniverse/dae/pull/327) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+5. 💪 Opened PR [#327](https://github.com/daeuniverse/dae/pull/327) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
 
 <!--END_SECTION:activity-->
 
