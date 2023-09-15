@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#17](https://github.com/techprober/mosdns-lxc-deploy/pull/17) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
-2. 💪 Opened PR [#17](https://github.com/techprober/mosdns-lxc-deploy/pull/17) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
-3. 🗣 Commented on [#16](https://github.com/techprober/mosdns-lxc-deploy/pull/16#issuecomment-1719464965) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
-4. 🎉 Merged PR [#16](https://github.com/techprober/mosdns-lxc-deploy/pull/16) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
-5. 💪 Opened PR [#16](https://github.com/techprober/mosdns-lxc-deploy/pull/16) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
+1. 🎉 Merged PR [#1](https://github.com/techprober/mosdns-opnsense-install/pull/1) in [techprober/mosdns-opnsense-install](https://github.com/techprober/mosdns-opnsense-install)
+2. 💪 Opened PR [#1](https://github.com/techprober/mosdns-opnsense-install/pull/1) in [techprober/mosdns-opnsense-install](https://github.com/techprober/mosdns-opnsense-install)
+3. 🎉 Merged PR [#18](https://github.com/techprober/mosdns-lxc-deploy/pull/18) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
+4. 💪 Opened PR [#18](https://github.com/techprober/mosdns-lxc-deploy/pull/18) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
+5. 🎉 Merged PR [#17](https://github.com/techprober/mosdns-lxc-deploy/pull/17) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
 
 <!--END_SECTION:activity-->
 
