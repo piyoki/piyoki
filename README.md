@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#280](https://github.com/daeuniverse/daed/issues/280#issuecomment-1722515346) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
-2. 🗣 Commented on [#267](https://github.com/daeuniverse/daed/pull/267#issuecomment-1722397787) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
-3. 🎉 Merged PR [#20](https://github.com/techprober/mosdns-lxc-deploy/pull/20) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
-4. 💪 Opened PR [#20](https://github.com/techprober/mosdns-lxc-deploy/pull/20) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
-5. 🎉 Merged PR [#19](https://github.com/techprober/mosdns-lxc-deploy/pull/19) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
+1. 🎉 Merged PR [#4](https://github.com/techprober/mosdns-opnsense-install/pull/4) in [techprober/mosdns-opnsense-install](https://github.com/techprober/mosdns-opnsense-install)
+2. 🗣 Commented on [#280](https://github.com/daeuniverse/daed/issues/280#issuecomment-1722515346) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+3. 🗣 Commented on [#267](https://github.com/daeuniverse/daed/pull/267#issuecomment-1722397787) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+4. 🎉 Merged PR [#20](https://github.com/techprober/mosdns-lxc-deploy/pull/20) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
+5. 💪 Opened PR [#20](https://github.com/techprober/mosdns-lxc-deploy/pull/20) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
 
 <!--END_SECTION:activity-->
 
