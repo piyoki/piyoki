@@ -40,10 +40,10 @@ spec:
     - Fluent in English
     - Proficient in Japanese
   skills:
-    core: [ Linux, Enterprise Cloud Solution, Enterprise Storage Solution, Enterprise Integrated Compliance Firewall, IT Security, Advanced Networking, Enterprise SD-WAN Solution ]
-    cloud: [ AWS, GCP, Oracle Cloud, Proxmox VE, VMware vCenter, CIVO ]
-    devops: [ Containerization, Kubernetes, CloudNative, DevSecOps, GitOps, Serverless ]
-    business: [ Technical Writing, Public Speaking, Advocacy and Outreach, Host Events ]
+    core: [ "Linux", "Enterprise Cloud Solution", "Enterprise Storage Solution", "Enterprise Integrated Compliance Firewall", "IT Security", "Advanced Networking", "Enterprise SD-WAN Solution" ]
+    cloud: [ "AWS", "GCP", "Oracle Cloud", "Proxmox VE", "VMware vCenter", "CIVO" ]
+    devops: [ "Containerization", "Kubernetes", "CloudNative", "DevSecOps", "GitOps", "Serverless" ]
+    business: [ "Technical Writing", "Public Speaking", "Advocacy and Outreach", "Host Events" ]
 ```
 
 📫 How to reach me: [Link Page](https://link.hikariai.net)
