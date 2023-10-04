@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#383](https://github.com/techprober/cloud-estate/pull/383) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-2. 💪 Opened PR [#383](https://github.com/techprober/cloud-estate/pull/383) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 🎉 Merged PR [#1](https://github.com/yqlbu/mosdns/pull/1) in [yqlbu/mosdns](https://github.com/yqlbu/mosdns)
-4. 🗣 Commented on [#336](https://github.com/daeuniverse/dae/issues/336#issuecomment-1736485743) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-5. 🗣 Commented on [#332](https://github.com/daeuniverse/dae/issues/332#issuecomment-1732462871) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+1. ❗ Opened issue [#690](https://github.com/lukas-reineke/indent-blankline.nvim/issues/690) in [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim)
+2. 🎉 Merged PR [#383](https://github.com/techprober/cloud-estate/pull/383) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 💪 Opened PR [#383](https://github.com/techprober/cloud-estate/pull/383) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+4. 🎉 Merged PR [#1](https://github.com/yqlbu/mosdns/pull/1) in [yqlbu/mosdns](https://github.com/yqlbu/mosdns)
+5. 🗣 Commented on [#336](https://github.com/daeuniverse/dae/issues/336#issuecomment-1736485743) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
 
 <!--END_SECTION:activity-->
 
