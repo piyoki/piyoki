@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#385](https://github.com/techprober/cloud-estate/pull/385) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-2. 🗣 Commented on [#385](https://github.com/techprober/cloud-estate/pull/385#issuecomment-1748701259) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 🎉 Merged PR [#384](https://github.com/techprober/cloud-estate/pull/384) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-4. 💪 Opened PR [#384](https://github.com/techprober/cloud-estate/pull/384) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-5. 🔒 Closed issue [#690](https://github.com/lukas-reineke/indent-blankline.nvim/issues/690) in [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim)
+1. 🚀 Published release [Packer v2.5](https://github.com/techprober/cloud-estate/releases/tag/packer.v.2.5) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+2. 🎉 Merged PR [#385](https://github.com/techprober/cloud-estate/pull/385) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 🗣 Commented on [#385](https://github.com/techprober/cloud-estate/pull/385#issuecomment-1748701259) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+4. 🎉 Merged PR [#384](https://github.com/techprober/cloud-estate/pull/384) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+5. 💪 Opened PR [#384](https://github.com/techprober/cloud-estate/pull/384) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 
 <!--END_SECTION:activity-->
 
