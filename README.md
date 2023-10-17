@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#340](https://github.com/daeuniverse/dae/issues/340#issuecomment-1751957512) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-2. 🎉 Merged PR [#386](https://github.com/techprober/cloud-estate/pull/386) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 💪 Opened PR [#386](https://github.com/techprober/cloud-estate/pull/386) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-4. 🚀 Published release [Packer v2.5](https://github.com/techprober/cloud-estate/releases/tag/packer.v.2.5) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-5. 🎉 Merged PR [#385](https://github.com/techprober/cloud-estate/pull/385) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. 🎉 Merged PR [#387](https://github.com/techprober/cloud-estate/pull/387) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+2. 💪 Opened PR [#387](https://github.com/techprober/cloud-estate/pull/387) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 🗣 Commented on [#340](https://github.com/daeuniverse/dae/issues/340#issuecomment-1751957512) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+4. 🎉 Merged PR [#386](https://github.com/techprober/cloud-estate/pull/386) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+5. 💪 Opened PR [#386](https://github.com/techprober/cloud-estate/pull/386) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 
 <!--END_SECTION:activity-->
 
