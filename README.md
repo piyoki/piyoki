@@ -21,7 +21,7 @@ metadata:
     app: about-me
   annotations:
     api.hikariai.net/nickname: "kev"
-    api.hikariai.net/fun-facts: [ "Linux is a must", "I use Arch and Nix BTW", "Vim Professional" ]
+    api.hikariai.net/fun-facts: [ "Linux is a must", "I use Arch BTW", "Vim Professional" ]
     api.hikariai.net/roles: [ "Community Blogger", "Cloud Solution Architect", "DevOps Specialist", "Release Specialist", "Security Specialist", "Networking Professional" ]
     api.hikariai.net/current-role: "Sr. SRE (Senior Site Reliability Engineer)"
     api.hikariai.net/community: [ "@openfaas", "@cncf", "@kubernetes", "@daeuniverse", "@juicity" "@cilium", "@juicedata", "@techprober" ]
