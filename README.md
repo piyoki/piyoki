@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#131](https://github.com/juicity/juicity/pull/131) in [juicity/juicity](https://github.com/juicity/juicity)
-2. 🗣 Commented on [#131](https://github.com/juicity/juicity/pull/131#issuecomment-1774064597) in [juicity/juicity](https://github.com/juicity/juicity)
-3. 🎉 Merged PR [#132](https://github.com/juicity/juicity/pull/132) in [juicity/juicity](https://github.com/juicity/juicity)
-4. 💪 Opened PR [#132](https://github.com/juicity/juicity/pull/132) in [juicity/juicity](https://github.com/juicity/juicity)
-5. 🎉 Merged PR [#130](https://github.com/juicity/juicity/pull/130) in [juicity/juicity](https://github.com/juicity/juicity)
+1. 🗣 Commented on [#1112](https://github.com/ansible-semaphore/semaphore/pull/1112#issuecomment-1774118699) in [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore)
+2. 🗣 Commented on [#1112](https://github.com/ansible-semaphore/semaphore/pull/1112#issuecomment-1774118510) in [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore)
+3. 🎉 Merged PR [#131](https://github.com/juicity/juicity/pull/131) in [juicity/juicity](https://github.com/juicity/juicity)
+4. 🗣 Commented on [#131](https://github.com/juicity/juicity/pull/131#issuecomment-1774064597) in [juicity/juicity](https://github.com/juicity/juicity)
+5. 🎉 Merged PR [#132](https://github.com/juicity/juicity/pull/132) in [juicity/juicity](https://github.com/juicity/juicity)
 
 <!--END_SECTION:activity-->
 
