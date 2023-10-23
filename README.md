@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#318](https://github.com/daeuniverse/daed/pull/318) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
-2. 🎉 Merged PR [#123](https://github.com/daeuniverse/dae-wing/pull/123) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
-3. 🗣 Commented on [#1112](https://github.com/ansible-semaphore/semaphore/pull/1112#issuecomment-1774118699) in [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore)
-4. 🗣 Commented on [#1112](https://github.com/ansible-semaphore/semaphore/pull/1112#issuecomment-1774118510) in [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore)
-5. 🎉 Merged PR [#131](https://github.com/juicity/juicity/pull/131) in [juicity/juicity](https://github.com/juicity/juicity)
+1. 🎉 Merged PR [#94](https://github.com/daeuniverse/dae-bot/pull/94) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+2. 💪 Opened PR [#94](https://github.com/daeuniverse/dae-bot/pull/94) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
+3. 🎉 Merged PR [#318](https://github.com/daeuniverse/daed/pull/318) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+4. 🎉 Merged PR [#123](https://github.com/daeuniverse/dae-wing/pull/123) in [daeuniverse/dae-wing](https://github.com/daeuniverse/dae-wing)
+5. 🗣 Commented on [#1112](https://github.com/ansible-semaphore/semaphore/pull/1112#issuecomment-1774118699) in [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore)
 
 <!--END_SECTION:activity-->
 
