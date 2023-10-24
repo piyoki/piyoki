@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#133](https://github.com/juicity/juicity/pull/133#issuecomment-1774965247) in [juicity/juicity](https://github.com/juicity/juicity)
-2. 🎉 Merged PR [#133](https://github.com/juicity/juicity/pull/133) in [juicity/juicity](https://github.com/juicity/juicity)
-3. 🎉 Merged PR [#94](https://github.com/daeuniverse/dae-bot/pull/94) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
-4. 💪 Opened PR [#94](https://github.com/daeuniverse/dae-bot/pull/94) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
-5. 🎉 Merged PR [#318](https://github.com/daeuniverse/daed/pull/318) in [daeuniverse/daed](https://github.com/daeuniverse/daed)
+1. 🎉 Merged PR [#388](https://github.com/techprober/cloud-estate/pull/388) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+2. 💪 Opened PR [#388](https://github.com/techprober/cloud-estate/pull/388) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 🗣 Commented on [#133](https://github.com/juicity/juicity/pull/133#issuecomment-1774965247) in [juicity/juicity](https://github.com/juicity/juicity)
+4. 🎉 Merged PR [#133](https://github.com/juicity/juicity/pull/133) in [juicity/juicity](https://github.com/juicity/juicity)
+5. 🎉 Merged PR [#94](https://github.com/daeuniverse/dae-bot/pull/94) in [daeuniverse/dae-bot](https://github.com/daeuniverse/dae-bot)
 
 <!--END_SECTION:activity-->
 
