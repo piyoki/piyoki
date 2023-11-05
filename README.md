@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#349](https://github.com/daeuniverse/dae/pull/349) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-2. 🗣 Commented on [#321](https://github.com/daeuniverse/dae/issues/321#issuecomment-1784168265) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-3. 🗣 Commented on [#301](https://github.com/daeuniverse/dae/pull/301#issuecomment-1777671870) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-4. 💪 Opened PR [#349](https://github.com/daeuniverse/dae/pull/349) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-5. 💪 Opened PR [#134](https://github.com/juicity/juicity/pull/134) in [juicity/juicity](https://github.com/juicity/juicity)
+1. 🎉 Merged PR [#8](https://github.com/yqlbu/mosdns/pull/8) in [yqlbu/mosdns](https://github.com/yqlbu/mosdns)
+2. ❌ Closed PR [#349](https://github.com/daeuniverse/dae/pull/349) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+3. 🗣 Commented on [#321](https://github.com/daeuniverse/dae/issues/321#issuecomment-1784168265) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+4. 🗣 Commented on [#301](https://github.com/daeuniverse/dae/pull/301#issuecomment-1777671870) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+5. 💪 Opened PR [#349](https://github.com/daeuniverse/dae/pull/349) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
 
 <!--END_SECTION:activity-->
 
