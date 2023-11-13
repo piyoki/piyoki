@@ -249,11 +249,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#8](https://github.com/yqlbu/mosdns/pull/8) in [yqlbu/mosdns](https://github.com/yqlbu/mosdns)
-2. ❌ Closed PR [#349](https://github.com/daeuniverse/dae/pull/349) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-3. 🗣 Commented on [#321](https://github.com/daeuniverse/dae/issues/321#issuecomment-1784168265) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-4. 🗣 Commented on [#301](https://github.com/daeuniverse/dae/pull/301#issuecomment-1777671870) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-5. 💪 Opened PR [#349](https://github.com/daeuniverse/dae/pull/349) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+1. 🎉 Merged PR [#389](https://github.com/techprober/cloud-estate/pull/389) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+2. 💪 Opened PR [#389](https://github.com/techprober/cloud-estate/pull/389) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 🎉 Merged PR [#8](https://github.com/yqlbu/mosdns/pull/8) in [yqlbu/mosdns](https://github.com/yqlbu/mosdns)
+4. ❌ Closed PR [#349](https://github.com/daeuniverse/dae/pull/349) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+5. 🗣 Commented on [#321](https://github.com/daeuniverse/dae/issues/321#issuecomment-1784168265) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
 
 <!--END_SECTION:activity-->
 
