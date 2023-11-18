@@ -142,7 +142,7 @@ spec:
 ![Falco](https://custom-icon-badges.herokuapp.com/badge/-Falco-000?&logo=falco)
 ![Trivy](https://custom-icon-badges.herokuapp.com/badge/-Trivy-000?&logo=aqua-trivy)
 ![Tracee](https://custom-icon-badges.herokuapp.com/badge/-Tracee-000?&logo=aqua-tracee)
-
+![Vault](https://custom-icon-badges.herokuapp.com/badge/-Vault-000?&logo=vault)
 ##### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -220,6 +220,10 @@ spec:
 ##### LoadBalancer, Service Mesh Solutions, and API Gateway
 
 > HAproxy, Nginx, Trafik, Istio, Linkerd, Envoy, Consul, Kong, Cilium Sidecarless Service Mesh
+
+##### Secret Management
+
+> Hashicorp Vault
 
 ##### Cloud-Native Solutions
 
