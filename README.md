@@ -253,11 +253,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🔓 Reopened issue [#24](https://github.com/daeuniverse/daed-1/issues/24) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
-2. 🔓 Reopened issue [#24](https://github.com/daeuniverse/daed-1/issues/24) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
-3. 🔓 Reopened issue [#24](https://github.com/daeuniverse/daed-1/issues/24) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
-4. 🔓 Reopened issue [#24](https://github.com/daeuniverse/daed-1/issues/24) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
-5. 🔓 Reopened issue [#24](https://github.com/daeuniverse/daed-1/issues/24) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
+1. 🔒 Closed issue [#27](https://github.com/daeuniverse/daed-1/issues/27) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
+2. 🔓 Reopened issue [#27](https://github.com/daeuniverse/daed-1/issues/27) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
+3. 🔒 Closed issue [#28](https://github.com/daeuniverse/daed-1/issues/28) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
+4. ❗ Opened issue [#28](https://github.com/daeuniverse/daed-1/issues/28) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
+5. ❗ Opened issue [#27](https://github.com/daeuniverse/daed-1/issues/27) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
 
 <!--END_SECTION:activity-->
 
