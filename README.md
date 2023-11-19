@@ -255,9 +255,9 @@ spec:
 
 1. 🔓 Reopened issue [#24](https://github.com/daeuniverse/daed-1/issues/24) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
 2. 🔒 Closed issue [#24](https://github.com/daeuniverse/daed-1/issues/24) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
-3. ❗ Opened issue [#24](https://github.com/daeuniverse/daed-1/issues/24) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
-4. 🎉 Merged PR [#5](https://github.com/daeuniverse/star-enforcer/pull/5) in [daeuniverse/star-enforcer](https://github.com/daeuniverse/star-enforcer)
-5. 🎉 Merged PR [#134](https://github.com/juicity/juicity/pull/134) in [juicity/juicity](https://github.com/juicity/juicity)
+3. 🔓 Reopened issue [#24](https://github.com/daeuniverse/daed-1/issues/24) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
+4. 🔒 Closed issue [#24](https://github.com/daeuniverse/daed-1/issues/24) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
+5. 🔓 Reopened issue [#24](https://github.com/daeuniverse/daed-1/issues/24) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
 
 <!--END_SECTION:activity-->
 
