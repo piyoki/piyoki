@@ -253,11 +253,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#37](https://github.com/daeuniverse/daed-1/issues/37#issuecomment-1817914000) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
-2. ❗ Opened issue [#37](https://github.com/daeuniverse/daed-1/issues/37) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
-3. ❗ Opened issue [#36](https://github.com/daeuniverse/daed-1/issues/36) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
-4. ❗ Opened issue [#35](https://github.com/daeuniverse/daed-1/issues/35) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
-5. ❗ Opened issue [#34](https://github.com/daeuniverse/daed-1/issues/34) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
+1. 🗣 Commented on [#39](https://github.com/daeuniverse/daed-1/issues/39#issuecomment-1817920134) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
+2. ❗ Opened issue [#39](https://github.com/daeuniverse/daed-1/issues/39) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
+3. 🗣 Commented on [#38](https://github.com/daeuniverse/daed-1/issues/38#issuecomment-1817919177) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
+4. 🗣 Commented on [#38](https://github.com/daeuniverse/daed-1/issues/38#issuecomment-1817919088) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
+5. 🔓 Reopened issue [#38](https://github.com/daeuniverse/daed-1/issues/38) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
 
 <!--END_SECTION:activity-->
 
