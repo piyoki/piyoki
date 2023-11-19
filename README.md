@@ -253,10 +253,10 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/daeuniverse/star-enforcer/pull/7) in [daeuniverse/star-enforcer](https://github.com/daeuniverse/star-enforcer)
-2. 💪 Opened PR [#7](https://github.com/daeuniverse/star-enforcer/pull/7) in [daeuniverse/star-enforcer](https://github.com/daeuniverse/star-enforcer)
-3. 🔓 Reopened issue [#24](https://github.com/daeuniverse/daed-1/issues/24) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
-4. 🔒 Closed issue [#24](https://github.com/daeuniverse/daed-1/issues/24) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
+1. 🔓 Reopened issue [#24](https://github.com/daeuniverse/daed-1/issues/24) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
+2. 🔒 Closed issue [#24](https://github.com/daeuniverse/daed-1/issues/24) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
+3. 🎉 Merged PR [#7](https://github.com/daeuniverse/star-enforcer/pull/7) in [daeuniverse/star-enforcer](https://github.com/daeuniverse/star-enforcer)
+4. 💪 Opened PR [#7](https://github.com/daeuniverse/star-enforcer/pull/7) in [daeuniverse/star-enforcer](https://github.com/daeuniverse/star-enforcer)
 5. 🔓 Reopened issue [#24](https://github.com/daeuniverse/daed-1/issues/24) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
 
 <!--END_SECTION:activity-->
