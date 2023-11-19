@@ -253,11 +253,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/daeuniverse/star-enforcer/pull/5) in [daeuniverse/star-enforcer](https://github.com/daeuniverse/star-enforcer)
-2. 🎉 Merged PR [#134](https://github.com/juicity/juicity/pull/134) in [juicity/juicity](https://github.com/juicity/juicity)
-3. 🎉 Merged PR [#356](https://github.com/daeuniverse/dae/pull/356) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-4. 💪 Opened PR [#356](https://github.com/daeuniverse/dae/pull/356) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-5. 🗣 Commented on [#301](https://github.com/daeuniverse/dae/pull/301#issuecomment-1810685254) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+1. 🔓 Reopened issue [#24](https://github.com/daeuniverse/daed-1/issues/24) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
+2. 🔒 Closed issue [#24](https://github.com/daeuniverse/daed-1/issues/24) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
+3. ❗ Opened issue [#24](https://github.com/daeuniverse/daed-1/issues/24) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
+4. 🎉 Merged PR [#5](https://github.com/daeuniverse/star-enforcer/pull/5) in [daeuniverse/star-enforcer](https://github.com/daeuniverse/star-enforcer)
+5. 🎉 Merged PR [#134](https://github.com/juicity/juicity/pull/134) in [juicity/juicity](https://github.com/juicity/juicity)
 
 <!--END_SECTION:activity-->
 
