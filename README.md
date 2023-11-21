@@ -253,11 +253,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#39](https://github.com/daeuniverse/daed-1/issues/39#issuecomment-1817920134) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
-2. ❗ Opened issue [#39](https://github.com/daeuniverse/daed-1/issues/39) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
-3. 🗣 Commented on [#38](https://github.com/daeuniverse/daed-1/issues/38#issuecomment-1817919177) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
-4. 🗣 Commented on [#38](https://github.com/daeuniverse/daed-1/issues/38#issuecomment-1817919088) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
-5. 🔓 Reopened issue [#38](https://github.com/daeuniverse/daed-1/issues/38) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
+1. 🎉 Merged PR [#391](https://github.com/techprober/cloud-estate/pull/391) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+2. 💪 Opened PR [#391](https://github.com/techprober/cloud-estate/pull/391) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 🎉 Merged PR [#390](https://github.com/techprober/cloud-estate/pull/390) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+4. 💪 Opened PR [#390](https://github.com/techprober/cloud-estate/pull/390) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+5. 🗣 Commented on [#39](https://github.com/daeuniverse/daed-1/issues/39#issuecomment-1817920134) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
 
 <!--END_SECTION:activity-->
 
