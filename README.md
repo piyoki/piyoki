@@ -42,7 +42,7 @@ spec:
   skills:
     core: [ "Linux", "Enterprise Cloud Solution", "Enterprise Storage Solution", "Enterprise Integrated Compliance Firewall", "IT Security", "Advanced Networking", "Enterprise SD-WAN Solution" ]
     cloud: [ "AWS", "GCP", "Oracle Cloud", "Proxmox VE", "VMware vCenter", "CIVO" ]
-    devops: [ "Containerization", "Kubernetes", "CloudNative", "DevSecOps", "GitOps", "Serverless" ]
+    devops: [ "Platform Engineering), "Containerization", "Kubernetes", "CloudNative", "DevSecOps", "GitOps", "Serverless" ]
     business: [ "Technical Writing", "Public Speaking", "Advocacy and Outreach", "Host Events" ]
 ```
 
@@ -177,7 +177,9 @@ spec:
 
 > Juicefs, iSCSI, NFS, Samba, Volume Storage, Bucket Storage, File Storage, CloudNative CSI (Container Storage Interface)
 
-##### DevOps, CI/CD, and GitOps
+##### DevOps, Release, and GitOps
+
+> Platform Engineering, CI (Continuous Integration), CD (Continuous Deployment), CO (Continuous Operation)
 
 > GitHub Checks (Check Suite and Check Run), ChatOps based on Pull Request
 
