@@ -42,7 +42,7 @@ spec:
   skills:
     core: [ "Linux", "Enterprise Cloud Solution", "Enterprise Storage Solution", "Enterprise Integrated Compliance Firewall", "IT Security", "Advanced Networking", "Enterprise SD-WAN Solution" ]
     cloud: [ "AWS", "GCP", "Oracle Cloud", "Proxmox VE", "VMware vCenter", "CIVO" ]
-    devops: [ "Platform Engineering), "Containerization", "Kubernetes", "CloudNative", "DevSecOps", "GitOps", "Serverless" ]
+    devops: [ "Platform Engineering, "Containerization", "Kubernetes", "CloudNative", "DevSecOps", "GitOps", "Serverless" ]
     business: [ "Technical Writing", "Public Speaking", "Advocacy and Outreach", "Host Events" ]
 ```
 
