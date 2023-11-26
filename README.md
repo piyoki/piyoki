@@ -74,6 +74,7 @@ spec:
 ![ArchLinux](https://img.shields.io/badge/-ArchLinux-000?&logo=ArchLinux)
 ![NixOS](https://img.shields.io/badge/-NixOS-000?&logo=NixOS)
 ![Fedora](https://img.shields.io/badge/-Fedora-000?&logo=Fedora)
+![OpenSUSE](https://img.shields.io/badge/-OpenSUSE-000?&logo=suse&logoColor=green)
 ![RockyLinux](https://img.shields.io/badge/-RockyLinux-000?&logo=rockylinux)
 ![RHEL](https://img.shields.io/badge/-RHEL-000?&logo=RedHat&logoColor=red)
 ![Debian](https://img.shields.io/badge/-Debian-000?&logo=Debian&logoColor=red)
@@ -171,11 +172,11 @@ spec:
 
 ##### Database
 
-> ETCD, MongoDB, MySQL, MariaDB, PostgreSQL, Firestore, InfluxDB, Redis, DynamoDB, AWS Aurora, Cassandra
+> ETCD, MongoDB, MySQL, MariaDB, PostgreSQL, Firestore, InfluxDB, Redis, AWS DynamoDB, AWS Aurora, Cassandra
 
 ##### Storage & Distributed File System
 
-> Juicefs, iSCSI, NFS, Samba, Volume Storage, Bucket Storage, File Storage, CloudNative CSI (Container Storage Interface)
+> iSCSI, NFS, Samba, Volume Storage, Bucket Storage, File Storage, CloudNative CSI (Container Storage Interface)
 
 ##### DevOps, Release, and GitOps
 
@@ -183,9 +184,9 @@ spec:
 
 > GitHub Checks (Check Suite and Check Run), ChatOps based on Pull Request
 
-> Git, GitHub Actions, Jenkins, CircleCI, Tekton CI, Argo Workflow, OpenShift, Weaveworks, Jenkins X, Argo Events, Argo Workflow, Image Updater
+> Git, GitHub Actions, Jenkins, CircleCI, Tekton CI, Argo Workflow, Weaveworks, Jenkins X, Argo Events, Argo Workflow, Image Updater
 
-> ArgoCD, FluxCD, Flagger
+> ArgoCD, FluxCD, Flagger, Rancher Fleet
 
 > Ansible Tower, Ansible AWX
 
