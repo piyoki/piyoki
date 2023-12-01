@@ -256,7 +256,7 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#391](https://github.com/techprober/cloud-estate/pull/391) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. 🎉 Merged PR [#42](https://github.com/yqlbu/umami/pull/42) in [yqlbu/umami](https://github.com/yqlbu/umami)
 2. 💪 Opened PR [#391](https://github.com/techprober/cloud-estate/pull/391) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 3. 🎉 Merged PR [#390](https://github.com/techprober/cloud-estate/pull/390) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 4. 💪 Opened PR [#390](https://github.com/techprober/cloud-estate/pull/390) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
