@@ -256,8 +256,8 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#42](https://github.com/yqlbu/umami/pull/42) in [yqlbu/umami](https://github.com/yqlbu/umami)
-2. 💪 Opened PR [#391](https://github.com/techprober/cloud-estate/pull/391) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. 🗣 Commented on [#102](https://github.com/philj56/tofi/issues/102#issuecomment-1836973285) in [philj56/tofi](https://github.com/philj56/tofi)
+2. 🎉 Merged PR [#42](https://github.com/yqlbu/umami/pull/42) in [yqlbu/umami](https://github.com/yqlbu/umami)
 3. 🎉 Merged PR [#390](https://github.com/techprober/cloud-estate/pull/390) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 4. 💪 Opened PR [#390](https://github.com/techprober/cloud-estate/pull/390) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 5. 🗣 Commented on [#39](https://github.com/daeuniverse/daed-1/issues/39#issuecomment-1817920134) in [daeuniverse/daed-1](https://github.com/daeuniverse/daed-1)
