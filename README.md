@@ -256,11 +256,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#65](https://github.com/Mange/rofi-emoji/issues/65#issuecomment-1837487277) in [Mange/rofi-emoji](https://github.com/Mange/rofi-emoji)
-2. 🎉 Merged PR [#15](https://github.com/rocats/repeater-v2/pull/15) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
-3. 💪 Opened PR [#15](https://github.com/rocats/repeater-v2/pull/15) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
-4. 🎉 Merged PR [#14](https://github.com/rocats/repeater-v2/pull/14) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
-5. 💪 Opened PR [#14](https://github.com/rocats/repeater-v2/pull/14) in [rocats/repeater-v2](https://github.com/rocats/repeater-v2)
+1. 🎉 Merged PR [#394](https://github.com/techprober/cloud-estate/pull/394) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+2. 💪 Opened PR [#394](https://github.com/techprober/cloud-estate/pull/394) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 🎉 Merged PR [#393](https://github.com/techprober/cloud-estate/pull/393) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+4. 💪 Opened PR [#393](https://github.com/techprober/cloud-estate/pull/393) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+5. 🎉 Merged PR [#392](https://github.com/techprober/cloud-estate/pull/392) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 
 <!--END_SECTION:activity-->
 
