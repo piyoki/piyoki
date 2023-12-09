@@ -256,11 +256,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#394](https://github.com/techprober/cloud-estate/pull/394) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-2. 💪 Opened PR [#394](https://github.com/techprober/cloud-estate/pull/394) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 🎉 Merged PR [#393](https://github.com/techprober/cloud-estate/pull/393) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-4. 💪 Opened PR [#393](https://github.com/techprober/cloud-estate/pull/393) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-5. 🎉 Merged PR [#392](https://github.com/techprober/cloud-estate/pull/392) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. ❗ Opened issue [#21](https://github.com/hsdevelops/cron-telebot/issues/21) in [hsdevelops/cron-telebot](https://github.com/hsdevelops/cron-telebot)
+2. 🎉 Merged PR [#394](https://github.com/techprober/cloud-estate/pull/394) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 💪 Opened PR [#394](https://github.com/techprober/cloud-estate/pull/394) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+4. 🎉 Merged PR [#393](https://github.com/techprober/cloud-estate/pull/393) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+5. 💪 Opened PR [#393](https://github.com/techprober/cloud-estate/pull/393) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 
 <!--END_SECTION:activity-->
 
