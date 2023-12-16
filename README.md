@@ -257,11 +257,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#12](https://github.com/techprober/k0s-ansible-provisioner/pull/12) in [techprober/k0s-ansible-provisioner](https://github.com/techprober/k0s-ansible-provisioner)
-2. 💪 Opened PR [#12](https://github.com/techprober/k0s-ansible-provisioner/pull/12) in [techprober/k0s-ansible-provisioner](https://github.com/techprober/k0s-ansible-provisioner)
-3. 🗣 Commented on [#21](https://github.com/hsdevelops/cron-telebot/issues/21#issuecomment-1848294562) in [hsdevelops/cron-telebot](https://github.com/hsdevelops/cron-telebot)
-4. 🔒 Closed issue [#21](https://github.com/hsdevelops/cron-telebot/issues/21) in [hsdevelops/cron-telebot](https://github.com/hsdevelops/cron-telebot)
-5. 🗣 Commented on [#21](https://github.com/hsdevelops/cron-telebot/issues/21#issuecomment-1848294519) in [hsdevelops/cron-telebot](https://github.com/hsdevelops/cron-telebot)
+1. ❗ Opened issue [#2](https://github.com/co-brew/brew-meet/issues/2) in [co-brew/brew-meet](https://github.com/co-brew/brew-meet)
+2. 🎉 Merged PR [#12](https://github.com/techprober/k0s-ansible-provisioner/pull/12) in [techprober/k0s-ansible-provisioner](https://github.com/techprober/k0s-ansible-provisioner)
+3. 💪 Opened PR [#12](https://github.com/techprober/k0s-ansible-provisioner/pull/12) in [techprober/k0s-ansible-provisioner](https://github.com/techprober/k0s-ansible-provisioner)
+4. 🗣 Commented on [#21](https://github.com/hsdevelops/cron-telebot/issues/21#issuecomment-1848294562) in [hsdevelops/cron-telebot](https://github.com/hsdevelops/cron-telebot)
+5. 🔒 Closed issue [#21](https://github.com/hsdevelops/cron-telebot/issues/21) in [hsdevelops/cron-telebot](https://github.com/hsdevelops/cron-telebot)
 
 <!--END_SECTION:activity-->
 
