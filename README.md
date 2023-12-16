@@ -145,6 +145,8 @@ spec:
 ![Trivy](https://custom-icon-badges.herokuapp.com/badge/-Trivy-000?&logo=aqua-trivy)
 ![Tracee](https://custom-icon-badges.herokuapp.com/badge/-Tracee-000?&logo=aqua-tracee)
 ![Vault](https://custom-icon-badges.herokuapp.com/badge/-Vault-000?&logo=vault)
+![CloudEvents](https://custom-icon-badges.herokuapp.com/badge/-CloudEvents-000?&logo=cloudevents)
+
 ##### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
