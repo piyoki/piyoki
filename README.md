@@ -260,8 +260,8 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#2](https://github.com/co-brew/brew-meet/issues/2) in [co-brew/brew-meet](https://github.com/co-brew/brew-meet)
-2. 🎉 Merged PR [#12](https://github.com/techprober/k0s-ansible-provisioner/pull/12) in [techprober/k0s-ansible-provisioner](https://github.com/techprober/k0s-ansible-provisioner)
+1. 🗣 Commented on [#851](https://github.com/kedacore/http-add-on/issues/851#issuecomment-1859085126) in [kedacore/http-add-on](https://github.com/kedacore/http-add-on)
+2. ❗ Opened issue [#2](https://github.com/co-brew/brew-meet/issues/2) in [co-brew/brew-meet](https://github.com/co-brew/brew-meet)
 3. 💪 Opened PR [#12](https://github.com/techprober/k0s-ansible-provisioner/pull/12) in [techprober/k0s-ansible-provisioner](https://github.com/techprober/k0s-ansible-provisioner)
 4. 🗣 Commented on [#21](https://github.com/hsdevelops/cron-telebot/issues/21#issuecomment-1848294562) in [hsdevelops/cron-telebot](https://github.com/hsdevelops/cron-telebot)
 5. 🔒 Closed issue [#21](https://github.com/hsdevelops/cron-telebot/issues/21) in [hsdevelops/cron-telebot](https://github.com/hsdevelops/cron-telebot)
