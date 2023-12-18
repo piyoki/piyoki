@@ -210,7 +210,7 @@ spec:
 
 ##### Message Queue
 
-> RabitMQ, MQTT, Apache Kafka, AWS SQS, Redis Async
+> RabitMQ, MQTT, Apache Kafka, AWS SQS, Redis Stream
 
 ##### Tracing, Monitoring, and Logging
 
