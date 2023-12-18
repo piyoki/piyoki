@@ -260,11 +260,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#368](https://github.com/daeuniverse/dae/issues/368#issuecomment-1860300804) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-2. 🎉 Merged PR [#396](https://github.com/techprober/cloud-estate/pull/396) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 💪 Opened PR [#396](https://github.com/techprober/cloud-estate/pull/396) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-4. 🎉 Merged PR [#395](https://github.com/techprober/cloud-estate/pull/395) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-5. 💪 Opened PR [#395](https://github.com/techprober/cloud-estate/pull/395) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+1. 🗣 Commented on [#2](https://github.com/co-brew/brew-meet/issues/2#issuecomment-1860708710) in [co-brew/brew-meet](https://github.com/co-brew/brew-meet)
+2. ❗ Opened issue [#7515](https://github.com/knative/eventing/issues/7515) in [knative/eventing](https://github.com/knative/eventing)
+3. 🗣 Commented on [#368](https://github.com/daeuniverse/dae/issues/368#issuecomment-1860300804) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+4. 🎉 Merged PR [#396](https://github.com/techprober/cloud-estate/pull/396) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+5. 💪 Opened PR [#396](https://github.com/techprober/cloud-estate/pull/396) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 
 <!--END_SECTION:activity-->
 
