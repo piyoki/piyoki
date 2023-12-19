@@ -260,11 +260,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7503](https://github.com/knative/eventing/issues/7503#issuecomment-1861125350) in [knative/eventing](https://github.com/knative/eventing)
-2. 🗣 Commented on [#7515](https://github.com/knative/eventing/issues/7515#issuecomment-1861111134) in [knative/eventing](https://github.com/knative/eventing)
-3. 🗣 Commented on [#7515](https://github.com/knative/eventing/issues/7515#issuecomment-1861099734) in [knative/eventing](https://github.com/knative/eventing)
-4. 🗣 Commented on [#2](https://github.com/co-brew/brew-meet/issues/2#issuecomment-1860708710) in [co-brew/brew-meet](https://github.com/co-brew/brew-meet)
-5. ❗ Opened issue [#7515](https://github.com/knative/eventing/issues/7515) in [knative/eventing](https://github.com/knative/eventing)
+1. 🗣 Commented on [#2](https://github.com/co-brew/brew-meet/issues/2#issuecomment-1861917791) in [co-brew/brew-meet](https://github.com/co-brew/brew-meet)
+2. 🗣 Commented on [#7515](https://github.com/knative/eventing/issues/7515#issuecomment-1861916749) in [knative/eventing](https://github.com/knative/eventing)
+3. 🗣 Commented on [#7515](https://github.com/knative/eventing/issues/7515#issuecomment-1861915062) in [knative/eventing](https://github.com/knative/eventing)
+4. 🗣 Commented on [#7503](https://github.com/knative/eventing/issues/7503#issuecomment-1861125350) in [knative/eventing](https://github.com/knative/eventing)
+5. 🗣 Commented on [#7515](https://github.com/knative/eventing/issues/7515#issuecomment-1861111134) in [knative/eventing](https://github.com/knative/eventing)
 
 <!--END_SECTION:activity-->
 
