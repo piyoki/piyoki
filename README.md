@@ -1,13 +1,13 @@
 ## 👋 Welcome 
 
-[![Headline Image](https://github.com/yqlbu/yqlbu/blob/master/assets/github-headline.png?raw=true)](https://github.com/yqlbu)
-
 [![](https://img.shields.io/badge/www.hikariai.net-up-brightegreen?style=for-the-badge)](https://www.hikariai.net)
 [![](https://img.shields.io/badge/link.hikariai.net-down-red?style=for-the-badge)](https://link.hikariai.net)
 
-## 🔒 PGP 
+## GitHub Stats
 
-[`B08F E264 4F9F C450 AF42 5FF5 B94F 394B 7288 4017`](https://github.com/yqlbu.gpg)
+<a href="https://github.com/yqlbu">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=yqlbu&show_icons=true&theme=light&line_height=30" alt="Kevin's github stats"/>
+</a>
 
 ## 👨🏻‍💻 About Me 
 
@@ -283,9 +283,3 @@ gitignore                   ▒░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-## GitHub Stats
-
-<a href="https://github.com/yqlbu">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=yqlbu&show_icons=true&theme=light&line_height=30" alt="Kevin's github stats"/>
-</a>
