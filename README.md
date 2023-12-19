@@ -6,7 +6,7 @@
 ## GitHub Stats
 
 <a href="https://github.com/yqlbu">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=yqlbu&show_icons=true&theme=light&line_height=30" alt="Kevin's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=yqlbu&show_icons=true&bg_color=00000000" alt="Kevin's github stats"/>
 </a>
 
 ## 👨🏻‍💻 About Me 
