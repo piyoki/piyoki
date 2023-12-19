@@ -260,11 +260,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#4](https://github.com/co-brew/brew-meet/pull/4) in [co-brew/brew-meet](https://github.com/co-brew/brew-meet)
-2. ❗ Opened issue [#3](https://github.com/co-brew/brew-meet/issues/3) in [co-brew/brew-meet](https://github.com/co-brew/brew-meet)
-3. 🗣 Commented on [#2](https://github.com/co-brew/brew-meet/issues/2#issuecomment-1861917791) in [co-brew/brew-meet](https://github.com/co-brew/brew-meet)
-4. 🗣 Commented on [#7515](https://github.com/knative/eventing/issues/7515#issuecomment-1861916749) in [knative/eventing](https://github.com/knative/eventing)
-5. 🗣 Commented on [#7515](https://github.com/knative/eventing/issues/7515#issuecomment-1861915062) in [knative/eventing](https://github.com/knative/eventing)
+1. 🗣 Commented on [#372](https://github.com/daeuniverse/dae/pull/372#issuecomment-1862616406) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+2. 💪 Opened PR [#4](https://github.com/co-brew/brew-meet/pull/4) in [co-brew/brew-meet](https://github.com/co-brew/brew-meet)
+3. ❗ Opened issue [#3](https://github.com/co-brew/brew-meet/issues/3) in [co-brew/brew-meet](https://github.com/co-brew/brew-meet)
+4. 🗣 Commented on [#2](https://github.com/co-brew/brew-meet/issues/2#issuecomment-1861917791) in [co-brew/brew-meet](https://github.com/co-brew/brew-meet)
+5. 🗣 Commented on [#7515](https://github.com/knative/eventing/issues/7515#issuecomment-1861916749) in [knative/eventing](https://github.com/knative/eventing)
 
 <!--END_SECTION:activity-->
 
