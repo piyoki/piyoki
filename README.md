@@ -260,11 +260,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7522](https://github.com/knative/eventing/issues/7522#issuecomment-1864400291) in [knative/eventing](https://github.com/knative/eventing)
-2. ❗ Opened issue [#7522](https://github.com/knative/eventing/issues/7522) in [knative/eventing](https://github.com/knative/eventing)
-3. 🗣 Commented on [#326](https://github.com/daeuniverse/dae/issues/326#issuecomment-1863673270) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-4. 🔒 Closed issue [#368](https://github.com/daeuniverse/dae/issues/368) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-5. 🎉 Merged PR [#373](https://github.com/daeuniverse/dae/pull/373) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+1. 🗣 Commented on [#7522](https://github.com/knative/eventing/issues/7522#issuecomment-1864512846) in [knative/eventing](https://github.com/knative/eventing)
+2. 🗣 Commented on [#7522](https://github.com/knative/eventing/issues/7522#issuecomment-1864506875) in [knative/eventing](https://github.com/knative/eventing)
+3. 🗣 Commented on [#7522](https://github.com/knative/eventing/issues/7522#issuecomment-1864450474) in [knative/eventing](https://github.com/knative/eventing)
+4. 🗣 Commented on [#7522](https://github.com/knative/eventing/issues/7522#issuecomment-1864400291) in [knative/eventing](https://github.com/knative/eventing)
+5. ❗ Opened issue [#7522](https://github.com/knative/eventing/issues/7522) in [knative/eventing](https://github.com/knative/eventing)
 
 <!--END_SECTION:activity-->
 
