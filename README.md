@@ -260,11 +260,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#368](https://github.com/daeuniverse/dae/issues/368) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-2. 🎉 Merged PR [#373](https://github.com/daeuniverse/dae/pull/373) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-3. 🗣 Commented on [#373](https://github.com/daeuniverse/dae/pull/373#issuecomment-1862938528) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
-4. 🗣 Commented on [#7515](https://github.com/knative/eventing/issues/7515#issuecomment-1862898022) in [knative/eventing](https://github.com/knative/eventing)
-5. 🔒 Closed issue [#7515](https://github.com/knative/eventing/issues/7515) in [knative/eventing](https://github.com/knative/eventing)
+1. 🗣 Commented on [#326](https://github.com/daeuniverse/dae/issues/326#issuecomment-1863673270) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+2. 🔒 Closed issue [#368](https://github.com/daeuniverse/dae/issues/368) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+3. 🎉 Merged PR [#373](https://github.com/daeuniverse/dae/pull/373) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+4. 🗣 Commented on [#373](https://github.com/daeuniverse/dae/pull/373#issuecomment-1862938528) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+5. 🗣 Commented on [#7515](https://github.com/knative/eventing/issues/7515#issuecomment-1862898022) in [knative/eventing](https://github.com/knative/eventing)
 
 <!--END_SECTION:activity-->
 
