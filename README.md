@@ -260,11 +260,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7522](https://github.com/knative/eventing/issues/7522#issuecomment-1864512846) in [knative/eventing](https://github.com/knative/eventing)
-2. 🗣 Commented on [#7522](https://github.com/knative/eventing/issues/7522#issuecomment-1864506875) in [knative/eventing](https://github.com/knative/eventing)
-3. 🗣 Commented on [#7522](https://github.com/knative/eventing/issues/7522#issuecomment-1864450474) in [knative/eventing](https://github.com/knative/eventing)
-4. 🗣 Commented on [#7522](https://github.com/knative/eventing/issues/7522#issuecomment-1864400291) in [knative/eventing](https://github.com/knative/eventing)
-5. ❗ Opened issue [#7522](https://github.com/knative/eventing/issues/7522) in [knative/eventing](https://github.com/knative/eventing)
+1. 🗣 Commented on [#376](https://github.com/daeuniverse/dae/pull/376#issuecomment-1865963143) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+2. 🗣 Commented on [#7522](https://github.com/knative/eventing/issues/7522#issuecomment-1864512846) in [knative/eventing](https://github.com/knative/eventing)
+3. 🗣 Commented on [#7522](https://github.com/knative/eventing/issues/7522#issuecomment-1864506875) in [knative/eventing](https://github.com/knative/eventing)
+4. 🗣 Commented on [#7522](https://github.com/knative/eventing/issues/7522#issuecomment-1864450474) in [knative/eventing](https://github.com/knative/eventing)
+5. 🗣 Commented on [#7522](https://github.com/knative/eventing/issues/7522#issuecomment-1864400291) in [knative/eventing](https://github.com/knative/eventing)
 
 <!--END_SECTION:activity-->
 
