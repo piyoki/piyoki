@@ -152,6 +152,7 @@ spec:
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
+![Java](https://custom-icon-badges.herokuapp.com/badge/-Java-000?&logo=Java-lang)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=darkred)
 ![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
 ![Groovy](https://img.shields.io/badge/-Groovy-000?&logo=ApacheGroovy)
