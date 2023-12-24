@@ -261,11 +261,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#399](https://github.com/techprober/cloud-estate/pull/399) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-2. 💪 Opened PR [#399](https://github.com/techprober/cloud-estate/pull/399) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 🎉 Merged PR [#398](https://github.com/techprober/cloud-estate/pull/398) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-4. 💪 Opened PR [#398](https://github.com/techprober/cloud-estate/pull/398) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-5. 💪 Opened PR [#594](https://github.com/agarrharr/awesome-cli-apps/pull/594) in [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
+1. 🗣 Commented on [#679](https://github.com/spotahome/redis-operator/issues/679#issuecomment-1868476765) in [spotahome/redis-operator](https://github.com/spotahome/redis-operator)
+2. 🎉 Merged PR [#400](https://github.com/techprober/cloud-estate/pull/400) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+3. 💪 Opened PR [#400](https://github.com/techprober/cloud-estate/pull/400) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+4. 🎉 Merged PR [#399](https://github.com/techprober/cloud-estate/pull/399) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+5. 💪 Opened PR [#399](https://github.com/techprober/cloud-estate/pull/399) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 
 <!--END_SECTION:activity-->
 
