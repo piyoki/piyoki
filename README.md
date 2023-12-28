@@ -261,11 +261,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/rocats/apigateway-interceptor/pull/1) in [rocats/apigateway-interceptor](https://github.com/rocats/apigateway-interceptor)
-2. 💪 Opened PR [#1](https://github.com/rocats/apigateway-interceptor/pull/1) in [rocats/apigateway-interceptor](https://github.com/rocats/apigateway-interceptor)
-3. 🎉 Merged PR [#1](https://github.com/rocats/helloworld-python/pull/1) in [rocats/helloworld-python](https://github.com/rocats/helloworld-python)
-4. 💪 Opened PR [#1](https://github.com/rocats/helloworld-python/pull/1) in [rocats/helloworld-python](https://github.com/rocats/helloworld-python)
-5. 🗣 Commented on [#3](https://github.com/co-brew/brew-meet/issues/3#issuecomment-1869278279) in [co-brew/brew-meet](https://github.com/co-brew/brew-meet)
+1. 🎉 Merged PR [#1](https://github.com/vertexbox/github-seed-actions/pull/1) in [vertexbox/github-seed-actions](https://github.com/vertexbox/github-seed-actions)
+2. 💪 Opened PR [#1](https://github.com/vertexbox/github-seed-actions/pull/1) in [vertexbox/github-seed-actions](https://github.com/vertexbox/github-seed-actions)
+3. 🎉 Merged PR [#1](https://github.com/rocats/apigateway-interceptor/pull/1) in [rocats/apigateway-interceptor](https://github.com/rocats/apigateway-interceptor)
+4. 💪 Opened PR [#1](https://github.com/rocats/apigateway-interceptor/pull/1) in [rocats/apigateway-interceptor](https://github.com/rocats/apigateway-interceptor)
+5. 🎉 Merged PR [#1](https://github.com/rocats/helloworld-python/pull/1) in [rocats/helloworld-python](https://github.com/rocats/helloworld-python)
 
 <!--END_SECTION:activity-->
 
