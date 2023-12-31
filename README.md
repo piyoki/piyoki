@@ -261,11 +261,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#401](https://github.com/techprober/cloud-estate/pull/401) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-2. 💪 Opened PR [#401](https://github.com/techprober/cloud-estate/pull/401) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
-3. 🎉 Merged PR [#2](https://github.com/vertexbox/github-seed-actions/pull/2) in [vertexbox/github-seed-actions](https://github.com/vertexbox/github-seed-actions)
-4. 💪 Opened PR [#2](https://github.com/vertexbox/github-seed-actions/pull/2) in [vertexbox/github-seed-actions](https://github.com/vertexbox/github-seed-actions)
-5. 🎉 Merged PR [#10](https://github.com/techprober/v2ray-rules-dat/pull/10) in [techprober/v2ray-rules-dat](https://github.com/techprober/v2ray-rules-dat)
+1. 🎉 Merged PR [#21](https://github.com/techprober/mosdns-lxc-deploy/pull/21) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
+2. 💪 Opened PR [#21](https://github.com/techprober/mosdns-lxc-deploy/pull/21) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
+3. 💪 Opened PR [#1996](https://github.com/v2fly/domain-list-community/pull/1996) in [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community)
+4. 🎉 Merged PR [#401](https://github.com/techprober/cloud-estate/pull/401) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
+5. 💪 Opened PR [#401](https://github.com/techprober/cloud-estate/pull/401) in [techprober/cloud-estate](https://github.com/techprober/cloud-estate)
 
 <!--END_SECTION:activity-->
 
