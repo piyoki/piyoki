@@ -261,11 +261,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#4](https://github.com/yqlbu/github-seed-actions/issues/4) in [yqlbu/github-seed-actions](https://github.com/yqlbu/github-seed-actions)
-2. 🔒 Closed issue [#3](https://github.com/yqlbu/github-seed-actions/issues/3) in [yqlbu/github-seed-actions](https://github.com/yqlbu/github-seed-actions)
-3. 🔒 Closed issue [#2](https://github.com/yqlbu/github-seed-actions/issues/2) in [yqlbu/github-seed-actions](https://github.com/yqlbu/github-seed-actions)
-4. 🎉 Merged PR [#3](https://github.com/vertexbox/github-seed-actions/pull/3) in [vertexbox/github-seed-actions](https://github.com/vertexbox/github-seed-actions)
-5. 💪 Opened PR [#3](https://github.com/vertexbox/github-seed-actions/pull/3) in [vertexbox/github-seed-actions](https://github.com/vertexbox/github-seed-actions)
+1. ❌ Closed PR [#1996](https://github.com/v2fly/domain-list-community/pull/1996) in [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community)
+2. 🗣 Commented on [#1996](https://github.com/v2fly/domain-list-community/pull/1996#issuecomment-1873285720) in [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community)
+3. 🔒 Closed issue [#4](https://github.com/yqlbu/github-seed-actions/issues/4) in [yqlbu/github-seed-actions](https://github.com/yqlbu/github-seed-actions)
+4. 🔒 Closed issue [#3](https://github.com/yqlbu/github-seed-actions/issues/3) in [yqlbu/github-seed-actions](https://github.com/yqlbu/github-seed-actions)
+5. 🔒 Closed issue [#2](https://github.com/yqlbu/github-seed-actions/issues/2) in [yqlbu/github-seed-actions](https://github.com/yqlbu/github-seed-actions)
 
 <!--END_SECTION:activity-->
 
