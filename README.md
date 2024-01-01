@@ -261,11 +261,11 @@ spec:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1996](https://github.com/v2fly/domain-list-community/pull/1996#issuecomment-1873098030) in [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community)
-2. 🎉 Merged PR [#22](https://github.com/techprober/mosdns-lxc-deploy/pull/22) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
-3. 💪 Opened PR [#22](https://github.com/techprober/mosdns-lxc-deploy/pull/22) in [techprober/mosdns-lxc-deploy](https://github.com/techprober/mosdns-lxc-deploy)
-4. 🗣 Commented on [#1996](https://github.com/v2fly/domain-list-community/pull/1996#issuecomment-1872909044) in [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community)
-5. 🗣 Commented on [#1996](https://github.com/v2fly/domain-list-community/pull/1996#issuecomment-1872908405) in [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community)
+1. 🔒 Closed issue [#4](https://github.com/yqlbu/github-seed-actions/issues/4) in [yqlbu/github-seed-actions](https://github.com/yqlbu/github-seed-actions)
+2. 🔒 Closed issue [#3](https://github.com/yqlbu/github-seed-actions/issues/3) in [yqlbu/github-seed-actions](https://github.com/yqlbu/github-seed-actions)
+3. 🔒 Closed issue [#2](https://github.com/yqlbu/github-seed-actions/issues/2) in [yqlbu/github-seed-actions](https://github.com/yqlbu/github-seed-actions)
+4. 🎉 Merged PR [#3](https://github.com/vertexbox/github-seed-actions/pull/3) in [vertexbox/github-seed-actions](https://github.com/vertexbox/github-seed-actions)
+5. 💪 Opened PR [#3](https://github.com/vertexbox/github-seed-actions/pull/3) in [vertexbox/github-seed-actions](https://github.com/vertexbox/github-seed-actions)
 
 <!--END_SECTION:activity-->
 
