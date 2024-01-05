@@ -265,7 +265,7 @@ spec:
 2. ❌ Closed PR [#6](https://github.com/daeuniverse/dae-1/pull/6) in [daeuniverse/dae-1](https://github.com/daeuniverse/dae-1)
 3. ❌ Reopened PR [#6](https://github.com/daeuniverse/dae-1/pull/6) in [daeuniverse/dae-1](https://github.com/daeuniverse/dae-1)
 4. ❌ Closed PR [#6](https://github.com/daeuniverse/dae-1/pull/6) in [daeuniverse/dae-1](https://github.com/daeuniverse/dae-1)
-5. 🗣 Commented on [#408](https://github.com/daeuniverse/dae/issues/408#issuecomment-1876877037) in [daeuniverse/dae](https://github.com/daeuniverse/dae)
+5. ❌ Reopened PR [#6](https://github.com/daeuniverse/dae-1/pull/6) in [daeuniverse/dae-1](https://github.com/daeuniverse/dae-1)
 
 <!--END_SECTION:activity-->
 
