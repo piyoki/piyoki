@@ -257,18 +257,6 @@ spec:
 
 <u>[More posts](https://hikariai.net)</u>
 
-## Daily Activity Summary
-
-<!--START_SECTION:activity-->
-
-1. ❌ Closed PR [#6](https://github.com/daeuniverse/dae-1/pull/6) in [daeuniverse/dae-1](https://github.com/daeuniverse/dae-1)
-2. ❌ Reopened PR [#6](https://github.com/daeuniverse/dae-1/pull/6) in [daeuniverse/dae-1](https://github.com/daeuniverse/dae-1)
-3. ❌ Closed PR [#6](https://github.com/daeuniverse/dae-1/pull/6) in [daeuniverse/dae-1](https://github.com/daeuniverse/dae-1)
-4. ❌ Reopened PR [#6](https://github.com/daeuniverse/dae-1/pull/6) in [daeuniverse/dae-1](https://github.com/daeuniverse/dae-1)
-5. ❌ Closed PR [#6](https://github.com/daeuniverse/dae-1/pull/6) in [daeuniverse/dae-1](https://github.com/daeuniverse/dae-1)
-
-<!--END_SECTION:activity-->
-
 ## Weekly Activity Summary
 
 <!--START_SECTION:waka-->
