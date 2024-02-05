@@ -156,7 +156,7 @@ spec:
 ![Java](https://custom-icon-badges.herokuapp.com/badge/-Java-000?&logo=Java-lang)
 ![Shell](https://img.shields.io/badge/-Shell-000?&logo=GNOMETerminal)
 ![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
-![Nix](https://img.shields.io/badge/-Shell-000?&logo=NixOS)
+![Nix](https://img.shields.io/badge/-Nix-000?&logo=NixOS)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=darkred)
 ![Groovy](https://img.shields.io/badge/-Groovy-000?&logo=ApacheGroovy)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
