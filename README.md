@@ -21,7 +21,7 @@ metadata:
     app: about-me
   annotations:
     api.hikariai.net/nickname: "kev"
-    api.hikariai.net/fun-facts: [ "Linux is a must", "I use Arch BTW", "Vim Professional" ]
+    api.hikariai.net/fun-facts: [ "Linux is a must", "I use Arch and Nix BTW", "Vim Professional" ]
     api.hikariai.net/roles: [ "Community Blogger", "Cloud Solution Architect", "DevOps Specialist", "Release Specialist", "Security Specialist", "Networking Professional" ]
     api.hikariai.net/current-role: "Sr. SRE (Senior Site Reliability Engineer)"
     api.hikariai.net/community: [ "@openfaas", "knative", "@cncf", "@kubernetes", "@cilium", "@juicedata", "@techprober", "@vertexbox" ]
@@ -156,6 +156,7 @@ spec:
 ![Java](https://custom-icon-badges.herokuapp.com/badge/-Java-000?&logo=Java-lang)
 ![Shell](https://img.shields.io/badge/-Shell-000?&logo=GNOMETerminal)
 ![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
+![Nix](https://img.shields.io/badge/-Shell-000?&logo=NixOS)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=darkred)
 ![Groovy](https://img.shields.io/badge/-Groovy-000?&logo=ApacheGroovy)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
