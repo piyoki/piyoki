@@ -76,7 +76,7 @@ spec:
 ![Nix](https://img.shields.io/badge/-Nix-000?&logo=NixOS)
 ![Fedora](https://img.shields.io/badge/-Fedora-000?&logo=Fedora)
 ![OpenSUSE](https://img.shields.io/badge/-openSUSE-000?&logo=suse&logoColor=green)
-![RockyLinux](https://img.shields.io/badge/-RockyLinux-000?&logo=rockylinux)
+![Rocky](https://img.shields.io/badge/-RockyLinux-000?&logo=rocky)
 ![RHEL](https://img.shields.io/badge/-RHEL-000?&logo=RedHat&logoColor=red)
 ![Debian](https://img.shields.io/badge/-Debian-000?&logo=Debian&logoColor=red)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
