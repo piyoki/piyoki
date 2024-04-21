@@ -32,7 +32,7 @@ spec:
     - [x] CKAD (Certified Kubernetes Application Developer), certified in 2022
     - [x] CKS (Certified Kubernetes Security Specialist), certified in 2023
     - [x] AWS SAP (AWS Solution Architect Professional), certified in 2024
-    - [ ] AWS SS (AWS Security Specialty), roadmap in 2024
+    - [x] AWS SS (AWS Security Specialty), certified in 2024
     - [ ] AWS ANS (AWS Advanced Networking Specialist), roadmap in 2024
     - [ ] CCNA (Cisco Certified Network Associate), roadmap in 2025
     - [ ] CCNP (Cisco Certified Network Professional), roadmap in 2025
@@ -67,6 +67,7 @@ spec:
 
 ## Certifications
 
+<img src="https://github.com/miooochi/miooochi/assets/31861128/e4716a48-03e9-4f25-968b-5088c7408e6e" border="0" width="10%">
 <img src="https://github.com/miooochi/miooochi/assets/31861128/fa15e3cb-0741-4b74-83f7-3627941e1ed3" border="0" width="10%">
 <img src="https://github.com/miooochi/miooochi/assets/31861128/77a2d702-4b79-4eb2-92b5-d8ff13274797" border="0" width="10%">
 <img src="https://github.com/miooochi/miooochi/assets/31861128/28767e55-3583-4cf5-83bc-5e94b71984f1" border="0" width="10%">
