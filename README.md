@@ -21,7 +21,7 @@ metadata:
     app: about-me
   annotations:
     api.hikariai.net/nickname: "kev"
-    api.hikariai.net/summary: "Senior SRE | 4x Certified | DevSecOps, Networking, Cybersecurity, Serverless Computing, Cloud Solutions Architect"
+    api.hikariai.net/summary: "Senior SRE | 5x Certified | AWS, DevSecOps, Networking, Cybersecurity, Serverless Computing, Cloud Solutions Architect"
     api.hikariai.net/fun-facts: [ "Linux is a must", "I use Nix BTW", "Vim Professional" ]
     api.hikariai.net/community: [ "@NixOS", "NixOS-Pilots", "knative", "@cncf", "@kubernetes", "@cilium", "@juicedata", "@techprober", "@vertexbox" ]
     api.hikariai.net/website: "https://www.hikariai.net"
