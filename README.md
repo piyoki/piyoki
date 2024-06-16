@@ -1,8 +1,5 @@
 ## 👋 Welcome 
 
-[![](https://img.shields.io/badge/www.hikariai.net-up-brightegreen?style=for-the-badge)](https://www.hikariai.net)
-[![](https://img.shields.io/badge/link.hikariai.net-down-red?style=for-the-badge)](https://link.hikariai.net)
-
 ## GitHub Stats
 
 <a href="https://github.com/miooochi">
@@ -253,16 +250,6 @@ spec:
 ##### Edge (IoT) Computing
 
 > PWM Control, Motor Control, Lidar Control, Relay Control
-
-## 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [CKA, CKAD Prep](/blog/27-cka-ckad-prep/)
-- [Mosdns - The next generation DNS Resolver](/blog/26-mosdns-the-next-generation-dns-resolver/)
-- [GitOps 101: What’s it all about?](/blog/25-gitops-101-whats-it-all-about/)
-- [Use Packer like a Pro](/blog/24-use-packer-like-a-pro/)
-- [Virtualize unRAID Server in VMWare ESXi 7.0](/blog/23-virtualize-unraid-server-in-vmware-esxi-7.0/)
-<!-- BLOG-POST-LIST:END -->
 
 <u>[More posts](https://hikariai.net)</u>
 
