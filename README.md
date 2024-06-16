@@ -249,8 +249,6 @@ spec:
 
 > PWM Control, Motor Control, Lidar Control, Relay Control
 
-<u>[More posts](https://hikariai.net)</u>
-
 ## Weekly Activity Summary
 
 <!--START_SECTION:waka-->
