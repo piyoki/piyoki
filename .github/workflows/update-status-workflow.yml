@@ -17,12 +17,12 @@ jobs:
           SHOW_TITLE: true
 
   # Update blog posts
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          # you can change this to your own RSS feed
-          feed_list: "https://hikariai.net/index.xml"
+  # update-readme-with-blog:
+  #  name: Update this repo's README with latest blog posts
+  #  runs-on: ubuntu-latest
+  #  steps:
+  #    - uses: actions/checkout@v2
+  #    - uses: gautamkrishnar/blog-post-workflow@master
+  #      with:
+  #        # you can change this to your own RSS feed
+  #        feed_list: "https://hikariai.net/index.xml"
