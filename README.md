@@ -44,8 +44,6 @@ spec:
     business: [ "Technical Writing", "Public Speaking", "Advocacy and Outreach", "Host Events" ]
 ```
 
-📫 How to reach me: [Link Page](https://link.hikariai.net)
-
 ✅ Goals: Contribute more to open-source projects
 
 ## Contacts
