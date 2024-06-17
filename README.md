@@ -49,10 +49,6 @@ spec:
 ## Contacts
 
 [![ProfileView: miooochi](https://komarev.com/ghpvc/?username=miooochi&label=Profile+View&color=red&style=flat-square)](https://github.com/miooochi)
-[![Discord: techprober](https://img.shields.io/badge/Discord-TechProber-blueviolet?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/hyNwvjtBJ7)](https://discord.gg/hyNwvjtBJ7)
-[![Twitch: Miooochi](https://img.shields.io/badge/Twitch-Miooochi-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/TheDevOpsNut)](https://www.twitch.tv/TheDevOpsNut)
-[![website](https://img.shields.io/badge/Personal%20Website-hikariai.net-purple?style=flat-square&logo=Hugo)](https://hikariai.net/)
-[![RSS](https://img.shields.io/badge/RSS-hikariai.net-blue?style=flat-square&logo=rss)](https://www.hikariai.net/index.xml)
 
 ## Repos
 
