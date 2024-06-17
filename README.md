@@ -46,10 +46,6 @@ spec:
 
 ✅ Goals: Contribute more to open-source projects
 
-## Contacts
-
-[![ProfileView: miooochi](https://komarev.com/ghpvc/?username=miooochi&label=Profile+View&color=red&style=flat-square)](https://github.com/miooochi)
-
 ## Repos
 
 [![Repo](https://custom-icon-badges.herokuapp.com/badge/-Personal%20Repos-black?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/miooochi)
