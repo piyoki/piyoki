@@ -49,7 +49,6 @@ spec:
 ## Repos
 
 [![Repo](https://custom-icon-badges.herokuapp.com/badge/-Personal%20Repos-black?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/piyoki)
-[![Repo](https://custom-icon-badges.herokuapp.com/badge/-Team%20Repos-black?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/TechProber)
 [![Repo](https://custom-icon-badges.herokuapp.com/badge/-Gist%20Repos-black?style=for-the-badge&logoColor=white&logo=repo)](https://gist.github.com/piyoki)
 
 ## Certifications
