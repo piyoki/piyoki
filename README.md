@@ -26,7 +26,6 @@ metadata:
     api.hikariai.net/community: [ "@NixOS", "NixOS-Pilots", "knative", "@cncf", "@kubernetes", "@cilium", "@juicedata", "@techprober", "@vertexbox" ]
     api.hikariai.net/goal: "Contribute projects globally"
     api.hikariai.net/bio: |
-
       My experience and knowledge (both in heavy quotes) spans over multiple languages, my primary
       focus is DevSecOps and CloudComputing. I sometimes use Go and Python for backend development.
 
