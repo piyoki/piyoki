@@ -41,7 +41,7 @@ spec:
     - Proficient in Japanese
   skills:
     core: [ "Linux", "Enterprise Cloud Solution", "Enterprise Storage Solution", "Enterprise Integrated Compliance Firewall", "IT Security", "Advanced Networking", "Enterprise SD-WAN Solution" ]
-    cloud: [ "AWS", "GCP", "Oracle Cloud", "Proxmox VE", "VMware vCenter", "CIVO" ]
+    cloud: [ "AWS", "GCP", "Oracle Cloud", "Azure", "Proxmox VE", "VMware vCenter" ]
     devops: [ "Platform Engineering, "Containerization", "Kubernetes", "CloudNative", "DevSecOps", "GitOps", "Serverless" ]
     business: [ "Technical Writing", "Public Speaking", "Advocacy and Outreach", "Host Events" ]
 ```
@@ -173,7 +173,7 @@ metadata:
   labels:
     app: my-skillset
   annotations:
-    api.hikariai.net/tracks: [ "Linux", "AWS", "DevSecOps", "Networking", "Cybersecurity", "Serverless Computing", "Kubernetes" ]
+    api.hikariai.net/tracks: [ "Linux", "AWS", "DevSecOps", "Networking", "Cybersecurity", "Serverless Computing", "CloudNative", "Kubernetes" ]
 spec:
   AWS: [ "S3", "EBS", "EFS", "VPC", "VPCE", "Service Endpoint", "Private Link", "Direct Link", "VPC Peering", "API Gateway", "EKS", "ECS", "EC2", "Route 53", "StepFunction", "Lambda", "RDS", "Aurora", "DynamoDB", "CloudFront", "TransitGateway", "CloudWatch", "QuickSight", "RedShift", "SNS", "SQS", "OpenSearch", "KinesisDataStream", "KinesisDataFirehose", "ElasticCache" ]
   Web Development: [ "Flask", "Go-Gin", "NodeJS", "ExpressJS", "ReactJS", "AngularJS", "RxJS", "Yarn", "Webpack", "FastAPI" ]
