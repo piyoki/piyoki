@@ -1,4 +1,7 @@
-## 👋 Welcome 
+## 👋 Welcome
+
+[![pgp](https://img.shields.io/badge/pgp-0x94D6346D64755A07-313131?style=flat&labelColor=545454&color=313131)](https://gist.githubusercontent.com/piyoki/c02f59d6622d9398395fcdd235106b12/raw/cf5ee5319a6f0d9deb4ce9e25913de781fe5a7e4/03F0DA2F40D284FCB33A182A72342911D7967CEB.asc) 
+[![views](https://komarev.com/ghpvc/?username=piyoki&style=flat&color=313131&label=views)](https://github.com/piyoki)
 
 ## GitHub Stats
 
