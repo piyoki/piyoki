@@ -30,7 +30,7 @@ metadata:
       focus is DevSecOps and CloudComputing. I sometimes use Go and Python for backend development.
 
       - 📅 Programming since 2013
-      - ⛵ Working as a Solutions Architect
+      - ⛵ Working as a Cloud Solutions Architect
       - 🏫 Part-time CloudNative and DevSecOps instructor, forever student
       - 🖥️ NixOS / Hyprland / Neovim
       - 👨 Despite its shortcomings, Golang is my go-to language
