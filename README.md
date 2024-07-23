@@ -165,83 +165,35 @@ spec:
 ![PromQL](https://img.shields.io/badge/-PromQL-000?&logo=Prometheus)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
 
-##### AWS
-
-> S3, EBS, EFS, VPC, VPCE, Service Endpoint, Private Link, Direct Link, VPC Peering, API Gateway, EKS, ECS, EC2, Route 53, StepFunction, Lambda, RDS, Aurora, DynamoDB, CloudFront, TransitGateway, CloudWatch, QuickSight, RedShift, SNS, SQS, OpenSearch, KinesisDataStream, KinesisDataFirehose, ElasticCache
-
-##### Web Development
-
-> Flask, Go-Gin, NodeJS, ExpressJS, ReactJS, AngularJS, RxJS, Yarn, Webpack, FastAPI
-
-##### Database
-
-> ETCD, MongoDB, MySQL, MariaDB, PostgreSQL, Firestore, InfluxDB, Redis, AWS DynamoDB, AWS Aurora, Cassandra
-
-##### Storage & Distributed File System
-
-> iSCSI, NFS, Samba, Volume Storage, Bucket Storage, File Storage, CloudNative CSI (Container Storage Interface)
-
-##### DevOps, Release, and GitOps
-
-> Platform Engineering, CI (Continuous Integration), CD (Continuous Deployment), CO (Continuous Operation)
-
-> GitHub Checks (Check Suite and Check Run), ChatOps based on Pull Request
-
-> Git, GitHub Actions, Jenkins, CircleCI, Tekton CI, Argo Workflow, Weaveworks, Jenkins X, Argo Events, Argo Workflow, Image Updater
-
-> ArgoCD, FluxCD, Flagger, Rancher Fleet
-
-> Ansible Tower, Ansible AWX
-
-> Progressive Delivery, Blue/Green Deployment, Canary Deployment
-
-##### Networking and Firewall
-
-> L2/L3/L4/L7 TCP/IP Networking Fundamentals, VLAN, Pfsense, OPNSense, Sophos-XG-Firewall, Cloud Router, IPS, DDoS Protection, CDN, Proxy Tunnel, SD-WAN Solution
-
-##### Infrastructure as Code, Template as Code, and Configuration as Code
-
-> Pulumi, CrossPlane, Terraform, Terragrunt, Packer, Cloud-init, Ansible, LXC
-
-##### Serverless & Cloud Function (FaaS, or Function as a Service)
-
-> Fn, Oracle Functions, Google Cloud Functions, AWS Lambda, Vercel Serverless Function, AWS Fargate (Serverless way to launch containers), OpenFaaS
-
-##### Message Queue
-
-> RabitMQ, MQTT, Apache Kafka, AWS SQS, Redis Stream
-
-##### Tracing, Monitoring, and Logging
-
-> OpeneTelemetry, Prometheus, Kiali, Grafana, Weaveworks, Loki, ELK Stack (ElasticSearch), Fluentd, Fluentbit
-
-##### Cloud Hosting
-
-> vSphere, vCenter, Proxmox VE, AWS, Azure, Google Cloud, Huawei Cloud, Oracle Cloud, AliCloud, Bandwagon VPS Hosting, Tencent Cloud, Linnode, Vultr, Civo, Hetzner
-
-##### Container Runtime, Orchestration, and Provision
-
-> Docker, Kata Container, CRI-O, Containerd, Docker Swarm, Rancher (k3s), CloudFoundry, Kubernetes (k8s), OpenShift, AWS EKS, GKE, OKE, K3D, K0S, MiniKube, Kind
-
-##### LoadBalancer, Service Mesh Solutions, and API Gateway
-
-> HAproxy, Nginx, Trafik, Istio, Linkerd, Envoy, Consul, Kong, Cilium Sidecarless Service Mesh
-
-##### Secret Management
-
-> Hashicorp Vault
-
-##### Cloud-Native Solutions
-
-> gRPC, Helm, Keel (Automation tool for Kubernetes deployment updates), Argo CD, Flux CD, ArgoWorkflow, Tekton CI (Kubernetes Native CI), Kafka (Stream Processing), Harbor (Private Container Repository), Longhorn (Cloud Native Distributed Storage), CloudNative Buildpack, Kaniko (Container Image Builder), EFK Stack, FluentBit, Fluentd (Log Management), Knative, KubeFlow, KubeEdge, Nvidia Operator, Flagger (Service Deployment Operator), Kubeseal (Secret Operator), KubeLinter (Configuration Sanity Checker), KubeVela (OAM Implementation), Kogito (Serverless Workflow), Zipkin (Traces and Latency), NeoLoad (Load Testing), Keptn (Cloud Native Application Life-cycle Orchestration), Velero (Backups), GatesKeeper (Admision Controller), KubeMQ (Enterprise-Grade Message Broker), Apache Pulsar (Alternative to Apache Kafka), Capsule (Multi-Tenant Kubernetes Cluster), VCluser (Virtual Cluster together with PR), DevSpace (Developer Tool for Kubernetes), Keda (Kubernetes Event-driven Autoscaling), Dapr (Microservice Runtime System), Karmada (Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration), Sysbox (Next generation Container Runtime), Flagger (Progressive Delivery), OpenTelemetry (Tracing Tool), Jenkins X (Native CICD Pipeline Engine), Cilium (eBPF-based Networking, Observability, Security), Tetragon (eBPF-based transparent security observability), kpack (Native Container Build Service), Trivy (comprehensive and versatile security scanner), Kyverno (Kubernetes Native Policy Management), Falco (Cloud Native Runtime Security), OPA (Cloud Native policy engine), Karpenter (Kubernetes Node Autoscaler), Pixie (eBPF Kubernetes-Native Application Observability), Robusta (Kubernetes observability and automation)
-
-##### Artificial Intelligence
-
-> Computer Visuals, Scientific Computing, Model Training, Linear Regression, Transfer Learning
-
-##### Edge (IoT) Computing
-
-> PWM Control, Motor Control, Lidar Control, Relay Control
+```yaml
+---
+apiVersion: api.hikariai.net/v1beta1
+kind: Skillset
+metadata:
+  name: my-skillset
+  labels:
+    app: my-skillset
+  annotations:
+    api.hikariai.net/nickname: "kev"
+spec:
+  AWS: [ "S3", "EBS", "EFS", "VPC", "VPCE", "Service Endpoint", "Private Link", "Direct Link", "VPC Peering", "API Gateway", "EKS", "ECS", "EC2", "Route 53", "StepFunction", "Lambda", "RDS", "Aurora", "DynamoDB", "CloudFront", "TransitGateway", "CloudWatch", "QuickSight", "RedShift", "SNS", "SQS", "OpenSearch", "KinesisDataStream", "KinesisDataFirehose", "ElasticCache" ]
+  Web Development: [ "Flask", "Go-Gin", "NodeJS", "ExpressJS", "ReactJS", "AngularJS", "RxJS", "Yarn", "Webpack", "FastAPI" ]
+  Database: [ "ETCD", "MongoDB", "MySQL", "MariaDB", "PostgreSQL", "Firestore", "InfluxDB", "Redis", "AWS DynamoDB", "AWS Aurora", "Cassandra" ]
+  Storage & Distributed File System: [ "iSCSI", "NFS", "Samba", "Volume Storage", "Bucket Storage", "File Storage", "CloudNative CSI (Container Storage Interface)" ]
+  DevOps, Release, and GitOps: [ "Platform Engineering", "CI (Continuous Integration)", "CD (Continuous Deployment)", "CO (Continuous Operation)", "ChatOps", "GitHub Actions", "Jenkins", "CircleCI", "Tekton CI", "Argo Workflow", "Weaveworks", "Jenkins X", "Argo Events", "Argo Workflow", "Image Updater", "ArgoCD", "FluxCD", "Flagger", "Rancher Fleet", "Ansible Tower", "AWX", "Progressive Delivery", "Blue/Green Deployment", "Canary Deployment" ]
+  Networking and Firewall: [ "L2/L3/L4/L7 TCP/IP Networking Fundamentals", "VLAN", "Pfsense", "OPNSense", "Sophos-XG-Firewall", "Cloud Router", "IPS", "DDoS Protection", "CDN", "Proxy Tunnel", "SD-WAN Solution" ]
+  Infrastructure as Code, Template as Code, and Configuration as Code: [ "Pulumi", "CrossPlane", "Terraform", "Terragrunt", "Packer", "Cloud-init", "Ansible", "LXC" ]
+  Serverless or FaaS: [ "Fn", "Oracle Functions", "Google Cloud Functions", "AWS Lambda", "Vercel Serverless Function", "AWS Fargate (Serverless way to launch containers)", "OpenFaaS" ]
+  Pub-Sub or Message Queue: [ "RabitMQ", "MQTT", "Apache Kafka", "AWS SQS", "Redis Stream" ]
+  Tracing, Monitoring, and Logging: [ "OpeneTelemetry", "Prometheus", "Kiali", "Grafana", "Weaveworks", "Loki", "ELK Stack (ElasticSearch)", "Fluentd", "Fluentbit" ]
+  Cloud Hosting: [ "vSphere", "vCenter", "Proxmox VE", "AWS", "Azure", "Google Cloud", "Huawei Cloud", "Oracle Cloud", "AliCloud", "Bandwagon VPS Hosting", "Tencent Cloud", "Linnode", "Vultr", "Civo", "Hetzner" ]
+  Container Runtime, Orchestration, and Provision: [ "Docker", "Kata Container", "CRI-O", "Containerd", "Docker Swarm", "Rancher (k3s)", "CloudFoundry", "Kubernetes (k8s)", "OpenShift", "AWS EKS", "GKE", "OKE", "K3D", "K0S", "MiniKube", "Kind" ]
+  LoadBalancer, Service Mesh Solutions, and API Gateway: [ "HAproxy", "Nginx", "Trafik", "Istio", "Linkerd", "Envoy", "Consul", "Kong", "Cilium Sidecarless Service Mesh" ]
+  Secret Management: [ "Hashicorp Vault" ]
+  Cloud-Native Solutions: [ "gRPC", "Helm", "Keel", "Argo CD", "Flux CD", "ArgoWorkflow", "Tekton CI", "Kafka", "Harbor", "Longhorn", "Buildpack", "Kaniko", "EFK Stack", "FluentBit", "Fluentd", "Knative", "KubeFlow", "KubeEdge", "Flagger", "Kubeseal", "KubeLinter", "KubeVela", "Kogito", "Zipkin", "NeoLoad", "Keptn", "Velero", "GatesKeeper", "KubeMQ", "Apache Pulsar", "Capsule", "VCluster", "DevSpace", "Keda", "Dapr", "Karmada", "Sysbox", "OpenTelemetry", "Jenkins X", "Cilium", "Tetragon", "KPack", "Trivy", "Kyverno", "Falco", "OpenPolicyAgent", "Karpenter", "Pixie", "Robusta" ]
+  Artificial Intelligence: [ "Computer Visuals", "Scientific Computing", "Model Training", "Linear Regression", "Transfer Learning", "Federal Learning" ]
+  Edge (IoT) Computing: [ "PWM Control", "Motor Control", "Lidar Control", "Relay Control" ]
+```
 
 ## Weekly Activity Summary
 
