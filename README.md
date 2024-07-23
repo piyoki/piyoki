@@ -174,7 +174,7 @@ metadata:
   labels:
     app: my-skillset
   annotations:
-    api.hikariai.net/nickname: "kev"
+    api.hikariai.net/tracks: [ "Linux", "AWS", "DevSecOps", "Networking", "Cybersecurity", "Serverless Computing", "Kubernetes" ]
 spec:
   AWS: [ "S3", "EBS", "EFS", "VPC", "VPCE", "Service Endpoint", "Private Link", "Direct Link", "VPC Peering", "API Gateway", "EKS", "ECS", "EC2", "Route 53", "StepFunction", "Lambda", "RDS", "Aurora", "DynamoDB", "CloudFront", "TransitGateway", "CloudWatch", "QuickSight", "RedShift", "SNS", "SQS", "OpenSearch", "KinesisDataStream", "KinesisDataFirehose", "ElasticCache" ]
   Web Development: [ "Flask", "Go-Gin", "NodeJS", "ExpressJS", "ReactJS", "AngularJS", "RxJS", "Yarn", "Webpack", "FastAPI" ]
