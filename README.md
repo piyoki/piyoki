@@ -24,7 +24,6 @@ metadata:
     api.hikariai.net/summary: "5x Certified | Senior SRE | Cloud Solutions Architect | Linux, AWS, DevSecOps, Networking, Cybersecurity, Serverless Computing, Kubernetes"
     api.hikariai.net/fun-facts: [ "Linux is a must", "I use Nix BTW", "Vim Professional" ]
     api.hikariai.net/community: [ "@NixOS", "NixOS-Pilots", "knative", "@cncf", "@kubernetes", "@cilium", "@juicedata", "@techprober", "@vertexbox" ]
-    api.hikariai.net/website: "https://www.hikariai.net"
     api.hikariai.net/goal: "Contribute projects globally"
 spec:
   certifications:
