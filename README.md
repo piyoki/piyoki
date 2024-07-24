@@ -196,7 +196,7 @@ spec:
   Infrastructure as Code, Template as Code, and Configuration as Code: [ "Pulumi", "CrossPlane", "Terraform", "Terragrunt", "Packer", "Cloud-init", "Ansible", "LXC" ]
   Serverless or FaaS: [ "Fn", "Oracle Functions", "Google Cloud Functions", "AWS Lambda", "Vercel Serverless Function", "AWS Fargate (Serverless way to launch containers)", "OpenFaaS" ]
   Pub-Sub or Message Queue: [ "RabitMQ", "MQTT", "Apache Kafka", "AWS SQS", "Redis Stream" ]
-  Tracing, Monitoring, and Logging: [ "OpeneTelemetry", "Prometheus", "Kiali", "Grafana", "Weaveworks", "Loki", "ELK Stack (ElasticSearch)", "Fluentd", "Fluentbit" ]
+  Tracing, Monitoring, and Logging: [ "OpeneTelemetry", "Prometheus", "Kiali", "Grafana", "Loki", "ELK Stack (ElasticSearch)", "Fluentd", "Fluentbit" ]
   Cloud Hosting: [ "vSphere", "vCenter", "Proxmox VE", "AWS", "Azure", "Google Cloud", "Huawei Cloud", "Oracle Cloud", "AliCloud", "Bandwagon VPS Hosting", "Tencent Cloud", "Linnode", "Vultr", "Civo", "Hetzner" ]
   Container Runtime, Orchestration, and Provision: [ "Docker", "Kata Container", "CRI-O", "Containerd", "Docker Swarm", "Rancher (k3s)", "CloudFoundry", "Kubernetes (k8s)", "OpenShift", "AWS EKS", "GKE", "OKE", "K3D", "K0S", "MiniKube", "Kind" ]
   LoadBalancer, Service Mesh Solutions, and API Gateway: [ "HAproxy", "Nginx", "Trafik", "Istio", "Linkerd", "Envoy", "Consul", "Kong", "Cilium Sidecarless Service Mesh" ]
