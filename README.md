@@ -187,7 +187,7 @@ metadata:
   annotations:
     api.hikariai.net/tracks: [ "Linux", "AWS", "DevSecOps", "Networking", "Cybersecurity", "Serverless Computing", "CloudNative", "Kubernetes" ]
 spec:
-  AWS: [ "S3", "EBS", "EFS", "VPC", "VPCE", "Private Link", "Direct Link", "VPC Peering", "API Gateway", "EKS", "ECS", "EC2", "Route 53", "StepFunction", "Lambda", "RDS", "Aurora", "DynamoDB", "CloudFront", "TransitGateway", "CloudWatch", "QuickSight", "RedShift", "SNS", "SQS", "OpenSearch", "KinesisDataStream", "KinesisDataFirehose", "ElasticCache", "WAF", "Cognito", "EventBridge", "GuardDuty", "CloudTrail", "Inspector", "CloudFormation" ]
+  AWS: [ "IAM", "S3", "EBS", "EFS", "VPC", "VPCE", "PrivateLink", "DirectLink", "VPCPeering", "APIGateway", "EKS", "ECS", "EC2", "Route 53", "StepFunction", "Lambda", "RDS", "Aurora", "DynamoDB", "CloudFront", "TransitGateway", "CloudWatch", "QuickSight", "RedShift", "SNS", "SQS", "OpenSearch", "KinesisDataStream", "KinesisDataFirehose", "ElasticCache", "WAF", "Cognito", "EventBridge", "GuardDuty", "CloudTrail", "Inspector", "CloudFormation", "SecretManager", "Config" ]
   Web Development: [ "Flask", "Go-Gin", "NodeJS", "ExpressJS", "ReactJS", "AngularJS", "RxJS", "Yarn", "Webpack", "FastAPI" ]
   Database: [ "ETCD", "MongoDB", "MySQL", "MariaDB", "PostgreSQL", "Firestore", "InfluxDB", "Redis", "AWS DynamoDB", "AWS Aurora", "Cassandra" ]
   Storage & Distributed File System: [ "iSCSI", "NFS", "Samba", "Volume Storage", "Bucket Storage", "File Storage", "CloudNative CSI (Container Storage Interface)" ]
