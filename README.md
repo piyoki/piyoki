@@ -29,7 +29,7 @@ metadata:
       My experience and knowledge (both in heavy quotes) spans over multiple languages, my primary
       focus is DevSecOps and CloudComputing. I sometimes use Go and Python for backend development.
 
-      - 📅 Programming since 2013.
+      - 📅 Programming since 2015.
       - ⛵ Working as a Cloud Solutions Architect.
       - 🏫 Part-time CloudNative and DevSecOps mentor, forever student.
       - 🖥️ NixOS / Hyprland / Neovim
