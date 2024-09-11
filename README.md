@@ -161,6 +161,7 @@ spec:
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 ![Java](https://custom-icon-badges.herokuapp.com/badge/-Java-000?&logo=Java-lang)
 ![Shell](https://img.shields.io/badge/-Shell-000?&logo=GNOMETerminal)
 ![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
