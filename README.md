@@ -21,7 +21,7 @@ metadata:
     app: about-me
   annotations:
     api.hikariai.net/nickname: "kev"
-    api.hikariai.net/summary: "5x Cloud Certified | Senior SRE | Cloud Solutions Architect | Linux, AWS, DevSecOps, Networking, Cybersecurity, Serverless Computing, Kubernetes"
+    api.hikariai.net/summary: "6x Cloud Certified | Senior SRE | Cloud Solutions Architect | Linux, AWS, DevSecOps, Networking, Cybersecurity, Serverless Computing, Kubernetes"
     api.hikariai.net/fun-facts: [ "Linux is a must", "I use Nix BTW", "Vim Professional" ]
     api.hikariai.net/community: [ "@NixOS", "NixOS-Pilots", "knative", "@cncf", "@kubernetes", "@cilium", "@juicedata", "@techprober", "@vertexbox" ]
     api.hikariai.net/goal: "Contribute projects globally"
@@ -39,13 +39,13 @@ metadata:
 
 spec:
   certifications:
-    - [x] CKA (Certified Kubernetes Administrator), certified in 2022
-    - [x] CKAD (Certified Kubernetes Application Developer), certified in 2022
-    - [x] CKS (Certified Kubernetes Security Specialist), certified in 2023
-    - [x] AWS SAP-C02 (AWS Solution Architect Professional), certified in 2024
-    - [x] AWS SCS-C02 (AWS Security Specialty), certified in 2024
-    - [ ] AWS DOP-C02 (AWS Security Specialty), roadmap in in 2024
-    - [ ] AWS ANS-C02 (AWS Advanced Networking Specialist), roadmap in 2024
+    - [x] CKA (CNCF Certified Kubernetes Administrator), certified in 2022
+    - [x] CKAD (CNCF Certified Kubernetes Application Developer), certified in 2022
+    - [x] CKS (CNCF Certified Kubernetes Security Specialist), certified in 2023
+    - [x] AWS SAP-C02 (AWS Certified Solution Architect - Professional), certified in 2024
+    - [x] AWS SCS-C02 (AWS Certified Security Specialty), certified in 2024
+    - [x] AWS DOP-C02 (AWS Certified DevOps Engineer - Professional), certified in in 2024
+    - [ ] AWS ANS-C02 (AWS Certified Advanced Networking Specialist), roadmap in 2024
     - [ ] CCNP (Cisco Certified Network Professional), roadmap in 2025
   languanges:
     - Native in Cantonese, Mandarin
