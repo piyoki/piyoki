@@ -25,9 +25,10 @@ metadata:
     api.hikariai.net/fun-facts: [ "Linux is a must", "I use Nix BTW", "Vim Professional" ]
     api.hikariai.net/community: [ "@NixOS", "NixOS-Pilots", "@cncf", "@kubernetes", "@cilium", "@juicedata", "@techprober", "@vertexbox" ]
     api.hikariai.net/goal: "Contribute projects globally"
-    api.hikariai.net/bio: |
+spec:
+  bio: |
       My experience and knowledge (both in heavy quotes) spans over multiple languages, my primary
-      focus is DevSecOps and CloudComputing. I sometimes use Go and Python for backend development.
+      focus is DevSecOps, Serverless Computing, and CloudNative Technology.
 
       - 📅 Programming since 2015.
       - ⛵ Working as a Cloud Solutions Architect.
@@ -36,8 +37,6 @@ metadata:
       - 👨 Golang is my go-to language.
       - ❄️ NixOS remains my favorite Linux distro for personal use. I manage my own fleet of servers and virtual machines powered by it.
       - 🎲 Fun fact: for me, Linux is a must.
-
-spec:
   certifications:
     - [x] CKA (CNCF Certified Kubernetes Administrator), certified in 2022
     - [x] CKAD (CNCF Certified Kubernetes Application Developer), certified in 2022
