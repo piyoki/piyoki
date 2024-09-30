@@ -44,7 +44,7 @@ spec:
     - [x] AWS SAP-C02 (AWS Certified Solution Architect - Professional), certified in 2024
     - [x] AWS SCS-C02 (AWS Certified Security Specialty), certified in 2024
     - [x] AWS DOP-C02 (AWS Certified DevOps Engineer - Professional), certified in in 2024
-    - [ ] AWS ANS-C02 (AWS Certified Advanced Networking Specialist), roadmap in 2024
+    - [ ] AWS ANS-C02 (AWS Certified Advanced Networking Specialist), roadmap in 2025
     - [ ] CCNP (Cisco Certified Network Professional), roadmap in 2025
   languanges:
     - Native in Cantonese, Mandarin
