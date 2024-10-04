@@ -27,16 +27,16 @@ metadata:
     api.hikariai.net/goal: "Contribute projects globally"
 spec:
   bio: |
-      My experience and knowledge (both in heavy quotes) spans over multiple languages, my primary
-      focus is DevSecOps, Serverless Computing, and CloudNative Technology.
+    My experience and knowledge (both in heavy quotes) spans over multiple languages, my primary
+    focus is DevSecOps, Serverless Computing, and CloudNative Technology.
 
-      - 📅 Programming since 2015.
-      - ⛵ Working as a Cloud Solutions Architect.
-      - 🏫 Part-time CloudNative and DevSecOps mentor, forever student.
-      - 🖥️ Linux / NixOS / Hyprland /Neovim
-      - 👨 Golang is my go-to language.
-      - ❄️ NixOS remains my favorite Linux distro for personal use. I manage my own fleet of servers and virtual machines powered by it.
-      - 🎲 Fun fact: for me, Linux is a must.
+    - 📅 Programming since 2015.
+    - ⛵ Working as a Cloud Solutions Architect.
+    - 🏫 Part-time CloudNative and DevSecOps mentor, forever student.
+    - 🖥️ Linux / NixOS / Hyprland /Neovim
+    - 👨 Golang is my go-to language.
+    - ❄️ NixOS remains my favorite Linux distro for personal use. I manage my own fleet of servers and virtual machines powered by it.
+    - 🎲 Fun fact: for me, Linux is a must.
   certifications:
     - [x] CKA (CNCF Certified Kubernetes Administrator), certified in 2022
     - [x] CKAD (CNCF Certified Kubernetes Application Developer), certified in 2022
