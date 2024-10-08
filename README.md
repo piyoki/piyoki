@@ -27,7 +27,7 @@ metadata:
     api.hikariai.net/goal: "Contribute projects globally"
 spec:
   bio: |
-    My experience and knowledge (both in heavy quotes) spans over multiple languages, my primary
+    My experience and knowledge (both in heavy quotes) span over multiple languages, my primary
     focus is DevSecOps, Serverless Computing, and CloudNative Technology.
 
     - 📅 Programming since 2015.
