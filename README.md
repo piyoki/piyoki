@@ -92,7 +92,7 @@ spec:
 ![CentOS](https://img.shields.io/badge/-CentOS-000?&logo=CentOS&logoColor=green)
 ![AmazonLinux](https://img.shields.io/badge/-AmazonLinux-000?&logo=AmazonEC2)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonwebservices&logoColor=F90)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=Azure&logoColor=blue)
+![Azure](https://custom-icon-badges.herokuapp.com/badge/-Azure-000?&logo=Azure&logoColor=blue)
 ![OracleCloud](https://img.shields.io/badge/-OracleCloud-000?&logo=Oracle&logoColor=orange)
 ![GCP](https://img.shields.io/badge/-GCP-000?&logo=GoogleCloud)
 ![Proxmox](https://img.shields.io/badge/-Proxmox-000?&logo=Proxmox)
