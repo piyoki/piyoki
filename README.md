@@ -163,6 +163,8 @@ spec:
 ![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 ![Java](https://custom-icon-badges.herokuapp.com/badge/-Java-000?&logo=Java-lang)
+![C](https://img.shields.io/badge/-Clang-000?&logo=c)
+![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
 ![Shell](https://img.shields.io/badge/-Shell-000?&logo=GNOMETerminal)
 ![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
 ![Nix](https://img.shields.io/badge/-Nix-000?&logo=NixOS)
