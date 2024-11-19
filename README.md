@@ -13,18 +13,18 @@
 
 ```yaml
 ---
-apiVersion: api.hikariai.net/v1beta1
+apiVersion: api.piyoki.me/v1beta1
 kind: Bio
 metadata:
   name: about-me
   labels:
     app: about-me
   annotations:
-    api.hikariai.net/nickname: "kev"
-    api.hikariai.net/summary: "6x Cloud Certified | Senior SRE | Cloud Solutions Architect | Linux, AWS, DevSecOps, Networking, Cybersecurity, Serverless Computing, Kubernetes"
-    api.hikariai.net/fun-facts: [ "Linux is a must", "I use Nix BTW", "Vim Professional" ]
-    api.hikariai.net/community: [ "@NixOS", "NixOS-Pilots", "@cncf", "@kubernetes", "@cilium", "@juicedata", "@techprober", "@vertexbox" ]
-    api.hikariai.net/goal: "Contribute projects globally"
+    api.piyoki.me/nickname: "kev"
+    api.piyoki.me/summary: "6x Cloud Certified | Senior SRE | Cloud Solutions Architect | Linux, AWS, DevSecOps, Networking, Cybersecurity, Serverless Computing, Kubernetes"
+    api.piyoki.me/fun-facts: [ "Linux is a must", "I use Nix BTW", "Vim Professional" ]
+    api.piyoki.me/community: [ "@NixOS", "NixOS-Pilots", "@cncf", "@kubernetes", "@cilium", "@juicedata", "@techprober", "@vertexbox" ]
+    api.piyoki.me/goal: "Contribute projects globally"
 spec:
   bio: |
     My experience and knowledge (both in heavy quotes) span over multiple languages, my primary
