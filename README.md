@@ -186,11 +186,11 @@ spec:
 apiVersion: api.piyoki.me/v1beta1
 kind: Skillset
 metadata:
-  name: my-skillset
+  name: skillset
   labels:
-    app: my-skillset
+    app: skillset
   annotations:
-    api.piyoki.me/tracks: [ "Linux", "AWS", "DevSecOps", "Networking", "Cybersecurity", "Serverless Computing", "CloudNative", "Kubernetes" ]
+    api.piyoki.me/focus: [ "Linux", "AWS", "DevSecOps", "Networking", "Cybersecurity", "Serverless Computing", "CloudNative", "Kubernetes" ]
 spec:
   skills:
     AWS: [ "IAM", "S3", "EBS", "EFS", "VPC", "VPCE", "PrivateLink", "DirectLink", "VPCPeering", "APIGateway", "EKS", "ECS", "EC2", "Route 53", "StepFunction", "Lambda", "RDS", "Aurora", "DynamoDB", "CloudFront", "TransitGateway", "CloudWatch", "QuickSight", "RedShift", "SNS", "SQS", "OpenSearch", "KinesisDataStream", "KinesisDataFirehose", "ElasticCache", "WAF", "Cognito", "EventBridge", "GuardDuty", "CloudTrail", "Inspector", "CloudFormation", "SecretManager", "Config" ]
