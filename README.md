@@ -34,7 +34,7 @@ spec:
     - ⛵ Working as a Cloud Solutions Architect.
     - 🏫 Part-time DevSecOps mentor, forever student.
     - 🖥️ Linux | NixOS | Hyprland | Neovim
-    - 🏎️ Golang is my go-to language.
+    - 🏎️ Golang and Rust are my go-to languages.
     - ❄️ NixOS remains my favorite Linux distro for personal use. I manage my own fleet of servers and virtual machines powered by it.
     - 🎲 Fun fact: for me, Linux is a must.
   certifications:
