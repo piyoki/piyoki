@@ -47,7 +47,8 @@ spec:
     - [ ] AWS ANS-C02 (AWS Certified Advanced Networking Specialist), roadmap in 2025
     - [ ] PCA (Prometheus Certified Associate), roadmap in 2025
     - [ ] TAOP (Terraform Authoring and Operations Professional), roadmap in 2025
-    - [ ] CCNP (Cisco Certified Network Professional), roadmap in 2025
+    - [ ] PMP (Project Management Professional), roadmap in 2025
+    - [ ] CCNP (Cisco Certified Network Professional), roadmap in 2026
   languanges:
     - Native in Cantonese, Mandarin
     - Fluent in English
