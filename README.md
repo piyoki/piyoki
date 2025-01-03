@@ -219,10 +219,10 @@ spec:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2024 - To: 01 January 2025
+From: 26 December 2024 - To: 02 January 2025
 
-Nix                     ███████████████████████▒░   93.49 %
-Other                   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+Nix                     ██████████████████████░░░   88.24 %
+Other                   ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
 ```
 
 <!--END_SECTION:waka-->
