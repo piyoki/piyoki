@@ -35,7 +35,8 @@ spec:
     - 🏫 Part-time DevSecOps mentor, forever student.
     - 🖥️ Linux | NixOS | Hyprland | Neovim
     - 🏎️ Golang and Rust are my go-to languages.
-    - ❄️ NixOS remains my favorite Linux distro for personal use. I manage my own fleet of servers and virtual machines powered by it.
+    - ❄️ NixOS remains my favorite Linux distro for personal use.
+    - ☁️ I manage my own fleet of dedicated Linux servers and virtual machines on-premises and on the cloud.
     - 🎲 Fun fact: for me, Linux is a must.
   certifications:
     - [x] CKA (CNCF Certified Kubernetes Administrator), certified in 2022
