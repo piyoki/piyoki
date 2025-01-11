@@ -45,7 +45,7 @@ spec:
     - [x] AWS SAP-C02 (AWS Certified Solution Architect - Professional), certified in 2024
     - [x] AWS SCS-C02 (AWS Certified Security Specialty), certified in 2024
     - [x] AWS DOP-C02 (AWS Certified DevOps Engineer - Professional), certified in 2024
-    - [x] AWS ANS-C02 (AWS Certified Advanced Networking Specialist), certified in 2025
+    - [x] AWS ANS-C02 (AWS Certified Advanced Networking Specialty), certified in 2025
     - [ ] PMP (Project Management Professional), roadmap in 2025
     - [ ] PCA (Prometheus Certified Associate), roadmap in 2025
     - [ ] TAOP (Terraform Authoring and Operations Professional), roadmap in 2025
