@@ -37,7 +37,7 @@ spec:
     - 🏎️ Golang and Rust are my go-to languages.
     - ❄️ NixOS remains my favorite Linux distro for personal use.
     - ☁️ I manage my own fleet of dedicated Linux servers and virtual machines on-premises and on the cloud.
-    - 🎲 Fun fact: for me, Linux is a must.
+    - 🎲 For me, Linux is a must.
   certifications:
     - [x] CKA (CNCF Certified Kubernetes Administrator), certified in 2022
     - [x] CKAD (CNCF Certified Kubernetes Application Developer), certified in 2022
