@@ -46,6 +46,7 @@ spec:
     - [x] AWS SCS-C02 (AWS Certified Security Specialty), certified in 2024
     - [x] AWS DOP-C02 (AWS Certified DevOps Engineer - Professional), certified in 2024
     - [x] AWS ANS-C02 (AWS Certified Advanced Networking Specialty), certified in 2025
+    - [ ] AWS MLS-C01 (AWS Certified Machine Learning Specialty), roadmap in 2025
     - [ ] PMP (Project Management Professional), roadmap in 2025
     - [ ] CCNP (Cisco Certified Network Professional), roadmap in 2026
   languanges:
