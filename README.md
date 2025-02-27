@@ -21,7 +21,7 @@ metadata:
     app: about-me
   annotations:
     api.piyoki.me/nickname: "kev"
-    api.piyoki.me/summary: "7x Cloud Certified | Senior SRE | Cloud Solutions Architect | Linux, AWS, DevSecOps, Networking, Cybersecurity, Serverless Computing, Kubernetes"
+    api.piyoki.me/summary: "7x Cloud Certified | Cloud Solutions Architect | Senior SRE | Linux, AWS, DevSecOps, Networking, Cybersecurity, Serverless Computing, Kubernetes"
     api.piyoki.me/fun-facts: [ "Linux is a must", "I use Nix BTW", "Vim Professional" ]
     api.piyoki.me/community: [ "@NixOS", "NixOS-Pilots", "@cncf", "@kubernetes", "@cilium", "@juicedata", "@techprober", "@vertexbox" ]
     api.piyoki.me/goal: "Contribute projects globally"
