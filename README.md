@@ -38,6 +38,7 @@ spec:
     - ❄️ NixOS remains my favorite Linux distro for personal use.
     - ☁️ I manage my own fleet of dedicated Linux servers and virtual machines on-premises and on the cloud.
     - 🎲 For me, Linux is a must.
+    - 👨🏼‍🚀 I am a typical ENTJ-A type of person.
   certifications:
     - [x] CKA (CNCF Certified Kubernetes Administrator), certified in 2022
     - [x] CKAD (CNCF Certified Kubernetes Application Developer), certified in 2022
