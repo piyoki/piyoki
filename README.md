@@ -21,7 +21,7 @@ metadata:
     app: about-me
   annotations:
     api.piyoki.me/nickname: "kev"
-    api.piyoki.me/summary: "7x Cloud Certified | Cloud Solutions Architect | Senior SRE | Linux, AWS, DevSecOps, Networking, Cybersecurity, Serverless Computing, Kubernetes"
+    api.piyoki.me/summary: "8x Cloud Certified | Cloud Solutions Architect | Senior SRE | Linux, AWS, DevSecOps, Networking, Cybersecurity, Serverless Computing, Kubernetes"
     api.piyoki.me/fun-facts: [ "Linux is a must", "I use Nix BTW", "Vim Professional" ]
     api.piyoki.me/community: [ "@NixOS", "NixOS-Pilots", "@cncf", "@kubernetes", "@cilium", "@juicedata", "@techprober", "@vertexbox" ]
     api.piyoki.me/goal: "Contribute projects globally"
@@ -46,7 +46,7 @@ spec:
     - [x] AWS SCS-C02 (AWS Certified Security Specialty), certified in 2024
     - [x] AWS DOP-C02 (AWS Certified DevOps Engineer - Professional), certified in 2024
     - [x] AWS ANS-C02 (AWS Certified Advanced Networking Specialty), certified in 2025
-    - [ ] AWS MLS-C01 (AWS Certified Machine Learning Specialty), roadmap in 2025
+    - [x] AWS MLS-C01 (AWS Certified Machine Learning Specialty), certified in 2025
     - [ ] PMP (Project Management Professional), roadmap in 2025
     - [ ] CCNP (Cisco Certified Network Professional), roadmap in 2026
   languanges:
@@ -69,6 +69,7 @@ spec:
 
 ## Certifications
 
+<img src="https://github.com/user-attachments/assets/78bd1572-a9db-43bb-89b6-98b8d0737f29" border="0" width="100px">
 <img src="https://github.com/user-attachments/assets/82f54569-0821-46da-a82b-7f5468b08b05" border="0" width="100px">
 <img src="https://github.com/user-attachments/assets/eab76e54-eb17-4d0c-a136-5373812f2181" border="0" width="100px">
 <img src="https://github.com/piyoki/piyoki/assets/31861128/e4716a48-03e9-4f25-968b-5088c7408e6e" border="0" width="100px">
