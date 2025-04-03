@@ -29,7 +29,6 @@ spec:
   bio: |
     My experience and knowledge (both in heavy quotes) span over multiple areas of technology, my primary
     focus is DevSecOps, Serverless Computing, and CloudNative technology.
-
     - 📅 Programming since 2015.
     - ⛵ Working as a Cloud Solutions Architect.
     - 🏫 Part-time DevSecOps mentor, forever student.
