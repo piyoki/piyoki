@@ -22,7 +22,7 @@ metadata:
   annotations:
     api.piyoki.me/nickname: "kev"
     api.piyoki.me/summary: "8x Cloud Certified | Cloud Solutions Architect | Senior SRE | Linux, AWS, DevSecOps, Networking, Cybersecurity, Serverless Computing, Kubernetes"
-    api.piyoki.me/fun-facts: [ "Linux is a must", "I use Nix BTW", "Vim Professional" ]
+    api.piyoki.me/fun-facts: [ "Linux is a must", "I use Nix BTW", "Vim Professional", "ENTJ-A" ]
     api.piyoki.me/community: [ "@NixOS", "NixOS-Pilots", "@cncf", "@kubernetes", "@cilium", "@juicedata", "@techprober", "@vertexbox" ]
     api.piyoki.me/goal: "Contribute projects globally"
 spec:
@@ -37,7 +37,6 @@ spec:
     - ❄️ NixOS remains my favorite Linux distro for personal use.
     - ☁️ I manage my own fleet of dedicated Linux servers and virtual machines on-premises and on the cloud.
     - 🎲 For me, Linux is a must.
-    - 👨🏼‍🚀 I am a typical ENTJ-A type of person.
   certifications:
     - [x] CKA (CNCF Certified Kubernetes Administrator), certified in 2022
     - [x] CKAD (CNCF Certified Kubernetes Application Developer), certified in 2022
