@@ -219,13 +219,9 @@ spec:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2025 - To: 12 June 2025
+From: 06 June 2025 - To: 13 June 2025
 
-Lua                        ██████████████████▓░░░░░░   74.77 %
-Nix                        █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
-Other                      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-Makefile                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-JSON                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
