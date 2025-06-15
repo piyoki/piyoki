@@ -46,17 +46,18 @@ spec:
     - [x] AWS DOP-C02 (AWS Certified DevOps Engineer - Professional), certified in 2024
     - [x] AWS ANS-C02 (AWS Certified Advanced Networking Specialty), certified in 2025
     - [x] AWS MLS-C01 (AWS Certified Machine Learning Specialty), certified in 2025
-    - [ ] PMP (Project Management Professional), roadmap in 2025
+    - [ ] PMP (Project Management Professional), roadmap in 2026
     - [ ] CCNP (Cisco Certified Network Professional), roadmap in 2026
   languanges:
     - Native in Cantonese, Mandarin
     - Fluent in English
     - Proficient in Japanese
   skills:
-    core: [ "Linux", "Enterprise Cloud Solution", "Enterprise Storage Solution", "Enterprise Integrated Compliance Firewall", "IT Security", "Advanced Networking", "Enterprise SD-WAN Solution" ]
-    cloud: [ "AWS", "GCP", "Oracle Cloud", "Azure", "Proxmox VE", "VMware vCenter" ]
-    devops: [ "Platform Engineering, "Containerization", "Kubernetes", "CloudNative", "DevSecOps", "GitOps", "Serverless" ]
-    business: [ "Technical Writing", "Public Speaking", "Advocacy and Outreach", "Host Events" ]
+    Core: [ "Linux", "Enterprise Cloud Solution", "Enterprise Storage Solution", "Enterprise Integrated Compliance Firewall", "IT Security", "Advanced Networking", "Enterprise SD-WAN Solution" ]
+    ML: [ "MLOps", "Data Pipeline", "Feature Engineering", "Regression", "Reinforece Learning", "Transfer Learning", "Federated Learning", "Deep Learning", "Topic Modeling", "NLP", "Clustering", "Classification", "Computer Vision" ]
+    Cloud: [ "AWS", "GCP", "Oracle Cloud", "Azure", "Proxmox VE", "VMware vCenter" ]
+    Devops: [ "Platform Engineering, "Containerization", "Kubernetes", "CloudNative", "DevSecOps", "GitOps", "Serverless" ]
+    Business: [ "Technical Writing", "Public Speaking", "Advocacy and Outreach", "Events Hosting" ]
 ```
 
 ✅ Goals: Contribute more to open-source projects
