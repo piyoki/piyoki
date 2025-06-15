@@ -27,8 +27,8 @@ metadata:
     api.piyoki.me/goal: "Contribute projects globally"
 spec:
   bio: |
-    My experience and knowledge (both in heavy quotes) span over multiple areas of technology, my primary
-    focus is DevSecOps, Serverless Computing, and CloudNative technology.
+    My experience and knowledge (both in heavy quotes) span over multiple areas of technology.
+    My primary focus is DevSecOps, Kubernetes, Distributed System, MLOps, Serverless Computing, and CloudNative technology.
     - 📅 Programming since 2015.
     - ⛵ Working as a Cloud Solutions Architect.
     - 🏫 Part-time DevSecOps mentor, forever student.
@@ -195,7 +195,7 @@ metadata:
     api.piyoki.me/focus: [ "Linux", "AWS", "DevSecOps", "Networking", "Cybersecurity", "Serverless Computing", "CloudNative", "Kubernetes" ]
 spec:
   skills:
-    AWS: [ "IAM", "S3", "EBS", "EFS", "VPC", "VPCE", "PrivateLink", "DirectLink", "VPCPeering", "APIGateway", "EKS", "ECS", "EC2", "Route 53", "StepFunction", "Lambda", "RDS", "Aurora", "DynamoDB", "CloudFront", "TransitGateway", "CloudWatch", "QuickSight", "RedShift", "SNS", "SQS", "OpenSearch", "KinesisDataStream", "KinesisDataFirehose", "ElasticCache", "WAF", "Cognito", "EventBridge", "GuardDuty", "CloudTrail", "Inspector", "CloudFormation", "SecretManager", "Config" ]
+    AWS: [ "IAM", "S3", "EBS", "EFS", "VPC", "VPCE", "PrivateLink", "VPCPeering", "APIGateway", "EKS", "ECS", "EC2", "Route53", "StepFunction", "Lambda", "RDS", "Aurora", "DynamoDB", "CloudFront", "TransitGateway", "CloudWatch", "QuickSight", "RedShift", "SNS", "SQS", "OpenSearch", "KinesisDataStream", "KinesisDataFirehose", "ElasticCache", "WAF", "Cognito", "EventBridge", "GuardDuty", "CloudTrail", "Inspector", "CloudFormation", "SecretManager", "Config", "SageMaker", "KinesisDataAnalytics" ]
     Web Development: [ "Flask", "Go-Gin", "NodeJS", "ExpressJS", "ReactJS", "AngularJS", "RxJS", "Yarn", "Webpack", "FastAPI" ]
     Database: [ "ETCD", "MongoDB", "MySQL", "MariaDB", "PostgreSQL", "Firestore", "InfluxDB", "Redis", "AWS DynamoDB", "AWS Aurora", "Cassandra" ]
     Storage & Distributed File System: [ "iSCSI", "NFS", "Samba", "Volume Storage", "Bucket Storage", "File Storage", "CloudNative CSI (Container Storage Interface)" ]
