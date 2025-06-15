@@ -21,7 +21,7 @@ metadata:
     app: about-me
   annotations:
     api.piyoki.me/nickname: "kev"
-    api.piyoki.me/summary: "8x Cloud Certified | Cloud Solutions Architect | Senior SRE | Linux, AWS, DevSecOps, Networking, Cybersecurity, Serverless Computing, Kubernetes"
+    api.piyoki.me/summary: "8x Cloud Certified | Cloud Solutions Architect | Senior SRE | Linux, AWS, DevSecOps, MLOps, Networking, Cybersecurity, Serverless Computing, Kubernetes, Distributed System"
     api.piyoki.me/fun-facts: [ "Linux is a must", "I use Nix BTW", "Vim Professional", "ENTJ-A" ]
     api.piyoki.me/community: [ "@NixOS", "NixOS-Pilots", "@cncf", "@kubernetes", "@cilium", "@juicedata", "@techprober", "@vertexbox" ]
     api.piyoki.me/goal: "Contribute projects globally"
@@ -56,7 +56,7 @@ spec:
     Core: [ "Linux", "Enterprise Cloud Solution", "Enterprise Storage Solution", "Enterprise Integrated Compliance Firewall", "IT Security", "Advanced Networking", "Enterprise SD-WAN Solution" ]
     ML: [ "MLOps", "Data Pipeline", "Feature Engineering", "Regression", "Reinforece Learning", "Transfer Learning", "Federated Learning", "Deep Learning", "Topic Modeling", "NLP", "Clustering", "Classification", "Computer Vision" ]
     Cloud: [ "AWS", "GCP", "Oracle Cloud", "Azure", "Proxmox VE", "VMware vCenter" ]
-    Devops: [ "Platform Engineering, "Containerization", "Kubernetes", "CloudNative", "DevSecOps", "GitOps", "Serverless" ]
+    DevOps: [ "Platform Engineering, "Containerization", "Kubernetes", "CloudNative", "DevSecOps", "GitOps", "Serverless" ]
     Business: [ "Technical Writing", "Public Speaking", "Advocacy and Outreach", "Events Hosting" ]
 ```
 
