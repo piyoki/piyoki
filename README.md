@@ -46,8 +46,8 @@ spec:
     - [x] AWS DOP-C02 (AWS Certified DevOps Engineer - Professional), certified in 2024
     - [x] AWS ANS-C02 (AWS Certified Advanced Networking Specialty), certified in 2025
     - [x] AWS MLS-C01 (AWS Certified Machine Learning Specialty), certified in 2025
-    - [ ] The Open Group Certified: Applied TOGAF® Enterprise Architecture Practitioner, roadmap in 2025
-    - [ ] The Open Group Certified: TOGAF® Enterprise Architecture Leader, roadmap in 2025
+    - [ ] The Open Group Certified - Applied TOGAF® Enterprise Architecture Practitioner, roadmap in 2025
+    - [ ] The Open Group Certified - TOGAF® Enterprise Architecture Leader, roadmap in 2025
   languanges:
     - Native in Cantonese, Mandarin
     - Fluent in English
