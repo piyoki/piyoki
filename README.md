@@ -21,7 +21,7 @@ metadata:
     app: about-me
   annotations:
     api.piyoki.me/nickname: "kev"
-    api.piyoki.me/summary: "8x Cloud Certified | Cloud Solutions Architect | Senior SRE | Linux, AWS, DevSecOps, MLOps, Networking, Cybersecurity, Serverless Computing, Kubernetes, Distributed System"
+    api.piyoki.me/summary: "8x Certified | Cloud Solutions Architect | Senior SRE | Linux, AWS, DevSecOps, MLOps, Networking, Cybersecurity, Serverless Computing, Kubernetes, Distributed System"
     api.piyoki.me/fun-facts: [ "Linux is a must", "I use Nix BTW", "Vim Professional", "ENTJ-A" ]
     api.piyoki.me/community: [ "@NixOS", "NixOS-Pilots", "@cncf", "@kubernetes", "@cilium", "@juicedata", "@techprober", "@vertexbox" ]
     api.piyoki.me/goal: "Contribute projects globally"
@@ -46,8 +46,8 @@ spec:
     - [x] AWS DOP-C02 (AWS Certified DevOps Engineer - Professional), certified in 2024
     - [x] AWS ANS-C02 (AWS Certified Advanced Networking Specialty), certified in 2025
     - [x] AWS MLS-C01 (AWS Certified Machine Learning Specialty), certified in 2025
-    - [ ] PMP (Project Management Professional), roadmap in 2026
-    - [ ] CCNP (Cisco Certified Network Professional), roadmap in 2026
+    - [ ] The Open Group Certified: Applied TOGAF® Enterprise Architecture Practitioner, roadmap in 2025
+    - [ ] The Open Group Certified: TOGAF® Enterprise Architecture Leader, roadmap in 2025
   languanges:
     - Native in Cantonese, Mandarin
     - Fluent in English
