@@ -48,7 +48,7 @@ spec:
     - [x] AWS MLS-C01 (AWS Certified Machine Learning Specialty), certified in 2025
     - [x] Applied TOGAF® Certified Enterprise Architecture Practitioner, certified in 2025
     - [x] TOGAF® Certified Enterprise Architecture Leader, vertified in 2025
-    - [ ] Project Management Professional (PMP)®, roadmap in 2026
+    - [ ] Project Management Professional (PMP)®, roadmap in 2027
   languanges:
     - Native in Cantonese, Mandarin
     - Fluent in English
