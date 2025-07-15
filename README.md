@@ -205,7 +205,7 @@ spec:
     Storage & Distributed File System: [ "iSCSI", "NFS", "Samba", "Volume Storage", "Bucket Storage", "File Storage", "CloudNative CSI (Container Storage Interface)" ]
     DevOps, Release, and GitOps: [ "Platform Engineering", "CI (Continuous Integration)", "CD (Continuous Deployment)", "CO (Continuous Operation)", "ChatOps", "GitHub Actions", "Jenkins", "CircleCI", "Tekton CI", "Argo Workflow", "Weaveworks", "Jenkins X", "Argo Events", "Argo Workflow", "Image Updater", "ArgoCD", "FluxCD", "Flagger", "Rancher Fleet", "Ansible Tower", "AWX", "Progressive Delivery", "Blue/Green Deployment", "Canary Deployment" ]
     Networking and Firewall: [ "L2/L3/L4/L7 TCP/IP Networking Fundamentals", "VLAN", "Pfsense", "OPNSense", "Sophos-XG-Firewall", "Cloud Router", "IPS", "DDoS Protection", "CDN", "Proxy Tunnel", "SD-WAN Solution" ]
-    Infrastructure as Code, Template as Code, and Configuration as Code: [ "Pulumi", "CrossPlane", "Terraform", "Terragrunt", "Packer", "Cloud-init", "Ansible", "LXC" ]
+    Infrastructure as Code, X as Code: [ "Pulumi", "CrossPlane", "Terraform", "Terragrunt", "Packer", "Cloud-init", "Ansible", "LXC" ]
     Serverless or FaaS: [ "Fn", "Oracle Functions", "Google Cloud Functions", "AWS Lambda", "Vercel Serverless Function", "AWS Fargate (Serverless way to launch containers)", "OpenFaaS" ]
     Pub-Sub or Message Queue: [ "RabitMQ", "MQTT", "Apache Kafka", "AWS SQS", "Redis Stream" ]
     Tracing, Monitoring, and Logging: [ "OpeneTelemetry", "Prometheus", "Kiali", "Grafana", "Loki", "ELK Stack (ElasticSearch)", "Fluentd", "Fluentbit" ]
