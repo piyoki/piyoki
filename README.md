@@ -224,10 +224,9 @@ spec:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 July 2025 - To: 17 July 2025
+From: 11 July 2025 - To: 18 July 2025
 
-Nix                     ████████████████████████▓   98.08 %
-Other                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Nix                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
