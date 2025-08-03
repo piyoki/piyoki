@@ -48,8 +48,8 @@ spec:
     - [x] AWS MLS-C01 (AWS Certified Machine Learning Specialty), certified in 2025
     - [x] Applied TOGAF® Certified Enterprise Architecture Practitioner, certified in 2025
     - [x] TOGAF® Certified Enterprise Architecture Leader, vertified in 2025
-    - [ ] CCSP (Certified Cloud Security Professional, roadmap in 2026
-    - [ ] CISSP (Certified Information Systems Security Professional), roadmap in 2026
+    - [ ] CCSP (Certified Cloud Security Professional, roadmap in 2027
+    - [ ] CISSP (Certified Information Systems Security Professional), roadmap in 2027
     - [ ] Project Management Professional (PMP)®, roadmap in 2027
   languanges:
     - Native in Cantonese, Mandarin
