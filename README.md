@@ -57,7 +57,7 @@ spec:
     - Proficient in Japanese
   skills:
     Core: [ "Linux", "Enterprise Cloud Solution", "Enterprise Storage Solution", "Enterprise Integrated Compliance Firewall", "IT Security", "Advanced Networking", "Enterprise SD-WAN Solution" ]
-    ML: [ "MLOps", "Data Pipeline", "Feature Engineering", "Regression", "Reinforece Learning", "Transfer Learning", "Federated Learning", "Deep Learning", "Topic Modeling", "NLP", "Clustering", "Classification", "Computer Vision" ]
+    ML: [ "MLOps", "Data Pipeline", "Feature Engineering", "Regression", "Reinforecement Learning", "Transfer Learning", "Federated Learning", "Deep Learning", "Topic Modeling", "NLP", "Clustering", "Classification", "Computer Vision" ]
     Cloud: [ "AWS", "GCP", "Oracle Cloud", "Azure", "Proxmox VE", "VMware vCenter" ]
     DevOps: [ "Platform Engineering, "Containerization", "Kubernetes", "CloudNative", "DevSecOps", "GitOps", "Serverless" ]
     Business: [ "Technical Writing", "Public Speaking", "Advocacy and Outreach", "Events Hosting" ]
