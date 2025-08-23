@@ -46,7 +46,7 @@ spec:
     - [x] AWS DOP-C02 (AWS Certified DevOps Engineer - Professional), certified in 2024
     - [x] AWS ANS-C02 (AWS Certified Advanced Networking Specialty), certified in 2025
     - [x] AWS MLS-C01 (AWS Certified Machine Learning Specialty), certified in 2025
-    - [x] Applied TOGAF® Certified Enterprise Architecture Practitioner, certified in 2025
+    - [x] TOGAF® Certified Enterprise Architecture Practitioner, certified in 2025
     - [x] TOGAF® Certified Enterprise Architecture Leader, vertified in 2025
     - [ ] CCSP (Certified Cloud Security Professional, roadmap in 2027
     - [ ] CISSP (Certified Information Systems Security Professional), roadmap in 2027
