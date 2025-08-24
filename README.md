@@ -73,7 +73,7 @@ spec:
 ## Certifications
 
 <img src="https://github.com/user-attachments/assets/74ef8ef7-625b-4a26-972c-bc546e86b1a3" border="0" width="100px">
-<img src="https://github.com/user-attachments/assets/8e23a1e2-26c0-4133-a865-431d76c0ff7a" border="0" width="100px">
+<img src="https://github.com/user-attachments/assets/eb9def0b-3131-42e9-9834-6cc9cb81a0b7" border="0" width="100px">
 <img src="https://github.com/user-attachments/assets/78bd1572-a9db-43bb-89b6-98b8d0737f29" border="0" width="100px">
 <img src="https://github.com/user-attachments/assets/82f54569-0821-46da-a82b-7f5468b08b05" border="0" width="100px">
 <img src="https://github.com/user-attachments/assets/eab76e54-eb17-4d0c-a136-5373812f2181" border="0" width="100px">
