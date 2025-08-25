@@ -38,9 +38,9 @@ spec:
     - ☁️ I manage my own fleet of dedicated Linux servers and virtual machines on-premises and on the cloud.
     - 🎲 For me, Linux is a must.
   certifications:
-    - [x] CKA (CNCF Certified Kubernetes Administrator), certified in 2022
-    - [x] CKAD (CNCF Certified Kubernetes Application Developer), certified in 2022
-    - [x] CKS (CNCF Certified Kubernetes Security Specialist), certified in 2023
+    - [x] CNCF CKA (CNCF Certified Kubernetes Administrator), certified in 2022
+    - [x] CNCF CKAD (CNCF Certified Kubernetes Application Developer), certified in 2022
+    - [x] CNCF CKS (CNCF Certified Kubernetes Security Specialist), certified in 2023
     - [x] AWS SAP-C02 (AWS Certified Solution Architect - Professional), certified in 2024
     - [x] AWS SCS-C02 (AWS Certified Security Specialty), certified in 2024
     - [x] AWS DOP-C02 (AWS Certified DevOps Engineer - Professional), certified in 2024
@@ -48,9 +48,10 @@ spec:
     - [x] AWS MLS-C01 (AWS Certified Machine Learning Specialty), certified in 2025
     - [x] TOGAF® Certified Enterprise Architecture Practitioner, certified in 2025
     - [x] TOGAF® Certified Enterprise Architecture Leader, vertified in 2025
-    - [ ] CCSP (Certified Cloud Security Professional, roadmap in 2027
-    - [ ] CISSP (Certified Information Systems Security Professional), roadmap in 2027
-    - [ ] Project Management Professional (PMP)®, roadmap in 2027
+    - [ ] ISC2 CISSP (Certified Information Systems Security Professional), roadmap in 2026
+    - [ ] ISC2 CCSP (Certified Cloud Security Professional, roadmap in 2026
+    - [ ] ISC2 ISSAP – Information Systems Security Architecture Professional, roadmap in 2026
+    - [ ] Project Management Institute Project Management Professional (PMP), roadmap in 2027
   languanges:
     - Native in Cantonese, Mandarin
     - Fluent in English
