@@ -46,11 +46,11 @@ spec:
     - [x] AWS DOP-C02 (AWS Certified DevOps Engineer - Professional), certified in 2024
     - [x] AWS ANS-C02 (AWS Certified Advanced Networking Specialty), certified in 2025
     - [x] AWS MLS-C01 (AWS Certified Machine Learning Specialty), certified in 2025
-    - [x] TOGAF® Certified Enterprise Architecture Practitioner, certified in 2025
-    - [x] TOGAF® Certified Enterprise Architecture Leader, vertified in 2025
-    - [ ] ISC2 CISSP (Certified Information Systems Security Professional), roadmap in 2026
-    - [ ] ISC2 CCSP (Certified Cloud Security Professional, roadmap in 2026
-    - [ ] ISC2 ISSAP – Information Systems Security Architecture Professional, roadmap in 2026
+    - [x] The Open Group TOGAF® Certified Enterprise Architecture Practitioner, certified in 2025
+    - [x] The Open Group TOGAF® Certified Enterprise Architecture Leader, vertified in 2025
+    - [ ] ISC2 CISSP (ISC2 Certified Information Systems Security Professional), roadmap in 2026
+    - [ ] ISC2 CCSP (ISC2 Certified Cloud Security Professional), roadmap in 2026
+    - [ ] ISC2 ISSAP (ISC2 Certified Information Systems Security Architecture Professional), roadmap in 2026
     - [ ] Project Management Institute Project Management Professional (PMP), roadmap in 2027
   languanges:
     - Native in Cantonese, Mandarin
