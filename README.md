@@ -204,6 +204,7 @@ spec:
   skills:
     AWS: [ "IAM", "S3", "EBS", "EFS", "VPC", "VPCE", "PrivateLink", "VPCPeering", "APIGateway", "EKS", "ECS", "EC2", "Route53", "StepFunction", "Lambda", "RDS", "Aurora", "DynamoDB", "CloudFront", "TransitGateway", "CloudWatch", "QuickSight", "RedShift", "SNS", "SQS", "OpenSearch", "KinesisDataStream", "KinesisDataFirehose", "ElasticCache", "WAF", "Cognito", "EventBridge", "GuardDuty", "CloudTrail", "Inspector", "CloudFormation", "SecretManager", "Config", "SageMaker", "KinesisDataAnalytics" ]
     Web Development: [ "Flask", "Go-Gin", "NodeJS", "ExpressJS", "ReactJS", "AngularJS", "RxJS", "Yarn", "Webpack", "FastAPI" ]
+    Mobile Development: [ "React Native" ]
     Database: [ "ETCD", "MongoDB", "MySQL", "MariaDB", "PostgreSQL", "Firestore", "InfluxDB", "Redis", "AWS DynamoDB", "AWS Aurora", "Cassandra" ]
     Storage & Distributed File System: [ "iSCSI", "NFS", "Samba", "Volume Storage", "Bucket Storage", "File Storage", "CloudNative CSI (Container Storage Interface)" ]
     DevOps, Release, and GitOps: [ "Platform Engineering", "CI (Continuous Integration)", "CD (Continuous Deployment)", "CO (Continuous Operation)", "ChatOps", "GitHub Actions", "Jenkins", "CircleCI", "Tekton CI", "Argo Workflow", "Weaveworks", "Jenkins X", "Argo Events", "Argo Workflow", "Image Updater", "ArgoCD", "FluxCD", "Flagger", "Rancher Fleet", "Ansible Tower", "AWX", "Progressive Delivery", "Blue/Green Deployment", "Canary Deployment" ]
