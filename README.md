@@ -73,6 +73,7 @@ spec:
 
 ## Certifications
 
+<img src="https://github.com/user-attachments/assets/6e4c1883-df5e-43ba-9e2e-0ae563a1f193" border="0" width="100px">
 <img src="https://github.com/user-attachments/assets/74ef8ef7-625b-4a26-972c-bc546e86b1a3" border="0" width="100px">
 <img src="https://github.com/user-attachments/assets/eb9def0b-3131-42e9-9834-6cc9cb81a0b7" border="0" width="100px">
 <img src="https://github.com/user-attachments/assets/78bd1572-a9db-43bb-89b6-98b8d0737f29" border="0" width="100px">
@@ -83,6 +84,8 @@ spec:
 <img src="https://github.com/piyoki/piyoki/assets/31861128/e58fb540-b365-4123-a752-009370fa9994" border="0" width="100px">
 <img src="https://github.com/piyoki/piyoki/assets/31861128/28767e55-3583-4cf5-83bc-5e94b71984f1" border="0" width="100px">
 <img src="https://github.com/piyoki/piyoki/assets/31861128/77a2d702-4b79-4eb2-92b5-d8ff13274797" border="0" width="100px">
+<img src="https://github.com/user-attachments/assets/3de9283e-ac79-49f3-84b7-163a4fea6cf1" border="0" width="100px">
+<img src="https://github.com/user-attachments/assets/06a08bdb-f710-470a-9078-a48583c653cc" border="0" width="100px">
 
 ## Skills
 
