@@ -47,7 +47,10 @@ spec:
     - [x] AWS ANS-C02 (AWS Certified Advanced Networking Specialty), certified in 2025
     - [x] AWS MLS-C01 (AWS Certified Machine Learning Specialty), certified in 2025
     - [x] The Open Group TOGAF® Certified Enterprise Architecture Practitioner, certified in 2025
-    - [x] The Open Group TOGAF® Certified Enterprise Architecture Leader, vertified in 2025
+    - [x] The Open Group TOGAF® Certified Enterprise Architecture Leader, certified in 2025
+    - [x] CNCF KCNA (CNCF Certified Kubernetes and Cloud Native Associate), certified in 2025
+    - [x] CNCF KCSA (CNCF Certified Kubernetes and Cloud Native Security Associate), certified in 2025
+    - [x] CNCF Kubestronaut (Individuals who have successfully passed every CNCF Kubernetes certification), certified in 2025
     - [ ] ISC2 CISSP (ISC2 Certified Information Systems Security Professional), roadmap in 2026
     - [ ] ISC2 CCSP (ISC2 Certified Cloud Security Professional), roadmap in 2026
     - [ ] ISC2 ISSAP (ISC2 Certified Information Systems Security Architecture Professional), roadmap in 2026
