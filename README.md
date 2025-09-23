@@ -21,7 +21,7 @@ metadata:
     app: about-me
   annotations:
     api.piyoki.me/nickname: "kev"
-    api.piyoki.me/summary: "10x Certified | Cloud Solutions Architect | Linux, AWS, DevSecOps, MLOps, Networking, Cybersecurity, Serverless Computing, Kubernetes, Distributed System"
+    api.piyoki.me/summary: "Cloud Solutions Architect | 13x Certified | CNCF Kubestronaut | Linux, AWS, DevSecOps, MLOps, Networking, Cybersecurity, Serverless Computing, Kubernetes, Distributed System"
     api.piyoki.me/fun-facts: [ "Linux is a must", "I use Nix BTW", "Vim Professional", "ENTJ-A" ]
     api.piyoki.me/community: [ "@NixOS", "NixOS-Pilots", "@cncf", "@kubernetes", "@cilium", "@juicedata", "@techprober", "@vertexbox" ]
     api.piyoki.me/goal: "Contribute projects globally"
@@ -73,6 +73,9 @@ spec:
 
 ## Certifications
 
+<img src="https://github.com/user-attachments/assets/155c1ce0-54d9-45fe-bdd0-27b82719c235" border="0" width="100px">
+<img src="https://github.com/user-attachments/assets/c4af29c5-535c-44af-96f0-13fd6e8cae02" border="0" width="100px">
+<img src="https://github.com/user-attachments/assets/e2478b48-d347-48eb-9693-5edaeccf591c" border="0" width="100px">
 <img src="https://github.com/user-attachments/assets/74ef8ef7-625b-4a26-972c-bc546e86b1a3" border="0" width="100px">
 <img src="https://github.com/user-attachments/assets/eb9def0b-3131-42e9-9834-6cc9cb81a0b7" border="0" width="100px">
 <img src="https://github.com/user-attachments/assets/78bd1572-a9db-43bb-89b6-98b8d0737f29" border="0" width="100px">
