@@ -23,7 +23,7 @@ metadata:
     api.piyoki.me/nickname: "kev"
     api.piyoki.me/summary: "Cloud Solutions Architect | 13x Certified | CNCF Kubestronaut | Linux, AWS, DevSecOps, MLOps, Networking, Cybersecurity, Serverless Computing, Kubernetes, Distributed System"
     api.piyoki.me/fun-facts: [ "Linux is a must", "I use Nix BTW", "Vim Professional", "ENTJ-A" ]
-    api.piyoki.me/community: [ "@NixOS", "NixOS-Pilots", "@cncf", "@kubernetes", "@cilium", "@juicedata", "@techprober", "@vertexbox" ]
+    api.piyoki.me/community: [ "@NixOS", "@NixOS-Pilots", "@cncf", "@kubernetes", "@cilium", "@juicedata", "@techprober", "@vertexbox" ]
     api.piyoki.me/goal: "Contribute projects globally"
 spec:
   bio: |
