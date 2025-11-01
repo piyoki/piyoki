@@ -233,9 +233,13 @@ spec:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2025 - To: 30 October 2025
+From: 24 October 2025 - To: 31 October 2025
 
-No activity tracked
+Markdown                    ███████████████░░░░░░░░░░   60.49 %
+Go                          ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
+YAML                        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
+Nix                         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
+Other                       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
 ```
 
 <!--END_SECTION:waka-->
