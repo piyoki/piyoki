@@ -163,7 +163,6 @@ spec:
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Cassandra](https://custom-icon-badges.herokuapp.com/badge/-Cassandra-000?&logo=apache-cassandra)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![AWS DynamoDB](https://img.shields.io/badge/-AmazonDynamoDB-000?&logo=AmazonDynamoDB&logoColor=de8000)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![Minio](https://custom-icon-badges.herokuapp.com/badge/-Minio-000?&logo=minio)
 ![OpenPolicyAgent](https://custom-icon-badges.herokuapp.com/badge/-OpenPolicyAgent-000?&logo=open-policy-agent)
