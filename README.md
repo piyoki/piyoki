@@ -144,7 +144,7 @@ spec:
 ![Traefik](https://img.shields.io/badge/-Traefik-000?&logo=TraefikProxy)
 ![Cilium](https://img.shields.io/badge/-Cilium-000?&logo=Cilium)
 ![Istio](https://img.shields.io/badge/-Istio-000?&logo=Istio)
-![Envoy](https://img.shields.io/badge/-Envoy-000?&logo=Envoy)
+![Envoy](https://img.shields.io/badge/-Envoy-000?&logo=EnvoyProxy)
 ![Linkerd](https://custom-icon-badges.herokuapp.com/badge/-Linkerd-000?&logo=Linkerd)
 ![Istio](https://custom-icon-badges.herokuapp.com/badge/-Istio-000?&logo=Istio)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=RabbitMQ)
