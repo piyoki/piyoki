@@ -51,7 +51,13 @@ spec:
     - [x] CNCF KCNA (CNCF Certified Kubernetes and Cloud Native Associate), certified in 2025
     - [x] CNCF KCSA (CNCF Certified Kubernetes and Cloud Native Security Associate), certified in 2025
     - [x] CNCF Kubestronaut (Individuals who have successfully passed all CNCF Kubernetes certification), certified in 2025
-    - [x] AWS SOA-C03 (AWS Certified CloudOps Engineer - Associate), roadmap in 2026
+    - [x] AWS SOA-C03 (AWS Certified CloudOps Engineer - Associate), certified in 2026
+    - [ ] AWS DEA-C01 (AWS Certified Data Engineer - Associate), roadmap in 2026
+    - [ ] AWS MLA-C01 (AWS Certified Machine Learning Engineer - Associate), roadmap in 2026
+    - [ ] AWS DVA-C02 (AWS Certified Developer - Associate), roadmap in 2026
+    - [ ] AWS SAA-C03 (AWS Certified Solutions Architect - Associate), roadmap in 2026
+    - [ ] AWS CLF-C02 (AWS Certified Cloud Practitioner), roadmap in 2026
+    - [ ] AWS AIF-C01 (AWS Certified AI Practitioner), roadmap in 2026
     - [ ] ISC2 CISSP (ISC2 Certified Information Systems Security Professional), roadmap in 2026
     - [ ] ISC2 CCSP (ISC2 Certified Cloud Security Professional), roadmap in 2026
     - [ ] ISC2 ISSAP (ISC2 Certified Information Systems Security Architecture Professional), roadmap in 2026
