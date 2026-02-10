@@ -58,9 +58,9 @@ spec:
     - [ ] AWS SAA-C03 (AWS Certified Solutions Architect - Associate), roadmap in 2026
     - [ ] AWS CLF-C02 (AWS Certified Cloud Practitioner), roadmap in 2026
     - [ ] AWS AIF-C01 (AWS Certified AI Practitioner), roadmap in 2026
-    - [ ] ISC2 CISSP (ISC2 Certified Information Systems Security Professional), roadmap in 2026
-    - [ ] ISC2 CCSP (ISC2 Certified Cloud Security Professional), roadmap in 2026
-    - [ ] ISC2 ISSAP (ISC2 Certified Information Systems Security Architecture Professional), roadmap in 2026
+    - [ ] ISC2 CISSP (ISC2 Certified Information Systems Security Professional), roadmap in 2027
+    - [ ] ISC2 CCSP (ISC2 Certified Cloud Security Professional), roadmap in 2027
+    - [ ] ISC2 ISSAP (ISC2 Certified Information Systems Security Architecture Professional), roadmap in 2027
     - [ ] Project Management Institute Project Management Professional (PMP), roadmap in 2027
   languanges:
     - Native in Cantonese, Mandarin
