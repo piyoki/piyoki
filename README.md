@@ -50,7 +50,7 @@ spec:
     - [x] The Open Group TOGAF® Certified Enterprise Architecture Leader, certified in 2025
     - [x] CNCF KCNA (CNCF Certified Kubernetes and Cloud Native Associate), certified in 2025
     - [x] CNCF KCSA (CNCF Certified Kubernetes and Cloud Native Security Associate), certified in 2025
-    - [x] CNCF Kubestronaut (Individuals who have successfully passed all CNCF Kubernetes certification), certified in 2025
+    - [x] CNCF Kubestronaut, certified in 2025
     - [x] AWS SOA-C03 (AWS Certified CloudOps Engineer - Associate), certified in 2026
     - [ ] AWS DEA-C01 (AWS Certified Data Engineer - Associate), roadmap in 2026
     - [ ] AWS MLA-C01 (AWS Certified Machine Learning Engineer - Associate), roadmap in 2026
