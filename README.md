@@ -51,7 +51,7 @@ spec:
     - [x] CNCF KCNA (CNCF Certified Kubernetes and Cloud Native Associate), certified in 2025
     - [x] CNCF KCSA (CNCF Certified Kubernetes and Cloud Native Security Associate), certified in 2025
     - [x] CNCF Kubestronaut (Individuals who have successfully passed all CNCF Kubernetes certification), certified in 2025
-    - [ ] AWS SOA-C03 (AWS Certified CloudOps Engineer - Associate), roadmap in 2026
+    - [x] AWS SOA-C03 (AWS Certified CloudOps Engineer - Associate), roadmap in 2026
     - [ ] ISC2 CISSP (ISC2 Certified Information Systems Security Professional), roadmap in 2026
     - [ ] ISC2 CCSP (ISC2 Certified Cloud Security Professional), roadmap in 2026
     - [ ] ISC2 ISSAP (ISC2 Certified Information Systems Security Architecture Professional), roadmap in 2026
@@ -82,6 +82,7 @@ spec:
 <img src="https://github.com/user-attachments/assets/e2478b48-d347-48eb-9693-5edaeccf591c" border="0" width="100px">
 <img src="https://github.com/user-attachments/assets/74ef8ef7-625b-4a26-972c-bc546e86b1a3" border="0" width="100px">
 <img src="https://github.com/user-attachments/assets/eb9def0b-3131-42e9-9834-6cc9cb81a0b7" border="0" width="100px">
+<img src="https://github.com/user-attachments/assets/a4f07456-c077-435c-9442-ce6f39e7ecd0" border="0" width="100px">
 <img src="https://github.com/user-attachments/assets/78bd1572-a9db-43bb-89b6-98b8d0737f29" border="0" width="100px">
 <img src="https://github.com/user-attachments/assets/82f54569-0821-46da-a82b-7f5468b08b05" border="0" width="100px">
 <img src="https://github.com/user-attachments/assets/eab76e54-eb17-4d0c-a136-5373812f2181" border="0" width="100px">
